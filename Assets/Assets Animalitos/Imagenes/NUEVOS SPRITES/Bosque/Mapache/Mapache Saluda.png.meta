@@ -1,0 +1,3672 @@
+fileFormatVersion: 2
+guid: 9f72364cbb2158f45927058797ca996b
+timeCreated: 1519901099
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mapache Saluda_0
+    21300002: Mapache Saluda_1
+    21300004: Mapache Saluda_2
+    21300006: Mapache Saluda_3
+    21300008: Mapache Saluda_4
+    21300010: Mapache Saluda_5
+    21300012: Mapache Saluda_6
+    21300014: Mapache Saluda_7
+    21300016: Mapache Saluda_8
+    21300018: Mapache Saluda_9
+    21300020: Mapache Saluda_10
+    21300022: Mapache Saluda_11
+    21300024: Mapache Saluda_12
+    21300026: Mapache Saluda_13
+    21300028: Mapache Saluda_14
+    21300030: Mapache Saluda_15
+    21300032: Mapache Saluda_16
+    21300034: Mapache Saluda_17
+    21300036: Mapache Saluda_18
+    21300038: Mapache Saluda_19
+    21300040: Mapache Saluda_20
+    21300042: Mapache Saluda_21
+    21300044: Mapache Saluda_22
+    21300046: Mapache Saluda_23
+    21300048: Mapache Saluda_24
+    21300050: Mapache Saluda_25
+    21300052: Mapache Saluda_26
+    21300054: Mapache Saluda_27
+    21300056: Mapache Saluda_28
+    21300058: Mapache Saluda_29
+    21300060: Mapache Saluda_30
+    21300062: Mapache Saluda_31
+    21300064: Mapache Saluda_32
+    21300066: Mapache Saluda_33
+    21300068: Mapache Saluda_34
+    21300070: Mapache Saluda_35
+    21300072: Mapache Saluda_36
+    21300074: Mapache Saluda_37
+    21300076: Mapache Saluda_38
+    21300078: Mapache Saluda_39
+    21300080: Mapache Saluda_40
+    21300082: Mapache Saluda_41
+    21300084: Mapache Saluda_42
+    21300086: Mapache Saluda_43
+    21300088: Mapache Saluda_44
+    21300090: Mapache Saluda_45
+    21300092: Mapache Saluda_46
+    21300094: Mapache Saluda_47
+    21300096: Mapache Saluda_48
+    21300098: Mapache Saluda_49
+    21300100: Mapache Saluda_50
+    21300102: Mapache Saluda_51
+    21300104: Mapache Saluda_52
+    21300106: Mapache Saluda_53
+    21300108: Mapache Saluda_54
+    21300110: Mapache Saluda_55
+    21300112: Mapache Saluda_56
+    21300114: Mapache Saluda_57
+    21300116: Mapache Saluda_58
+    21300118: Mapache Saluda_59
+    21300120: Mapache Saluda_60
+    21300122: Mapache Saluda_61
+    21300124: Mapache Saluda_62
+    21300126: Mapache Saluda_63
+    21300128: Mapache Saluda_64
+    21300130: Mapache Saluda_65
+    21300132: Mapache Saluda_66
+    21300134: Mapache Saluda_67
+    21300136: Mapache Saluda_68
+    21300138: Mapache Saluda_69
+    21300140: Mapache Saluda_70
+    21300142: Mapache Saluda_71
+    21300144: Mapache Saluda_72
+    21300146: Mapache Saluda_73
+    21300148: Mapache Saluda_74
+    21300150: Mapache Saluda_75
+    21300152: Mapache Saluda_76
+    21300154: Mapache Saluda_77
+    21300156: Mapache Saluda_78
+    21300158: Mapache Saluda_79
+    21300160: Mapache Saluda_80
+    21300162: Mapache Saluda_81
+    21300164: Mapache Saluda_82
+    21300166: Mapache Saluda_83
+    21300168: Mapache Saluda_84
+    21300170: Mapache Saluda_85
+    21300172: Mapache Saluda_86
+    21300174: Mapache Saluda_87
+    21300176: Mapache Saluda_88
+    21300178: Mapache Saluda_89
+    21300180: Mapache Saluda_90
+    21300182: Mapache Saluda_91
+    21300184: Mapache Saluda_92
+    21300186: Mapache Saluda_93
+    21300188: Mapache Saluda_94
+    21300190: Mapache Saluda_95
+    21300192: Mapache Saluda_96
+    21300194: Mapache Saluda_97
+    21300196: Mapache Saluda_98
+    21300198: Mapache Saluda_99
+    21300200: Mapache Saluda_100
+    21300202: Mapache Saluda_101
+    21300204: Mapache Saluda_102
+    21300206: Mapache Saluda_103
+    21300208: Mapache Saluda_104
+    21300210: Mapache Saluda_105
+    21300212: Mapache Saluda_106
+    21300214: Mapache Saluda_107
+    21300216: Mapache Saluda_108
+    21300218: Mapache Saluda_109
+    21300220: Mapache Saluda_110
+    21300222: Mapache Saluda_111
+    21300224: Mapache Saluda_112
+    21300226: Mapache Saluda_113
+    21300228: Mapache Saluda_114
+    21300230: Mapache Saluda_115
+    21300232: Mapache Saluda_116
+    21300234: Mapache Saluda_117
+    21300236: Mapache Saluda_118
+    21300238: Mapache Saluda_119
+    21300240: Mapache Saluda_120
+    21300242: Mapache Saluda_121
+    21300244: Mapache Saluda_122
+    21300246: Mapache Saluda_123
+    21300248: Mapache Saluda_124
+    21300250: Mapache Saluda_125
+    21300252: Mapache Saluda_126
+    21300254: Mapache Saluda_127
+    21300256: Mapache Saluda_128
+    21300258: Mapache Saluda_129
+    21300260: Mapache Saluda_130
+    21300262: Mapache Saluda_131
+    21300264: Mapache Saluda_132
+    21300266: Mapache Saluda_133
+    21300268: Mapache Saluda_134
+    21300270: Mapache Saluda_135
+    21300272: Mapache Saluda_136
+    21300274: Mapache Saluda_137
+    21300276: Mapache Saluda_138
+    21300278: Mapache Saluda_139
+    21300280: Mapache Saluda_140
+    21300282: Mapache Saluda_141
+    21300284: Mapache Saluda_142
+    21300286: Mapache Saluda_143
+    21300288: Mapache Saluda_144
+    21300290: Mapache Saluda_145
+    21300292: Mapache Saluda_146
+    21300294: Mapache Saluda_147
+    21300296: Mapache Saluda_148
+    21300298: Mapache Saluda_149
+    21300300: Mapache Saluda_150
+    21300302: Mapache Saluda_151
+    21300304: Mapache Saluda_152
+    21300306: Mapache Saluda_153
+    21300308: Mapache Saluda_154
+    21300310: Mapache Saluda_155
+    21300312: Mapache Saluda_156
+    21300314: Mapache Saluda_157
+    21300316: Mapache Saluda_158
+    21300318: Mapache Saluda_159
+    21300320: Mapache Saluda_160
+    21300322: Mapache Saluda_161
+    21300324: Mapache Saluda_162
+    21300326: Mapache Saluda_163
+    21300328: Mapache Saluda_164
+    21300330: Mapache Saluda_165
+    21300332: Mapache Saluda_166
+    21300334: Mapache Saluda_167
+    21300336: Mapache Saluda_168
+    21300338: Mapache Saluda_169
+    21300340: Mapache Saluda_170
+    21300342: Mapache Saluda_171
+    21300344: Mapache Saluda_172
+    21300346: Mapache Saluda_173
+    21300348: Mapache Saluda_174
+    21300350: Mapache Saluda_175
+    21300352: Mapache Saluda_176
+    21300354: Mapache Saluda_177
+    21300356: Mapache Saluda_178
+    21300358: Mapache Saluda_179
+    21300360: Mapache Saluda_180
+    21300362: Mapache Saluda_181
+    21300364: Mapache Saluda_182
+    21300366: Mapache Saluda_183
+    21300368: Mapache Saluda_184
+    21300370: Mapache Saluda_185
+    21300372: Mapache Saluda_186
+    21300374: Mapache Saluda_187
+    21300376: Mapache Saluda_188
+    21300378: Mapache Saluda_189
+    21300380: Mapache Saluda_190
+    21300382: Mapache Saluda_191
+    21300384: Mapache Saluda_192
+    21300386: Mapache Saluda_193
+    21300388: Mapache Saluda_194
+    21300390: Mapache Saluda_195
+    21300392: Mapache Saluda_196
+    21300394: Mapache Saluda_197
+    21300396: Mapache Saluda_198
+    21300398: Mapache Saluda_199
+    21300400: Mapache Saluda_200
+    21300402: Mapache Saluda_201
+    21300404: Mapache Saluda_202
+    21300406: Mapache Saluda_203
+    21300408: Mapache Saluda_204
+    21300410: Mapache Saluda_205
+    21300412: Mapache Saluda_206
+    21300414: Mapache Saluda_207
+    21300416: Mapache Saluda_208
+    21300418: Mapache Saluda_209
+    21300420: Mapache Saluda_210
+    21300422: Mapache Saluda_211
+    21300424: Mapache Saluda_212
+    21300426: Mapache Saluda_213
+    21300428: Mapache Saluda_214
+    21300430: Mapache Saluda_215
+    21300432: Mapache Saluda_216
+    21300434: Mapache Saluda_217
+    21300436: Mapache Saluda_218
+    21300438: Mapache Saluda_219
+    21300440: Mapache Saluda_220
+    21300442: Mapache Saluda_221
+    21300444: Mapache Saluda_222
+    21300446: Mapache Saluda_223
+    21300448: Mapache Saluda_224
+    21300450: Mapache Saluda_225
+    21300452: Mapache Saluda_226
+    21300454: Mapache Saluda_227
+    21300456: Mapache Saluda_228
+    21300458: Mapache Saluda_229
+    21300460: Mapache Saluda_230
+    21300462: Mapache Saluda_231
+    21300464: Mapache Saluda_232
+    21300466: Mapache Saluda_233
+    21300468: Mapache Saluda_234
+    21300470: Mapache Saluda_235
+    21300472: Mapache Saluda_236
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mapache Saluda_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_1
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4320
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_2
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4320
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_3
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4320
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_4
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4320
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_5
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4320
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_6
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4320
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_7
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4320
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_8
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4320
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_9
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4320
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_10
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4320
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_11
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4320
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_12
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4320
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_13
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4320
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_14
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4320
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_16
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4032
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_17
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4032
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_18
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4032
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_19
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4032
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_20
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4032
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_21
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4032
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_22
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4032
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_23
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4032
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_24
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4032
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_25
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4032
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_26
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4032
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_27
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4032
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_28
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4032
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_29
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4032
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3744
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_31
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3744
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_32
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3744
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_33
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3744
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_34
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3744
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_35
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3744
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_36
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3744
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_37
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3744
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_38
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3744
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_39
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3744
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_40
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3744
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_41
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3744
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_42
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3744
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_43
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3744
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_44
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3744
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3456
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_47
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3456
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_48
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3456
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_49
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3456
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_50
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3456
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_51
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3456
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_52
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3456
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_53
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3456
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_54
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3456
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_55
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3456
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_56
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3456
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_57
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3456
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_58
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3456
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_59
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3456
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_61
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3168
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_62
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3168
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_63
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3168
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_64
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3168
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_65
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3168
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_66
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3168
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_67
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3168
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_68
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3168
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_69
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3168
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_70
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3168
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_71
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3168
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_72
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3168
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_73
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3168
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_74
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3168
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_76
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2880
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_77
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2880
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_78
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2880
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_79
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2880
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_80
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2880
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_81
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2880
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_82
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2880
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_83
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2880
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_84
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2880
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_85
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2880
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_86
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2880
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_87
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2880
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_88
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2880
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_89
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2880
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_91
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2592
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_92
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2592
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_93
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2592
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_94
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2592
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_95
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2592
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_96
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2592
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_97
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2592
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_98
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2592
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_99
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2592
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_100
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2592
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_101
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2592
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_102
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2592
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_103
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2592
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_104
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2592
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_106
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2304
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_107
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2304
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_108
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2304
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_109
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2304
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_110
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2304
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_111
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2304
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_112
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2304
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_113
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2304
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_114
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2304
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_115
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2304
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_116
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2304
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_117
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2304
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_118
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2304
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_119
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2304
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_121
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2016
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_122
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2016
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_123
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2016
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_124
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2016
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_125
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2016
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_126
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2016
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_127
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2016
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_128
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2016
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_129
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2016
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_130
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2016
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_131
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2016
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_132
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2016
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_133
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2016
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_134
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2016
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_136
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1728
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_137
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1728
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_138
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1728
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_139
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1728
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_140
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1728
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_141
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1728
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_142
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1728
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_143
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1728
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_144
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1728
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_145
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1728
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_146
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1728
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_147
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1728
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_148
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1728
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_149
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1728
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_151
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1440
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_152
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1440
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_153
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1440
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_154
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1440
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_155
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1440
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_156
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1440
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_157
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1440
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_158
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1440
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_159
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1440
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_160
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1440
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_161
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1440
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_162
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1440
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_163
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1440
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_164
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1440
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_166
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1152
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_167
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1152
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_168
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1152
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_169
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1152
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_170
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1152
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_171
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1152
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_172
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1152
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_173
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1152
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_174
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1152
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_175
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1152
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_176
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1152
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_177
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1152
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_178
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1152
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_179
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1152
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_181
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 864
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_182
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 864
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_183
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 864
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_184
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 864
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_185
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 864
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_186
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 864
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_187
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 864
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_188
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 864
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_189
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 864
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_190
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 864
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_191
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 864
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_192
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 864
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_193
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 864
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_194
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 864
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_196
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 576
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_197
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 576
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_198
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 576
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_199
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 576
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_200
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 576
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_201
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 576
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_202
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 576
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_203
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 576
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_204
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 576
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_205
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 576
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_206
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 576
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_207
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 576
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_208
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 576
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_209
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 576
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_211
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 288
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_212
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 288
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_213
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 288
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_214
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 288
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_215
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 288
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_216
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 288
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_217
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 288
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_218
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 288
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_219
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 288
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_220
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 288
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_221
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 288
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_222
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 288
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_223
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 288
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_224
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 288
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_226
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_227
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 0
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_228
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 0
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_229
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 0
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_230
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 0
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_231
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 0
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_232
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 0
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_233
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 0
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_234
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 0
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_235
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 0
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mapache Saluda_236
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 0
+        width: 299
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

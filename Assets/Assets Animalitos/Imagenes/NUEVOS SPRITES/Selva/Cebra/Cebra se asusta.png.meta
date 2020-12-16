@@ -1,0 +1,1932 @@
+fileFormatVersion: 2
+guid: 3f8c603a4e75e8a4f9d6bd85c3dccf5a
+timeCreated: 1519890331
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cebra se asusta_0
+    21300002: Cebra se asusta_1
+    21300004: Cebra se asusta_2
+    21300006: Cebra se asusta_3
+    21300008: Cebra se asusta_4
+    21300010: Cebra se asusta_5
+    21300012: Cebra se asusta_6
+    21300014: Cebra se asusta_7
+    21300016: Cebra se asusta_8
+    21300018: Cebra se asusta_9
+    21300020: Cebra se asusta_10
+    21300022: Cebra se asusta_11
+    21300024: Cebra se asusta_12
+    21300026: Cebra se asusta_13
+    21300028: Cebra se asusta_14
+    21300030: Cebra se asusta_15
+    21300032: Cebra se asusta_16
+    21300034: Cebra se asusta_17
+    21300036: Cebra se asusta_18
+    21300038: Cebra se asusta_19
+    21300040: Cebra se asusta_20
+    21300042: Cebra se asusta_21
+    21300044: Cebra se asusta_22
+    21300046: Cebra se asusta_23
+    21300048: Cebra se asusta_24
+    21300050: Cebra se asusta_25
+    21300052: Cebra se asusta_26
+    21300054: Cebra se asusta_27
+    21300056: Cebra se asusta_28
+    21300058: Cebra se asusta_29
+    21300060: Cebra se asusta_30
+    21300062: Cebra se asusta_31
+    21300064: Cebra se asusta_32
+    21300066: Cebra se asusta_33
+    21300068: Cebra se asusta_34
+    21300070: Cebra se asusta_35
+    21300072: Cebra se asusta_36
+    21300074: Cebra se asusta_37
+    21300076: Cebra se asusta_38
+    21300078: Cebra se asusta_39
+    21300080: Cebra se asusta_40
+    21300082: Cebra se asusta_41
+    21300084: Cebra se asusta_42
+    21300086: Cebra se asusta_43
+    21300088: Cebra se asusta_44
+    21300090: Cebra se asusta_45
+    21300092: Cebra se asusta_46
+    21300094: Cebra se asusta_47
+    21300096: Cebra se asusta_48
+    21300098: Cebra se asusta_49
+    21300100: Cebra se asusta_50
+    21300102: Cebra se asusta_51
+    21300104: Cebra se asusta_52
+    21300106: Cebra se asusta_53
+    21300108: Cebra se asusta_54
+    21300110: Cebra se asusta_55
+    21300112: Cebra se asusta_56
+    21300114: Cebra se asusta_57
+    21300116: Cebra se asusta_58
+    21300118: Cebra se asusta_59
+    21300120: Cebra se asusta_60
+    21300122: Cebra se asusta_61
+    21300124: Cebra se asusta_62
+    21300126: Cebra se asusta_63
+    21300128: Cebra se asusta_64
+    21300130: Cebra se asusta_65
+    21300132: Cebra se asusta_66
+    21300134: Cebra se asusta_67
+    21300136: Cebra se asusta_68
+    21300138: Cebra se asusta_69
+    21300140: Cebra se asusta_70
+    21300142: Cebra se asusta_71
+    21300144: Cebra se asusta_72
+    21300146: Cebra se asusta_73
+    21300148: Cebra se asusta_74
+    21300150: Cebra se asusta_75
+    21300152: Cebra se asusta_76
+    21300154: Cebra se asusta_77
+    21300156: Cebra se asusta_78
+    21300158: Cebra se asusta_79
+    21300160: Cebra se asusta_80
+    21300162: Cebra se asusta_81
+    21300164: Cebra se asusta_82
+    21300166: Cebra se asusta_83
+    21300168: Cebra se asusta_84
+    21300170: Cebra se asusta_85
+    21300172: Cebra se asusta_86
+    21300174: Cebra se asusta_87
+    21300176: Cebra se asusta_88
+    21300178: Cebra se asusta_89
+    21300180: Cebra se asusta_90
+    21300182: Cebra se asusta_91
+    21300184: Cebra se asusta_92
+    21300186: Cebra se asusta_93
+    21300188: Cebra se asusta_94
+    21300190: Cebra se asusta_95
+    21300192: Cebra se asusta_96
+    21300194: Cebra se asusta_97
+    21300196: Cebra se asusta_98
+    21300198: Cebra se asusta_99
+    21300200: Cebra se asusta_100
+    21300202: Cebra se asusta_101
+    21300204: Cebra se asusta_102
+    21300206: Cebra se asusta_103
+    21300208: Cebra se asusta_104
+    21300210: Cebra se asusta_105
+    21300212: Cebra se asusta_106
+    21300214: Cebra se asusta_107
+    21300216: Cebra se asusta_108
+    21300218: Cebra se asusta_109
+    21300220: Cebra se asusta_110
+    21300222: Cebra se asusta_111
+    21300224: Cebra se asusta_112
+    21300226: Cebra se asusta_113
+    21300228: Cebra se asusta_114
+    21300230: Cebra se asusta_115
+    21300232: Cebra se asusta_116
+    21300234: Cebra se asusta_117
+    21300236: Cebra se asusta_118
+    21300238: Cebra se asusta_119
+    21300240: Cebra se asusta_120
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cebra se asusta_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_1
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2880
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_2
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2880
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_3
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2880
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_4
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2880
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_5
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2880
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_6
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2880
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_7
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2880
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_8
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2880
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_9
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2880
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_10
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2880
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_12
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2592
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_13
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2592
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_14
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2592
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_15
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2592
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_16
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2592
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_17
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2592
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_18
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2592
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_19
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2592
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_20
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2592
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_21
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2592
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_23
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2304
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_24
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2304
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_25
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2304
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_26
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2304
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_27
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2304
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_28
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2304
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_29
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2304
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_30
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2304
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_31
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2304
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_32
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2304
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_34
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2016
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_35
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2016
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_36
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2016
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_37
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2016
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_38
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2016
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_39
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2016
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_40
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2016
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_41
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2016
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_42
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2016
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_43
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2016
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_45
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1728
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_46
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1728
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_47
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1728
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_48
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1728
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_49
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1728
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_50
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1728
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_51
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1728
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_52
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1728
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_53
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1728
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_54
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1728
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_56
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1440
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_57
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1440
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_58
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1440
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_59
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1440
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_60
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1440
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_61
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1440
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_62
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1440
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_63
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1440
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_64
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1440
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_65
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1440
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_67
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1152
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_68
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1152
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_69
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1152
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_70
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1152
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_71
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1152
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_72
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1152
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_73
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1152
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_74
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1152
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_75
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1152
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_76
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1152
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_78
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 864
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_79
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 864
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_80
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 864
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_81
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 864
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_82
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 864
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_83
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 864
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_84
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 864
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_85
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 864
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_86
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 864
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_87
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 864
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_89
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 576
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_90
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 576
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_91
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 576
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_92
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 576
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_93
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 576
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_94
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 576
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_95
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 576
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_96
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 576
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_97
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 576
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_98
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 576
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_100
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 288
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_101
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 288
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_102
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 288
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_103
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 288
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_104
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 288
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_105
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 288
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_106
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 288
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_107
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 288
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_108
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 288
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_109
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 288
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_111
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_112
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 0
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_113
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 0
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_114
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 0
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_115
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 0
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_116
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 0
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_117
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 0
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_118
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 0
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_119
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 0
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cebra se asusta_120
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 0
+        width: 389
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

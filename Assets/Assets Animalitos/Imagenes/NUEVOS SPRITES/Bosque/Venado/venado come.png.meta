@@ -1,0 +1,2637 @@
+fileFormatVersion: 2
+guid: a9e7577793b0bbb4c92689d610b0445f
+timeCreated: 1519902727
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: venado come_0
+    21300002: venado come_1
+    21300004: venado come_2
+    21300006: venado come_3
+    21300008: venado come_4
+    21300010: venado come_5
+    21300012: venado come_6
+    21300014: venado come_7
+    21300016: venado come_8
+    21300018: venado come_9
+    21300020: venado come_10
+    21300022: venado come_11
+    21300024: venado come_12
+    21300026: venado come_13
+    21300028: venado come_14
+    21300030: venado come_15
+    21300032: venado come_16
+    21300034: venado come_17
+    21300036: venado come_18
+    21300038: venado come_19
+    21300040: venado come_20
+    21300042: venado come_21
+    21300044: venado come_22
+    21300046: venado come_23
+    21300048: venado come_24
+    21300050: venado come_25
+    21300052: venado come_26
+    21300054: venado come_27
+    21300056: venado come_28
+    21300058: venado come_29
+    21300060: venado come_30
+    21300062: venado come_31
+    21300064: venado come_32
+    21300066: venado come_33
+    21300068: venado come_34
+    21300070: venado come_35
+    21300072: venado come_36
+    21300074: venado come_37
+    21300076: venado come_38
+    21300078: venado come_39
+    21300080: venado come_40
+    21300082: venado come_41
+    21300084: venado come_42
+    21300086: venado come_43
+    21300088: venado come_44
+    21300090: venado come_45
+    21300092: venado come_46
+    21300094: venado come_47
+    21300096: venado come_48
+    21300098: venado come_49
+    21300100: venado come_50
+    21300102: venado come_51
+    21300104: venado come_52
+    21300106: venado come_53
+    21300108: venado come_54
+    21300110: venado come_55
+    21300112: venado come_56
+    21300114: venado come_57
+    21300116: venado come_58
+    21300118: venado come_59
+    21300120: venado come_60
+    21300122: venado come_61
+    21300124: venado come_62
+    21300126: venado come_63
+    21300128: venado come_64
+    21300130: venado come_65
+    21300132: venado come_66
+    21300134: venado come_67
+    21300136: venado come_68
+    21300138: venado come_69
+    21300140: venado come_70
+    21300142: venado come_71
+    21300144: venado come_72
+    21300146: venado come_73
+    21300148: venado come_74
+    21300150: venado come_75
+    21300152: venado come_76
+    21300154: venado come_77
+    21300156: venado come_78
+    21300158: venado come_79
+    21300160: venado come_80
+    21300162: venado come_81
+    21300164: venado come_82
+    21300166: venado come_83
+    21300168: venado come_84
+    21300170: venado come_85
+    21300172: venado come_86
+    21300174: venado come_87
+    21300176: venado come_88
+    21300178: venado come_89
+    21300180: venado come_90
+    21300182: venado come_91
+    21300184: venado come_92
+    21300186: venado come_93
+    21300188: venado come_94
+    21300190: venado come_95
+    21300192: venado come_96
+    21300194: venado come_97
+    21300196: venado come_98
+    21300198: venado come_99
+    21300200: venado come_100
+    21300202: venado come_101
+    21300204: venado come_102
+    21300206: venado come_103
+    21300208: venado come_104
+    21300210: venado come_105
+    21300212: venado come_106
+    21300214: venado come_107
+    21300216: venado come_108
+    21300218: venado come_109
+    21300220: venado come_110
+    21300222: venado come_111
+    21300224: venado come_112
+    21300226: venado come_113
+    21300228: venado come_114
+    21300230: venado come_115
+    21300232: venado come_116
+    21300234: venado come_117
+    21300236: venado come_118
+    21300238: venado come_119
+    21300240: venado come_120
+    21300242: venado come_121
+    21300244: venado come_122
+    21300246: venado come_123
+    21300248: venado come_124
+    21300250: venado come_125
+    21300252: venado come_126
+    21300254: venado come_127
+    21300256: venado come_128
+    21300258: venado come_129
+    21300260: venado come_130
+    21300262: venado come_131
+    21300264: venado come_132
+    21300266: venado come_133
+    21300268: venado come_134
+    21300270: venado come_135
+    21300272: venado come_136
+    21300274: venado come_137
+    21300276: venado come_138
+    21300278: venado come_139
+    21300280: venado come_140
+    21300282: venado come_141
+    21300284: venado come_142
+    21300286: venado come_143
+    21300288: venado come_144
+    21300290: venado come_145
+    21300292: venado come_146
+    21300294: venado come_147
+    21300296: venado come_148
+    21300298: venado come_149
+    21300300: venado come_150
+    21300302: venado come_151
+    21300304: venado come_152
+    21300306: venado come_153
+    21300308: venado come_154
+    21300310: venado come_155
+    21300312: venado come_156
+    21300314: venado come_157
+    21300316: venado come_158
+    21300318: venado come_159
+    21300320: venado come_160
+    21300322: venado come_161
+    21300324: venado come_162
+    21300326: venado come_163
+    21300328: venado come_164
+    21300330: venado come_165
+    21300332: venado come_166
+    21300334: venado come_167
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: venado come_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3744
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_1
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 3744
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_2
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 3744
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_3
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 3744
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_4
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 3744
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_5
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3744
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_6
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 3744
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_7
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 3744
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_8
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 3744
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_9
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 3744
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_10
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3744
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_11
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 3744
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3456
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_13
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 3456
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_14
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 3456
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_15
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 3456
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_16
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 3456
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_17
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3456
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_18
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 3456
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_19
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 3456
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_20
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 3456
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_21
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 3456
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_22
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3456
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_23
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 3456
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3168
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_25
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 3168
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_26
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 3168
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_27
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 3168
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_28
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 3168
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_29
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3168
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_30
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 3168
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_31
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 3168
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_32
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 3168
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_33
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 3168
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_34
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3168
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_35
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 3168
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2880
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_37
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2880
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_38
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2880
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_39
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 2880
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_40
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 2880
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_41
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2880
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_42
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 2880
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_43
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 2880
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_44
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 2880
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_45
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 2880
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_46
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2880
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_47
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 2880
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2592
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_49
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2592
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_50
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2592
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_51
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 2592
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_52
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 2592
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_53
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2592
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_54
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 2592
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_55
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 2592
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_56
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 2592
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_57
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 2592
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_58
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2592
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_59
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 2592
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2304
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_61
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2304
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_62
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2304
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_63
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 2304
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_64
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 2304
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_65
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2304
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_66
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 2304
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_67
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 2304
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_68
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 2304
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_69
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 2304
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_70
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2304
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_71
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 2304
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_72
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2016
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_73
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2016
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_74
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2016
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_75
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 2016
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_76
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 2016
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_77
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2016
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_78
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 2016
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_79
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 2016
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_80
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 2016
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_81
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 2016
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_82
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2016
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_83
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 2016
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1728
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_85
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1728
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_86
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1728
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_87
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1728
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_88
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 1728
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_89
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1728
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_90
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 1728
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_91
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 1728
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_92
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 1728
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_93
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 1728
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_94
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1728
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_95
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 1728
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_96
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1440
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_97
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1440
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_98
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1440
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_99
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1440
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_100
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 1440
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_101
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1440
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_102
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 1440
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_103
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 1440
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_104
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 1440
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_105
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 1440
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_106
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1440
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_107
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 1440
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_108
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1152
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_109
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1152
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_110
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1152
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_111
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1152
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_112
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 1152
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_113
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1152
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_114
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 1152
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_115
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 1152
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_116
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 1152
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_117
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 1152
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_118
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1152
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_119
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 1152
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_120
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 864
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_121
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 864
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_122
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 864
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_123
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 864
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_124
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 864
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_125
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 864
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_126
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 864
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_127
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 864
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_128
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 864
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_129
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 864
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_130
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 864
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_131
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 864
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_132
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 576
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_133
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 576
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_134
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 576
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_135
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 576
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_136
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 576
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_137
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 576
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_138
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 576
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_139
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 576
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_140
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 576
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_141
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 576
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_142
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 576
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_143
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 576
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_144
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 288
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_145
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 288
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_146
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 288
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_147
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 288
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_148
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 288
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_149
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 288
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_150
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 288
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_151
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 288
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_152
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 288
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_153
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 288
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_154
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 288
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_155
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 288
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_156
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_157
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 0
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_158
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 0
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_159
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 0
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_160
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 0
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_161
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 0
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_162
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 0
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_163
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 0
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_164
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 0
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_165
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 0
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_166
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 0
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: venado come_167
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 0
+        width: 338.16666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

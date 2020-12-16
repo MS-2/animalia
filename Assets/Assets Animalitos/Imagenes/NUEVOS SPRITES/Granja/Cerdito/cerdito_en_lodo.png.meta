@@ -1,0 +1,3732 @@
+fileFormatVersion: 2
+guid: d6b1b582611bcc24689ec7c6642b4616
+timeCreated: 1519371644
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cerdito_en_lodo_0
+    21300002: cerdito_en_lodo_1
+    21300004: cerdito_en_lodo_2
+    21300006: cerdito_en_lodo_3
+    21300008: cerdito_en_lodo_4
+    21300010: cerdito_en_lodo_5
+    21300012: cerdito_en_lodo_6
+    21300014: cerdito_en_lodo_7
+    21300016: cerdito_en_lodo_8
+    21300018: cerdito_en_lodo_9
+    21300020: cerdito_en_lodo_10
+    21300022: cerdito_en_lodo_11
+    21300024: cerdito_en_lodo_12
+    21300026: cerdito_en_lodo_13
+    21300028: cerdito_en_lodo_14
+    21300030: cerdito_en_lodo_15
+    21300032: cerdito_en_lodo_16
+    21300034: cerdito_en_lodo_17
+    21300036: cerdito_en_lodo_18
+    21300038: cerdito_en_lodo_19
+    21300040: cerdito_en_lodo_20
+    21300042: cerdito_en_lodo_21
+    21300044: cerdito_en_lodo_22
+    21300046: cerdito_en_lodo_23
+    21300048: cerdito_en_lodo_24
+    21300050: cerdito_en_lodo_25
+    21300052: cerdito_en_lodo_26
+    21300054: cerdito_en_lodo_27
+    21300056: cerdito_en_lodo_28
+    21300058: cerdito_en_lodo_29
+    21300060: cerdito_en_lodo_30
+    21300062: cerdito_en_lodo_31
+    21300064: cerdito_en_lodo_32
+    21300066: cerdito_en_lodo_33
+    21300068: cerdito_en_lodo_34
+    21300070: cerdito_en_lodo_35
+    21300072: cerdito_en_lodo_36
+    21300074: cerdito_en_lodo_37
+    21300076: cerdito_en_lodo_38
+    21300078: cerdito_en_lodo_39
+    21300080: cerdito_en_lodo_40
+    21300082: cerdito_en_lodo_41
+    21300084: cerdito_en_lodo_42
+    21300086: cerdito_en_lodo_43
+    21300088: cerdito_en_lodo_44
+    21300090: cerdito_en_lodo_45
+    21300092: cerdito_en_lodo_46
+    21300094: cerdito_en_lodo_47
+    21300096: cerdito_en_lodo_48
+    21300098: cerdito_en_lodo_49
+    21300100: cerdito_en_lodo_50
+    21300102: cerdito_en_lodo_51
+    21300104: cerdito_en_lodo_52
+    21300106: cerdito_en_lodo_53
+    21300108: cerdito_en_lodo_54
+    21300110: cerdito_en_lodo_55
+    21300112: cerdito_en_lodo_56
+    21300114: cerdito_en_lodo_57
+    21300116: cerdito_en_lodo_58
+    21300118: cerdito_en_lodo_59
+    21300120: cerdito_en_lodo_60
+    21300122: cerdito_en_lodo_61
+    21300124: cerdito_en_lodo_62
+    21300126: cerdito_en_lodo_63
+    21300128: cerdito_en_lodo_64
+    21300130: cerdito_en_lodo_65
+    21300132: cerdito_en_lodo_66
+    21300134: cerdito_en_lodo_67
+    21300136: cerdito_en_lodo_68
+    21300138: cerdito_en_lodo_69
+    21300140: cerdito_en_lodo_70
+    21300142: cerdito_en_lodo_71
+    21300144: cerdito_en_lodo_72
+    21300146: cerdito_en_lodo_73
+    21300148: cerdito_en_lodo_74
+    21300150: cerdito_en_lodo_75
+    21300152: cerdito_en_lodo_76
+    21300154: cerdito_en_lodo_77
+    21300156: cerdito_en_lodo_78
+    21300158: cerdito_en_lodo_79
+    21300160: cerdito_en_lodo_80
+    21300162: cerdito_en_lodo_81
+    21300164: cerdito_en_lodo_82
+    21300166: cerdito_en_lodo_83
+    21300168: cerdito_en_lodo_84
+    21300170: cerdito_en_lodo_85
+    21300172: cerdito_en_lodo_86
+    21300174: cerdito_en_lodo_87
+    21300176: cerdito_en_lodo_88
+    21300178: cerdito_en_lodo_89
+    21300180: cerdito_en_lodo_90
+    21300182: cerdito_en_lodo_91
+    21300184: cerdito_en_lodo_92
+    21300186: cerdito_en_lodo_93
+    21300188: cerdito_en_lodo_94
+    21300190: cerdito_en_lodo_95
+    21300192: cerdito_en_lodo_96
+    21300194: cerdito_en_lodo_97
+    21300196: cerdito_en_lodo_98
+    21300198: cerdito_en_lodo_99
+    21300200: cerdito_en_lodo_100
+    21300202: cerdito_en_lodo_101
+    21300204: cerdito_en_lodo_102
+    21300206: cerdito_en_lodo_103
+    21300208: cerdito_en_lodo_104
+    21300210: cerdito_en_lodo_105
+    21300212: cerdito_en_lodo_106
+    21300214: cerdito_en_lodo_107
+    21300216: cerdito_en_lodo_108
+    21300218: cerdito_en_lodo_109
+    21300220: cerdito_en_lodo_110
+    21300222: cerdito_en_lodo_111
+    21300224: cerdito_en_lodo_112
+    21300226: cerdito_en_lodo_113
+    21300228: cerdito_en_lodo_114
+    21300230: cerdito_en_lodo_115
+    21300232: cerdito_en_lodo_116
+    21300234: cerdito_en_lodo_117
+    21300236: cerdito_en_lodo_118
+    21300238: cerdito_en_lodo_119
+    21300240: cerdito_en_lodo_120
+    21300242: cerdito_en_lodo_121
+    21300244: cerdito_en_lodo_122
+    21300246: cerdito_en_lodo_123
+    21300248: cerdito_en_lodo_124
+    21300250: cerdito_en_lodo_125
+    21300252: cerdito_en_lodo_126
+    21300254: cerdito_en_lodo_127
+    21300256: cerdito_en_lodo_128
+    21300258: cerdito_en_lodo_129
+    21300260: cerdito_en_lodo_130
+    21300262: cerdito_en_lodo_131
+    21300264: cerdito_en_lodo_132
+    21300266: cerdito_en_lodo_133
+    21300268: cerdito_en_lodo_134
+    21300270: cerdito_en_lodo_135
+    21300272: cerdito_en_lodo_136
+    21300274: cerdito_en_lodo_137
+    21300276: cerdito_en_lodo_138
+    21300278: cerdito_en_lodo_139
+    21300280: cerdito_en_lodo_140
+    21300282: cerdito_en_lodo_141
+    21300284: cerdito_en_lodo_142
+    21300286: cerdito_en_lodo_143
+    21300288: cerdito_en_lodo_144
+    21300290: cerdito_en_lodo_145
+    21300292: cerdito_en_lodo_146
+    21300294: cerdito_en_lodo_147
+    21300296: cerdito_en_lodo_148
+    21300298: cerdito_en_lodo_149
+    21300300: cerdito_en_lodo_150
+    21300302: cerdito_en_lodo_151
+    21300304: cerdito_en_lodo_152
+    21300306: cerdito_en_lodo_153
+    21300308: cerdito_en_lodo_154
+    21300310: cerdito_en_lodo_155
+    21300312: cerdito_en_lodo_156
+    21300314: cerdito_en_lodo_157
+    21300316: cerdito_en_lodo_158
+    21300318: cerdito_en_lodo_159
+    21300320: cerdito_en_lodo_160
+    21300322: cerdito_en_lodo_161
+    21300324: cerdito_en_lodo_162
+    21300326: cerdito_en_lodo_163
+    21300328: cerdito_en_lodo_164
+    21300330: cerdito_en_lodo_165
+    21300332: cerdito_en_lodo_166
+    21300334: cerdito_en_lodo_167
+    21300336: cerdito_en_lodo_168
+    21300338: cerdito_en_lodo_169
+    21300340: cerdito_en_lodo_170
+    21300342: cerdito_en_lodo_171
+    21300344: cerdito_en_lodo_172
+    21300346: cerdito_en_lodo_173
+    21300348: cerdito_en_lodo_174
+    21300350: cerdito_en_lodo_175
+    21300352: cerdito_en_lodo_176
+    21300354: cerdito_en_lodo_177
+    21300356: cerdito_en_lodo_178
+    21300358: cerdito_en_lodo_179
+    21300360: cerdito_en_lodo_180
+    21300362: cerdito_en_lodo_181
+    21300364: cerdito_en_lodo_182
+    21300366: cerdito_en_lodo_183
+    21300368: cerdito_en_lodo_184
+    21300370: cerdito_en_lodo_185
+    21300372: cerdito_en_lodo_186
+    21300374: cerdito_en_lodo_187
+    21300376: cerdito_en_lodo_188
+    21300378: cerdito_en_lodo_189
+    21300380: cerdito_en_lodo_190
+    21300382: cerdito_en_lodo_191
+    21300384: cerdito_en_lodo_192
+    21300386: cerdito_en_lodo_193
+    21300388: cerdito_en_lodo_194
+    21300390: cerdito_en_lodo_195
+    21300392: cerdito_en_lodo_196
+    21300394: cerdito_en_lodo_197
+    21300396: cerdito_en_lodo_198
+    21300398: cerdito_en_lodo_199
+    21300400: cerdito_en_lodo_200
+    21300402: cerdito_en_lodo_201
+    21300404: cerdito_en_lodo_202
+    21300406: cerdito_en_lodo_203
+    21300408: cerdito_en_lodo_204
+    21300410: cerdito_en_lodo_205
+    21300412: cerdito_en_lodo_206
+    21300414: cerdito_en_lodo_207
+    21300416: cerdito_en_lodo_208
+    21300418: cerdito_en_lodo_209
+    21300420: cerdito_en_lodo_210
+    21300422: cerdito_en_lodo_211
+    21300424: cerdito_en_lodo_212
+    21300426: cerdito_en_lodo_213
+    21300428: cerdito_en_lodo_214
+    21300430: cerdito_en_lodo_215
+    21300432: cerdito_en_lodo_216
+    21300434: cerdito_en_lodo_217
+    21300436: cerdito_en_lodo_218
+    21300438: cerdito_en_lodo_219
+    21300440: cerdito_en_lodo_220
+    21300442: cerdito_en_lodo_221
+    21300444: cerdito_en_lodo_222
+    21300446: cerdito_en_lodo_223
+    21300448: cerdito_en_lodo_224
+    21300450: cerdito_en_lodo_225
+    21300452: cerdito_en_lodo_226
+    21300454: cerdito_en_lodo_227
+    21300456: cerdito_en_lodo_228
+    21300458: cerdito_en_lodo_229
+    21300460: cerdito_en_lodo_230
+    21300462: cerdito_en_lodo_231
+    21300464: cerdito_en_lodo_232
+    21300466: cerdito_en_lodo_233
+    21300468: cerdito_en_lodo_234
+    21300470: cerdito_en_lodo_235
+    21300472: cerdito_en_lodo_236
+    21300474: cerdito_en_lodo_237
+    21300476: cerdito_en_lodo_238
+    21300478: cerdito_en_lodo_239
+    21300480: cerdito_en_lodo_240
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cerdito_en_lodo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_1
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_2
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_3
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_4
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_5
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_6
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_7
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_8
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_9
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_10
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_11
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_12
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_13
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_14
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_16
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_17
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_18
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_19
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_20
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_21
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_22
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_23
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_24
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_25
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_26
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_27
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_28
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_29
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_31
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_32
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_33
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_34
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_35
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_36
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_37
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_38
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_39
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_40
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_41
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_42
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_43
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_44
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_47
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_48
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_49
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_50
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_51
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_52
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_53
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_54
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_55
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_56
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_57
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_58
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_59
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_61
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_62
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_63
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_64
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_65
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_66
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_67
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_68
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_69
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_70
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_71
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_72
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_73
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_74
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_76
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_77
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_78
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_79
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_80
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_81
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_82
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_83
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_84
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_85
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_86
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_87
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_88
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_89
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_91
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_92
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_93
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_94
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_95
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_96
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_97
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_98
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_99
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_100
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_101
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_102
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_103
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_104
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_106
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_107
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_108
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_109
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_110
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_111
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_112
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_113
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_114
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_115
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_116
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_117
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_118
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_119
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_121
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_122
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_123
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_124
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_125
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_126
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_127
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_128
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_129
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_130
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_131
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_132
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_133
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_134
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_136
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_137
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_138
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_139
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_140
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_141
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_142
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_143
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_144
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_145
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_146
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_147
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_148
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_149
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_151
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_152
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_153
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_154
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_155
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_156
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_157
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_158
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_159
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_160
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_161
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_162
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_163
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_164
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_166
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_167
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_168
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_169
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_170
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_171
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_172
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_173
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_174
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_175
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_176
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_177
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_178
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_179
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_181
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_182
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_183
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_184
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_185
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_186
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_187
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_188
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_189
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_190
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_191
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_192
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_193
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_194
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_196
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_197
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_198
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_199
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_200
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_201
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_202
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_203
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_204
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_205
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_206
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_207
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_208
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_209
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_211
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_212
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_213
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_214
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_215
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_216
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_217
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_218
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_219
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_220
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_221
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_222
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_223
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_224
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_226
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_227
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_228
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_229
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_230
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_231
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_232
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_233
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_234
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_235
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_236
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_237
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_238
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_239
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cerdito_en_lodo_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3732 @@
+fileFormatVersion: 2
+guid: cdf3c98069bec7042a4d7676976e496f
+timeCreated: 1519896270
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gallina ponedora_0
+    21300002: gallina ponedora_1
+    21300004: gallina ponedora_2
+    21300006: gallina ponedora_3
+    21300008: gallina ponedora_4
+    21300010: gallina ponedora_5
+    21300012: gallina ponedora_6
+    21300014: gallina ponedora_7
+    21300016: gallina ponedora_8
+    21300018: gallina ponedora_9
+    21300020: gallina ponedora_10
+    21300022: gallina ponedora_11
+    21300024: gallina ponedora_12
+    21300026: gallina ponedora_13
+    21300028: gallina ponedora_14
+    21300030: gallina ponedora_15
+    21300032: gallina ponedora_16
+    21300034: gallina ponedora_17
+    21300036: gallina ponedora_18
+    21300038: gallina ponedora_19
+    21300040: gallina ponedora_20
+    21300042: gallina ponedora_21
+    21300044: gallina ponedora_22
+    21300046: gallina ponedora_23
+    21300048: gallina ponedora_24
+    21300050: gallina ponedora_25
+    21300052: gallina ponedora_26
+    21300054: gallina ponedora_27
+    21300056: gallina ponedora_28
+    21300058: gallina ponedora_29
+    21300060: gallina ponedora_30
+    21300062: gallina ponedora_31
+    21300064: gallina ponedora_32
+    21300066: gallina ponedora_33
+    21300068: gallina ponedora_34
+    21300070: gallina ponedora_35
+    21300072: gallina ponedora_36
+    21300074: gallina ponedora_37
+    21300076: gallina ponedora_38
+    21300078: gallina ponedora_39
+    21300080: gallina ponedora_40
+    21300082: gallina ponedora_41
+    21300084: gallina ponedora_42
+    21300086: gallina ponedora_43
+    21300088: gallina ponedora_44
+    21300090: gallina ponedora_45
+    21300092: gallina ponedora_46
+    21300094: gallina ponedora_47
+    21300096: gallina ponedora_48
+    21300098: gallina ponedora_49
+    21300100: gallina ponedora_50
+    21300102: gallina ponedora_51
+    21300104: gallina ponedora_52
+    21300106: gallina ponedora_53
+    21300108: gallina ponedora_54
+    21300110: gallina ponedora_55
+    21300112: gallina ponedora_56
+    21300114: gallina ponedora_57
+    21300116: gallina ponedora_58
+    21300118: gallina ponedora_59
+    21300120: gallina ponedora_60
+    21300122: gallina ponedora_61
+    21300124: gallina ponedora_62
+    21300126: gallina ponedora_63
+    21300128: gallina ponedora_64
+    21300130: gallina ponedora_65
+    21300132: gallina ponedora_66
+    21300134: gallina ponedora_67
+    21300136: gallina ponedora_68
+    21300138: gallina ponedora_69
+    21300140: gallina ponedora_70
+    21300142: gallina ponedora_71
+    21300144: gallina ponedora_72
+    21300146: gallina ponedora_73
+    21300148: gallina ponedora_74
+    21300150: gallina ponedora_75
+    21300152: gallina ponedora_76
+    21300154: gallina ponedora_77
+    21300156: gallina ponedora_78
+    21300158: gallina ponedora_79
+    21300160: gallina ponedora_80
+    21300162: gallina ponedora_81
+    21300164: gallina ponedora_82
+    21300166: gallina ponedora_83
+    21300168: gallina ponedora_84
+    21300170: gallina ponedora_85
+    21300172: gallina ponedora_86
+    21300174: gallina ponedora_87
+    21300176: gallina ponedora_88
+    21300178: gallina ponedora_89
+    21300180: gallina ponedora_90
+    21300182: gallina ponedora_91
+    21300184: gallina ponedora_92
+    21300186: gallina ponedora_93
+    21300188: gallina ponedora_94
+    21300190: gallina ponedora_95
+    21300192: gallina ponedora_96
+    21300194: gallina ponedora_97
+    21300196: gallina ponedora_98
+    21300198: gallina ponedora_99
+    21300200: gallina ponedora_100
+    21300202: gallina ponedora_101
+    21300204: gallina ponedora_102
+    21300206: gallina ponedora_103
+    21300208: gallina ponedora_104
+    21300210: gallina ponedora_105
+    21300212: gallina ponedora_106
+    21300214: gallina ponedora_107
+    21300216: gallina ponedora_108
+    21300218: gallina ponedora_109
+    21300220: gallina ponedora_110
+    21300222: gallina ponedora_111
+    21300224: gallina ponedora_112
+    21300226: gallina ponedora_113
+    21300228: gallina ponedora_114
+    21300230: gallina ponedora_115
+    21300232: gallina ponedora_116
+    21300234: gallina ponedora_117
+    21300236: gallina ponedora_118
+    21300238: gallina ponedora_119
+    21300240: gallina ponedora_120
+    21300242: gallina ponedora_121
+    21300244: gallina ponedora_122
+    21300246: gallina ponedora_123
+    21300248: gallina ponedora_124
+    21300250: gallina ponedora_125
+    21300252: gallina ponedora_126
+    21300254: gallina ponedora_127
+    21300256: gallina ponedora_128
+    21300258: gallina ponedora_129
+    21300260: gallina ponedora_130
+    21300262: gallina ponedora_131
+    21300264: gallina ponedora_132
+    21300266: gallina ponedora_133
+    21300268: gallina ponedora_134
+    21300270: gallina ponedora_135
+    21300272: gallina ponedora_136
+    21300274: gallina ponedora_137
+    21300276: gallina ponedora_138
+    21300278: gallina ponedora_139
+    21300280: gallina ponedora_140
+    21300282: gallina ponedora_141
+    21300284: gallina ponedora_142
+    21300286: gallina ponedora_143
+    21300288: gallina ponedora_144
+    21300290: gallina ponedora_145
+    21300292: gallina ponedora_146
+    21300294: gallina ponedora_147
+    21300296: gallina ponedora_148
+    21300298: gallina ponedora_149
+    21300300: gallina ponedora_150
+    21300302: gallina ponedora_151
+    21300304: gallina ponedora_152
+    21300306: gallina ponedora_153
+    21300308: gallina ponedora_154
+    21300310: gallina ponedora_155
+    21300312: gallina ponedora_156
+    21300314: gallina ponedora_157
+    21300316: gallina ponedora_158
+    21300318: gallina ponedora_159
+    21300320: gallina ponedora_160
+    21300322: gallina ponedora_161
+    21300324: gallina ponedora_162
+    21300326: gallina ponedora_163
+    21300328: gallina ponedora_164
+    21300330: gallina ponedora_165
+    21300332: gallina ponedora_166
+    21300334: gallina ponedora_167
+    21300336: gallina ponedora_168
+    21300338: gallina ponedora_169
+    21300340: gallina ponedora_170
+    21300342: gallina ponedora_171
+    21300344: gallina ponedora_172
+    21300346: gallina ponedora_173
+    21300348: gallina ponedora_174
+    21300350: gallina ponedora_175
+    21300352: gallina ponedora_176
+    21300354: gallina ponedora_177
+    21300356: gallina ponedora_178
+    21300358: gallina ponedora_179
+    21300360: gallina ponedora_180
+    21300362: gallina ponedora_181
+    21300364: gallina ponedora_182
+    21300366: gallina ponedora_183
+    21300368: gallina ponedora_184
+    21300370: gallina ponedora_185
+    21300372: gallina ponedora_186
+    21300374: gallina ponedora_187
+    21300376: gallina ponedora_188
+    21300378: gallina ponedora_189
+    21300380: gallina ponedora_190
+    21300382: gallina ponedora_191
+    21300384: gallina ponedora_192
+    21300386: gallina ponedora_193
+    21300388: gallina ponedora_194
+    21300390: gallina ponedora_195
+    21300392: gallina ponedora_196
+    21300394: gallina ponedora_197
+    21300396: gallina ponedora_198
+    21300398: gallina ponedora_199
+    21300400: gallina ponedora_200
+    21300402: gallina ponedora_201
+    21300404: gallina ponedora_202
+    21300406: gallina ponedora_203
+    21300408: gallina ponedora_204
+    21300410: gallina ponedora_205
+    21300412: gallina ponedora_206
+    21300414: gallina ponedora_207
+    21300416: gallina ponedora_208
+    21300418: gallina ponedora_209
+    21300420: gallina ponedora_210
+    21300422: gallina ponedora_211
+    21300424: gallina ponedora_212
+    21300426: gallina ponedora_213
+    21300428: gallina ponedora_214
+    21300430: gallina ponedora_215
+    21300432: gallina ponedora_216
+    21300434: gallina ponedora_217
+    21300436: gallina ponedora_218
+    21300438: gallina ponedora_219
+    21300440: gallina ponedora_220
+    21300442: gallina ponedora_221
+    21300444: gallina ponedora_222
+    21300446: gallina ponedora_223
+    21300448: gallina ponedora_224
+    21300450: gallina ponedora_225
+    21300452: gallina ponedora_226
+    21300454: gallina ponedora_227
+    21300456: gallina ponedora_228
+    21300458: gallina ponedora_229
+    21300460: gallina ponedora_230
+    21300462: gallina ponedora_231
+    21300464: gallina ponedora_232
+    21300466: gallina ponedora_233
+    21300468: gallina ponedora_234
+    21300470: gallina ponedora_235
+    21300472: gallina ponedora_236
+    21300474: gallina ponedora_237
+    21300476: gallina ponedora_238
+    21300478: gallina ponedora_239
+    21300480: gallina ponedora_240
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gallina ponedora_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_1
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_2
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_3
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_4
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_5
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_6
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_7
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_8
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_9
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_10
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_11
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_12
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_13
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_14
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_16
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_17
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_18
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_19
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_20
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_21
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_22
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_23
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_24
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_25
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_26
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_27
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_28
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_29
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_31
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_32
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_33
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_34
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_35
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_36
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_37
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_38
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_39
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_40
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_41
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_42
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_43
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_44
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_47
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_48
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_49
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_50
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_51
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_52
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_53
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_54
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_55
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_56
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_57
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_58
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_59
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_61
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_62
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_63
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_64
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_65
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_66
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_67
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_68
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_69
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_70
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_71
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_72
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_73
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_74
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_76
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_77
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_78
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_79
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_80
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_81
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_82
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_83
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_84
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_85
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_86
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_87
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_88
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_89
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_91
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_92
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_93
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_94
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_95
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_96
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_97
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_98
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_99
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_100
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_101
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_102
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_103
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_104
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_106
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_107
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_108
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_109
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_110
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_111
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_112
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_113
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_114
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_115
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_116
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_117
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_118
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_119
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_121
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_122
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_123
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_124
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_125
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_126
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_127
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_128
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_129
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_130
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_131
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_132
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_133
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_134
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_136
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_137
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_138
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_139
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_140
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_141
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_142
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_143
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_144
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_145
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_146
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_147
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_148
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_149
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_151
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_152
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_153
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_154
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_155
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_156
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_157
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_158
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_159
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_160
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_161
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_162
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_163
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_164
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_166
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_167
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_168
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_169
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_170
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_171
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_172
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_173
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_174
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_175
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_176
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_177
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_178
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_179
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_181
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_182
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_183
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_184
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_185
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_186
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_187
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_188
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_189
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_190
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_191
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_192
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_193
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_194
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_196
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_197
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_198
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_199
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_200
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_201
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_202
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_203
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_204
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_205
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_206
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_207
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_208
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_209
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_211
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_212
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_213
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_214
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_215
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_216
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_217
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_218
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_219
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_220
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_221
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_222
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_223
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_224
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_226
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_227
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_228
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_229
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_230
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_231
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_232
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_233
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_234
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_235
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_236
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_237
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_238
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_239
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallina ponedora_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

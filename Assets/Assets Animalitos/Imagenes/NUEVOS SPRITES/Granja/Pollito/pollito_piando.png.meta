@@ -1,0 +1,3732 @@
+fileFormatVersion: 2
+guid: 87f4d6af354f32446b9cab6ae0ef7e5e
+timeCreated: 1519371523
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pollito_piando_0
+    21300002: pollito_piando_1
+    21300004: pollito_piando_2
+    21300006: pollito_piando_3
+    21300008: pollito_piando_4
+    21300010: pollito_piando_5
+    21300012: pollito_piando_6
+    21300014: pollito_piando_7
+    21300016: pollito_piando_8
+    21300018: pollito_piando_9
+    21300020: pollito_piando_10
+    21300022: pollito_piando_11
+    21300024: pollito_piando_12
+    21300026: pollito_piando_13
+    21300028: pollito_piando_14
+    21300030: pollito_piando_15
+    21300032: pollito_piando_16
+    21300034: pollito_piando_17
+    21300036: pollito_piando_18
+    21300038: pollito_piando_19
+    21300040: pollito_piando_20
+    21300042: pollito_piando_21
+    21300044: pollito_piando_22
+    21300046: pollito_piando_23
+    21300048: pollito_piando_24
+    21300050: pollito_piando_25
+    21300052: pollito_piando_26
+    21300054: pollito_piando_27
+    21300056: pollito_piando_28
+    21300058: pollito_piando_29
+    21300060: pollito_piando_30
+    21300062: pollito_piando_31
+    21300064: pollito_piando_32
+    21300066: pollito_piando_33
+    21300068: pollito_piando_34
+    21300070: pollito_piando_35
+    21300072: pollito_piando_36
+    21300074: pollito_piando_37
+    21300076: pollito_piando_38
+    21300078: pollito_piando_39
+    21300080: pollito_piando_40
+    21300082: pollito_piando_41
+    21300084: pollito_piando_42
+    21300086: pollito_piando_43
+    21300088: pollito_piando_44
+    21300090: pollito_piando_45
+    21300092: pollito_piando_46
+    21300094: pollito_piando_47
+    21300096: pollito_piando_48
+    21300098: pollito_piando_49
+    21300100: pollito_piando_50
+    21300102: pollito_piando_51
+    21300104: pollito_piando_52
+    21300106: pollito_piando_53
+    21300108: pollito_piando_54
+    21300110: pollito_piando_55
+    21300112: pollito_piando_56
+    21300114: pollito_piando_57
+    21300116: pollito_piando_58
+    21300118: pollito_piando_59
+    21300120: pollito_piando_60
+    21300122: pollito_piando_61
+    21300124: pollito_piando_62
+    21300126: pollito_piando_63
+    21300128: pollito_piando_64
+    21300130: pollito_piando_65
+    21300132: pollito_piando_66
+    21300134: pollito_piando_67
+    21300136: pollito_piando_68
+    21300138: pollito_piando_69
+    21300140: pollito_piando_70
+    21300142: pollito_piando_71
+    21300144: pollito_piando_72
+    21300146: pollito_piando_73
+    21300148: pollito_piando_74
+    21300150: pollito_piando_75
+    21300152: pollito_piando_76
+    21300154: pollito_piando_77
+    21300156: pollito_piando_78
+    21300158: pollito_piando_79
+    21300160: pollito_piando_80
+    21300162: pollito_piando_81
+    21300164: pollito_piando_82
+    21300166: pollito_piando_83
+    21300168: pollito_piando_84
+    21300170: pollito_piando_85
+    21300172: pollito_piando_86
+    21300174: pollito_piando_87
+    21300176: pollito_piando_88
+    21300178: pollito_piando_89
+    21300180: pollito_piando_90
+    21300182: pollito_piando_91
+    21300184: pollito_piando_92
+    21300186: pollito_piando_93
+    21300188: pollito_piando_94
+    21300190: pollito_piando_95
+    21300192: pollito_piando_96
+    21300194: pollito_piando_97
+    21300196: pollito_piando_98
+    21300198: pollito_piando_99
+    21300200: pollito_piando_100
+    21300202: pollito_piando_101
+    21300204: pollito_piando_102
+    21300206: pollito_piando_103
+    21300208: pollito_piando_104
+    21300210: pollito_piando_105
+    21300212: pollito_piando_106
+    21300214: pollito_piando_107
+    21300216: pollito_piando_108
+    21300218: pollito_piando_109
+    21300220: pollito_piando_110
+    21300222: pollito_piando_111
+    21300224: pollito_piando_112
+    21300226: pollito_piando_113
+    21300228: pollito_piando_114
+    21300230: pollito_piando_115
+    21300232: pollito_piando_116
+    21300234: pollito_piando_117
+    21300236: pollito_piando_118
+    21300238: pollito_piando_119
+    21300240: pollito_piando_120
+    21300242: pollito_piando_121
+    21300244: pollito_piando_122
+    21300246: pollito_piando_123
+    21300248: pollito_piando_124
+    21300250: pollito_piando_125
+    21300252: pollito_piando_126
+    21300254: pollito_piando_127
+    21300256: pollito_piando_128
+    21300258: pollito_piando_129
+    21300260: pollito_piando_130
+    21300262: pollito_piando_131
+    21300264: pollito_piando_132
+    21300266: pollito_piando_133
+    21300268: pollito_piando_134
+    21300270: pollito_piando_135
+    21300272: pollito_piando_136
+    21300274: pollito_piando_137
+    21300276: pollito_piando_138
+    21300278: pollito_piando_139
+    21300280: pollito_piando_140
+    21300282: pollito_piando_141
+    21300284: pollito_piando_142
+    21300286: pollito_piando_143
+    21300288: pollito_piando_144
+    21300290: pollito_piando_145
+    21300292: pollito_piando_146
+    21300294: pollito_piando_147
+    21300296: pollito_piando_148
+    21300298: pollito_piando_149
+    21300300: pollito_piando_150
+    21300302: pollito_piando_151
+    21300304: pollito_piando_152
+    21300306: pollito_piando_153
+    21300308: pollito_piando_154
+    21300310: pollito_piando_155
+    21300312: pollito_piando_156
+    21300314: pollito_piando_157
+    21300316: pollito_piando_158
+    21300318: pollito_piando_159
+    21300320: pollito_piando_160
+    21300322: pollito_piando_161
+    21300324: pollito_piando_162
+    21300326: pollito_piando_163
+    21300328: pollito_piando_164
+    21300330: pollito_piando_165
+    21300332: pollito_piando_166
+    21300334: pollito_piando_167
+    21300336: pollito_piando_168
+    21300338: pollito_piando_169
+    21300340: pollito_piando_170
+    21300342: pollito_piando_171
+    21300344: pollito_piando_172
+    21300346: pollito_piando_173
+    21300348: pollito_piando_174
+    21300350: pollito_piando_175
+    21300352: pollito_piando_176
+    21300354: pollito_piando_177
+    21300356: pollito_piando_178
+    21300358: pollito_piando_179
+    21300360: pollito_piando_180
+    21300362: pollito_piando_181
+    21300364: pollito_piando_182
+    21300366: pollito_piando_183
+    21300368: pollito_piando_184
+    21300370: pollito_piando_185
+    21300372: pollito_piando_186
+    21300374: pollito_piando_187
+    21300376: pollito_piando_188
+    21300378: pollito_piando_189
+    21300380: pollito_piando_190
+    21300382: pollito_piando_191
+    21300384: pollito_piando_192
+    21300386: pollito_piando_193
+    21300388: pollito_piando_194
+    21300390: pollito_piando_195
+    21300392: pollito_piando_196
+    21300394: pollito_piando_197
+    21300396: pollito_piando_198
+    21300398: pollito_piando_199
+    21300400: pollito_piando_200
+    21300402: pollito_piando_201
+    21300404: pollito_piando_202
+    21300406: pollito_piando_203
+    21300408: pollito_piando_204
+    21300410: pollito_piando_205
+    21300412: pollito_piando_206
+    21300414: pollito_piando_207
+    21300416: pollito_piando_208
+    21300418: pollito_piando_209
+    21300420: pollito_piando_210
+    21300422: pollito_piando_211
+    21300424: pollito_piando_212
+    21300426: pollito_piando_213
+    21300428: pollito_piando_214
+    21300430: pollito_piando_215
+    21300432: pollito_piando_216
+    21300434: pollito_piando_217
+    21300436: pollito_piando_218
+    21300438: pollito_piando_219
+    21300440: pollito_piando_220
+    21300442: pollito_piando_221
+    21300444: pollito_piando_222
+    21300446: pollito_piando_223
+    21300448: pollito_piando_224
+    21300450: pollito_piando_225
+    21300452: pollito_piando_226
+    21300454: pollito_piando_227
+    21300456: pollito_piando_228
+    21300458: pollito_piando_229
+    21300460: pollito_piando_230
+    21300462: pollito_piando_231
+    21300464: pollito_piando_232
+    21300466: pollito_piando_233
+    21300468: pollito_piando_234
+    21300470: pollito_piando_235
+    21300472: pollito_piando_236
+    21300474: pollito_piando_237
+    21300476: pollito_piando_238
+    21300478: pollito_piando_239
+    21300480: pollito_piando_240
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pollito_piando_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_1
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_2
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_3
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_4
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_5
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_6
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_7
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_8
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_9
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_10
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_11
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_12
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_13
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_14
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_16
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_17
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_18
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_19
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_20
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_21
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_22
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_23
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_24
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_25
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_26
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_27
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_28
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_29
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_31
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_32
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_33
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_34
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_35
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_36
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_37
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_38
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_39
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_40
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_41
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_42
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_43
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_44
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_47
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_48
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_49
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_50
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_51
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_52
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_53
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_54
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_55
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_56
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_57
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_58
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_59
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_61
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_62
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_63
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_64
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_65
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_66
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_67
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_68
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_69
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_70
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_71
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_72
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_73
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_74
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_76
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_77
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_78
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_79
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_80
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_81
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_82
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_83
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_84
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_85
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_86
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_87
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_88
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_89
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_91
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_92
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_93
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_94
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_95
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_96
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_97
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_98
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_99
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_100
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_101
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_102
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_103
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_104
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_106
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_107
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_108
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_109
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_110
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_111
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_112
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_113
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_114
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_115
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_116
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_117
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_118
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_119
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_121
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_122
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_123
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_124
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_125
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_126
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_127
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_128
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_129
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_130
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_131
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_132
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_133
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_134
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_136
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_137
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_138
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_139
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_140
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_141
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_142
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_143
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_144
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_145
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_146
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_147
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_148
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_149
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_151
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_152
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_153
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_154
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_155
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_156
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_157
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_158
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_159
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_160
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_161
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_162
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_163
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_164
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_166
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_167
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_168
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_169
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_170
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_171
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_172
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_173
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_174
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_175
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_176
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_177
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_178
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_179
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_181
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_182
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_183
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_184
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_185
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_186
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_187
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_188
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_189
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_190
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_191
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_192
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_193
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_194
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_196
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_197
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_198
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_199
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_200
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_201
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_202
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_203
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_204
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_205
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_206
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_207
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_208
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_209
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_211
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_212
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_213
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_214
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_215
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_216
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_217
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_218
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_219
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_220
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_221
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_222
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_223
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_224
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_226
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_227
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_228
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_229
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_230
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_231
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_232
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_233
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_234
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_235
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_236
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_237
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_238
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_239
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pollito_piando_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

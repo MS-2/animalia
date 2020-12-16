@@ -1,0 +1,3702 @@
+fileFormatVersion: 2
+guid: 47eb557024a919f4e8d0bb1478b80e96
+timeCreated: 1519899399
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Buho aletea_0
+    21300002: Buho aletea_1
+    21300004: Buho aletea_2
+    21300006: Buho aletea_3
+    21300008: Buho aletea_4
+    21300010: Buho aletea_5
+    21300012: Buho aletea_6
+    21300014: Buho aletea_7
+    21300016: Buho aletea_8
+    21300018: Buho aletea_9
+    21300020: Buho aletea_10
+    21300022: Buho aletea_11
+    21300024: Buho aletea_12
+    21300026: Buho aletea_13
+    21300028: Buho aletea_14
+    21300030: Buho aletea_15
+    21300032: Buho aletea_16
+    21300034: Buho aletea_17
+    21300036: Buho aletea_18
+    21300038: Buho aletea_19
+    21300040: Buho aletea_20
+    21300042: Buho aletea_21
+    21300044: Buho aletea_22
+    21300046: Buho aletea_23
+    21300048: Buho aletea_24
+    21300050: Buho aletea_25
+    21300052: Buho aletea_26
+    21300054: Buho aletea_27
+    21300056: Buho aletea_28
+    21300058: Buho aletea_29
+    21300060: Buho aletea_30
+    21300062: Buho aletea_31
+    21300064: Buho aletea_32
+    21300066: Buho aletea_33
+    21300068: Buho aletea_34
+    21300070: Buho aletea_35
+    21300072: Buho aletea_36
+    21300074: Buho aletea_37
+    21300076: Buho aletea_38
+    21300078: Buho aletea_39
+    21300080: Buho aletea_40
+    21300082: Buho aletea_41
+    21300084: Buho aletea_42
+    21300086: Buho aletea_43
+    21300088: Buho aletea_44
+    21300090: Buho aletea_45
+    21300092: Buho aletea_46
+    21300094: Buho aletea_47
+    21300096: Buho aletea_48
+    21300098: Buho aletea_49
+    21300100: Buho aletea_50
+    21300102: Buho aletea_51
+    21300104: Buho aletea_52
+    21300106: Buho aletea_53
+    21300108: Buho aletea_54
+    21300110: Buho aletea_55
+    21300112: Buho aletea_56
+    21300114: Buho aletea_57
+    21300116: Buho aletea_58
+    21300118: Buho aletea_59
+    21300120: Buho aletea_60
+    21300122: Buho aletea_61
+    21300124: Buho aletea_62
+    21300126: Buho aletea_63
+    21300128: Buho aletea_64
+    21300130: Buho aletea_65
+    21300132: Buho aletea_66
+    21300134: Buho aletea_67
+    21300136: Buho aletea_68
+    21300138: Buho aletea_69
+    21300140: Buho aletea_70
+    21300142: Buho aletea_71
+    21300144: Buho aletea_72
+    21300146: Buho aletea_73
+    21300148: Buho aletea_74
+    21300150: Buho aletea_75
+    21300152: Buho aletea_76
+    21300154: Buho aletea_77
+    21300156: Buho aletea_78
+    21300158: Buho aletea_79
+    21300160: Buho aletea_80
+    21300162: Buho aletea_81
+    21300164: Buho aletea_82
+    21300166: Buho aletea_83
+    21300168: Buho aletea_84
+    21300170: Buho aletea_85
+    21300172: Buho aletea_86
+    21300174: Buho aletea_87
+    21300176: Buho aletea_88
+    21300178: Buho aletea_89
+    21300180: Buho aletea_90
+    21300182: Buho aletea_91
+    21300184: Buho aletea_92
+    21300186: Buho aletea_93
+    21300188: Buho aletea_94
+    21300190: Buho aletea_95
+    21300192: Buho aletea_96
+    21300194: Buho aletea_97
+    21300196: Buho aletea_98
+    21300198: Buho aletea_99
+    21300200: Buho aletea_100
+    21300202: Buho aletea_101
+    21300204: Buho aletea_102
+    21300206: Buho aletea_103
+    21300208: Buho aletea_104
+    21300210: Buho aletea_105
+    21300212: Buho aletea_106
+    21300214: Buho aletea_107
+    21300216: Buho aletea_108
+    21300218: Buho aletea_109
+    21300220: Buho aletea_110
+    21300222: Buho aletea_111
+    21300224: Buho aletea_112
+    21300226: Buho aletea_113
+    21300228: Buho aletea_114
+    21300230: Buho aletea_115
+    21300232: Buho aletea_116
+    21300234: Buho aletea_117
+    21300236: Buho aletea_118
+    21300238: Buho aletea_119
+    21300240: Buho aletea_120
+    21300242: Buho aletea_121
+    21300244: Buho aletea_122
+    21300246: Buho aletea_123
+    21300248: Buho aletea_124
+    21300250: Buho aletea_125
+    21300252: Buho aletea_126
+    21300254: Buho aletea_127
+    21300256: Buho aletea_128
+    21300258: Buho aletea_129
+    21300260: Buho aletea_130
+    21300262: Buho aletea_131
+    21300264: Buho aletea_132
+    21300266: Buho aletea_133
+    21300268: Buho aletea_134
+    21300270: Buho aletea_135
+    21300272: Buho aletea_136
+    21300274: Buho aletea_137
+    21300276: Buho aletea_138
+    21300278: Buho aletea_139
+    21300280: Buho aletea_140
+    21300282: Buho aletea_141
+    21300284: Buho aletea_142
+    21300286: Buho aletea_143
+    21300288: Buho aletea_144
+    21300290: Buho aletea_145
+    21300292: Buho aletea_146
+    21300294: Buho aletea_147
+    21300296: Buho aletea_148
+    21300298: Buho aletea_149
+    21300300: Buho aletea_150
+    21300302: Buho aletea_151
+    21300304: Buho aletea_152
+    21300306: Buho aletea_153
+    21300308: Buho aletea_154
+    21300310: Buho aletea_155
+    21300312: Buho aletea_156
+    21300314: Buho aletea_157
+    21300316: Buho aletea_158
+    21300318: Buho aletea_159
+    21300320: Buho aletea_160
+    21300322: Buho aletea_161
+    21300324: Buho aletea_162
+    21300326: Buho aletea_163
+    21300328: Buho aletea_164
+    21300330: Buho aletea_165
+    21300332: Buho aletea_166
+    21300334: Buho aletea_167
+    21300336: Buho aletea_168
+    21300338: Buho aletea_169
+    21300340: Buho aletea_170
+    21300342: Buho aletea_171
+    21300344: Buho aletea_172
+    21300346: Buho aletea_173
+    21300348: Buho aletea_174
+    21300350: Buho aletea_175
+    21300352: Buho aletea_176
+    21300354: Buho aletea_177
+    21300356: Buho aletea_178
+    21300358: Buho aletea_179
+    21300360: Buho aletea_180
+    21300362: Buho aletea_181
+    21300364: Buho aletea_182
+    21300366: Buho aletea_183
+    21300368: Buho aletea_184
+    21300370: Buho aletea_185
+    21300372: Buho aletea_186
+    21300374: Buho aletea_187
+    21300376: Buho aletea_188
+    21300378: Buho aletea_189
+    21300380: Buho aletea_190
+    21300382: Buho aletea_191
+    21300384: Buho aletea_192
+    21300386: Buho aletea_193
+    21300388: Buho aletea_194
+    21300390: Buho aletea_195
+    21300392: Buho aletea_196
+    21300394: Buho aletea_197
+    21300396: Buho aletea_198
+    21300398: Buho aletea_199
+    21300400: Buho aletea_200
+    21300402: Buho aletea_201
+    21300404: Buho aletea_202
+    21300406: Buho aletea_203
+    21300408: Buho aletea_204
+    21300410: Buho aletea_205
+    21300412: Buho aletea_206
+    21300414: Buho aletea_207
+    21300416: Buho aletea_208
+    21300418: Buho aletea_209
+    21300420: Buho aletea_210
+    21300422: Buho aletea_211
+    21300424: Buho aletea_212
+    21300426: Buho aletea_213
+    21300428: Buho aletea_214
+    21300430: Buho aletea_215
+    21300432: Buho aletea_216
+    21300434: Buho aletea_217
+    21300436: Buho aletea_218
+    21300438: Buho aletea_219
+    21300440: Buho aletea_220
+    21300442: Buho aletea_221
+    21300444: Buho aletea_222
+    21300446: Buho aletea_223
+    21300448: Buho aletea_224
+    21300450: Buho aletea_225
+    21300452: Buho aletea_226
+    21300454: Buho aletea_227
+    21300456: Buho aletea_228
+    21300458: Buho aletea_229
+    21300460: Buho aletea_230
+    21300462: Buho aletea_231
+    21300464: Buho aletea_232
+    21300466: Buho aletea_233
+    21300468: Buho aletea_234
+    21300470: Buho aletea_235
+    21300472: Buho aletea_236
+    21300474: Buho aletea_237
+    21300476: Buho aletea_238
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buho aletea_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_1
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_2
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_3
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_4
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_5
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_6
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_7
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_8
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_9
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_10
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_11
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_12
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_13
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_14
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_16
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_17
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_18
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_19
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_20
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_21
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_22
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_23
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_24
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_25
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_26
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_27
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_28
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_29
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_31
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_32
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_33
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_34
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_35
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_36
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_37
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_38
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_39
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_40
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_41
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_42
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_43
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_44
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_47
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_48
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_49
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_50
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_51
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_52
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_53
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_54
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_55
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_56
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_57
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_58
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_59
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_61
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_62
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_63
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_64
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_65
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_66
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_67
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_68
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_69
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_70
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_71
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_72
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_73
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_74
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_76
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_77
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_78
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_79
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_80
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_81
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_82
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_83
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_84
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_85
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_86
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_87
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_88
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_89
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_91
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_92
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_93
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_94
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_95
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_96
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_97
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_98
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_99
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_100
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_101
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_102
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_103
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_104
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_106
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_107
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_108
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_109
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_110
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_111
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_112
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_113
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_114
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_115
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_116
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_117
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_118
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_119
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_121
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_122
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_123
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_124
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_125
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_126
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_127
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_128
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_129
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_130
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_131
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_132
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_133
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_134
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_136
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_137
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_138
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_139
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_140
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_141
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_142
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_143
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_144
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_145
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_146
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_147
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_148
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_149
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_151
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_152
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_153
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_154
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_155
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_156
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_157
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_158
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_159
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_160
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_161
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_162
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_163
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_164
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_166
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_167
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_168
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_169
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_170
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_171
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_172
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_173
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_174
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_175
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_176
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_177
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_178
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_179
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_181
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_182
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_183
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_184
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_185
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_186
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_187
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_188
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_189
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_190
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_191
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_192
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_193
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_194
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_196
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_197
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_198
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_199
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_200
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_201
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_202
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_203
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_204
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_205
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_206
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_207
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_208
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_209
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_211
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_212
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_213
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_214
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_215
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_216
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_217
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_218
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_219
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_220
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_221
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_222
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_223
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_224
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_226
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_227
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_228
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_229
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_230
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_231
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_232
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_233
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_234
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_235
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_236
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_237
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buho aletea_238
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

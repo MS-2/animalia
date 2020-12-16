@@ -1,0 +1,3732 @@
+fileFormatVersion: 2
+guid: d793ce48919fe1d4aaf4a71f0e27baa8
+timeCreated: 1518510922
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\xC1guila_vuela_0"
+    21300002: "\xC1guila_vuela_1"
+    21300004: "\xC1guila_vuela_2"
+    21300006: "\xC1guila_vuela_3"
+    21300008: "\xC1guila_vuela_4"
+    21300010: "\xC1guila_vuela_5"
+    21300012: "\xC1guila_vuela_6"
+    21300014: "\xC1guila_vuela_7"
+    21300016: "\xC1guila_vuela_8"
+    21300018: "\xC1guila_vuela_9"
+    21300020: "\xC1guila_vuela_10"
+    21300022: "\xC1guila_vuela_11"
+    21300024: "\xC1guila_vuela_12"
+    21300026: "\xC1guila_vuela_13"
+    21300028: "\xC1guila_vuela_14"
+    21300030: "\xC1guila_vuela_15"
+    21300032: "\xC1guila_vuela_16"
+    21300034: "\xC1guila_vuela_17"
+    21300036: "\xC1guila_vuela_18"
+    21300038: "\xC1guila_vuela_19"
+    21300040: "\xC1guila_vuela_20"
+    21300042: "\xC1guila_vuela_21"
+    21300044: "\xC1guila_vuela_22"
+    21300046: "\xC1guila_vuela_23"
+    21300048: "\xC1guila_vuela_24"
+    21300050: "\xC1guila_vuela_25"
+    21300052: "\xC1guila_vuela_26"
+    21300054: "\xC1guila_vuela_27"
+    21300056: "\xC1guila_vuela_28"
+    21300058: "\xC1guila_vuela_29"
+    21300060: "\xC1guila_vuela_30"
+    21300062: "\xC1guila_vuela_31"
+    21300064: "\xC1guila_vuela_32"
+    21300066: "\xC1guila_vuela_33"
+    21300068: "\xC1guila_vuela_34"
+    21300070: "\xC1guila_vuela_35"
+    21300072: "\xC1guila_vuela_36"
+    21300074: "\xC1guila_vuela_37"
+    21300076: "\xC1guila_vuela_38"
+    21300078: "\xC1guila_vuela_39"
+    21300080: "\xC1guila_vuela_40"
+    21300082: "\xC1guila_vuela_41"
+    21300084: "\xC1guila_vuela_42"
+    21300086: "\xC1guila_vuela_43"
+    21300088: "\xC1guila_vuela_44"
+    21300090: "\xC1guila_vuela_45"
+    21300092: "\xC1guila_vuela_46"
+    21300094: "\xC1guila_vuela_47"
+    21300096: "\xC1guila_vuela_48"
+    21300098: "\xC1guila_vuela_49"
+    21300100: "\xC1guila_vuela_50"
+    21300102: "\xC1guila_vuela_51"
+    21300104: "\xC1guila_vuela_52"
+    21300106: "\xC1guila_vuela_53"
+    21300108: "\xC1guila_vuela_54"
+    21300110: "\xC1guila_vuela_55"
+    21300112: "\xC1guila_vuela_56"
+    21300114: "\xC1guila_vuela_57"
+    21300116: "\xC1guila_vuela_58"
+    21300118: "\xC1guila_vuela_59"
+    21300120: "\xC1guila_vuela_60"
+    21300122: "\xC1guila_vuela_61"
+    21300124: "\xC1guila_vuela_62"
+    21300126: "\xC1guila_vuela_63"
+    21300128: "\xC1guila_vuela_64"
+    21300130: "\xC1guila_vuela_65"
+    21300132: "\xC1guila_vuela_66"
+    21300134: "\xC1guila_vuela_67"
+    21300136: "\xC1guila_vuela_68"
+    21300138: "\xC1guila_vuela_69"
+    21300140: "\xC1guila_vuela_70"
+    21300142: "\xC1guila_vuela_71"
+    21300144: "\xC1guila_vuela_72"
+    21300146: "\xC1guila_vuela_73"
+    21300148: "\xC1guila_vuela_74"
+    21300150: "\xC1guila_vuela_75"
+    21300152: "\xC1guila_vuela_76"
+    21300154: "\xC1guila_vuela_77"
+    21300156: "\xC1guila_vuela_78"
+    21300158: "\xC1guila_vuela_79"
+    21300160: "\xC1guila_vuela_80"
+    21300162: "\xC1guila_vuela_81"
+    21300164: "\xC1guila_vuela_82"
+    21300166: "\xC1guila_vuela_83"
+    21300168: "\xC1guila_vuela_84"
+    21300170: "\xC1guila_vuela_85"
+    21300172: "\xC1guila_vuela_86"
+    21300174: "\xC1guila_vuela_87"
+    21300176: "\xC1guila_vuela_88"
+    21300178: "\xC1guila_vuela_89"
+    21300180: "\xC1guila_vuela_90"
+    21300182: "\xC1guila_vuela_91"
+    21300184: "\xC1guila_vuela_92"
+    21300186: "\xC1guila_vuela_93"
+    21300188: "\xC1guila_vuela_94"
+    21300190: "\xC1guila_vuela_95"
+    21300192: "\xC1guila_vuela_96"
+    21300194: "\xC1guila_vuela_97"
+    21300196: "\xC1guila_vuela_98"
+    21300198: "\xC1guila_vuela_99"
+    21300200: "\xC1guila_vuela_100"
+    21300202: "\xC1guila_vuela_101"
+    21300204: "\xC1guila_vuela_102"
+    21300206: "\xC1guila_vuela_103"
+    21300208: "\xC1guila_vuela_104"
+    21300210: "\xC1guila_vuela_105"
+    21300212: "\xC1guila_vuela_106"
+    21300214: "\xC1guila_vuela_107"
+    21300216: "\xC1guila_vuela_108"
+    21300218: "\xC1guila_vuela_109"
+    21300220: "\xC1guila_vuela_110"
+    21300222: "\xC1guila_vuela_111"
+    21300224: "\xC1guila_vuela_112"
+    21300226: "\xC1guila_vuela_113"
+    21300228: "\xC1guila_vuela_114"
+    21300230: "\xC1guila_vuela_115"
+    21300232: "\xC1guila_vuela_116"
+    21300234: "\xC1guila_vuela_117"
+    21300236: "\xC1guila_vuela_118"
+    21300238: "\xC1guila_vuela_119"
+    21300240: "\xC1guila_vuela_120"
+    21300242: "\xC1guila_vuela_121"
+    21300244: "\xC1guila_vuela_122"
+    21300246: "\xC1guila_vuela_123"
+    21300248: "\xC1guila_vuela_124"
+    21300250: "\xC1guila_vuela_125"
+    21300252: "\xC1guila_vuela_126"
+    21300254: "\xC1guila_vuela_127"
+    21300256: "\xC1guila_vuela_128"
+    21300258: "\xC1guila_vuela_129"
+    21300260: "\xC1guila_vuela_130"
+    21300262: "\xC1guila_vuela_131"
+    21300264: "\xC1guila_vuela_132"
+    21300266: "\xC1guila_vuela_133"
+    21300268: "\xC1guila_vuela_134"
+    21300270: "\xC1guila_vuela_135"
+    21300272: "\xC1guila_vuela_136"
+    21300274: "\xC1guila_vuela_137"
+    21300276: "\xC1guila_vuela_138"
+    21300278: "\xC1guila_vuela_139"
+    21300280: "\xC1guila_vuela_140"
+    21300282: "\xC1guila_vuela_141"
+    21300284: "\xC1guila_vuela_142"
+    21300286: "\xC1guila_vuela_143"
+    21300288: "\xC1guila_vuela_144"
+    21300290: "\xC1guila_vuela_145"
+    21300292: "\xC1guila_vuela_146"
+    21300294: "\xC1guila_vuela_147"
+    21300296: "\xC1guila_vuela_148"
+    21300298: "\xC1guila_vuela_149"
+    21300300: "\xC1guila_vuela_150"
+    21300302: "\xC1guila_vuela_151"
+    21300304: "\xC1guila_vuela_152"
+    21300306: "\xC1guila_vuela_153"
+    21300308: "\xC1guila_vuela_154"
+    21300310: "\xC1guila_vuela_155"
+    21300312: "\xC1guila_vuela_156"
+    21300314: "\xC1guila_vuela_157"
+    21300316: "\xC1guila_vuela_158"
+    21300318: "\xC1guila_vuela_159"
+    21300320: "\xC1guila_vuela_160"
+    21300322: "\xC1guila_vuela_161"
+    21300324: "\xC1guila_vuela_162"
+    21300326: "\xC1guila_vuela_163"
+    21300328: "\xC1guila_vuela_164"
+    21300330: "\xC1guila_vuela_165"
+    21300332: "\xC1guila_vuela_166"
+    21300334: "\xC1guila_vuela_167"
+    21300336: "\xC1guila_vuela_168"
+    21300338: "\xC1guila_vuela_169"
+    21300340: "\xC1guila_vuela_170"
+    21300342: "\xC1guila_vuela_171"
+    21300344: "\xC1guila_vuela_172"
+    21300346: "\xC1guila_vuela_173"
+    21300348: "\xC1guila_vuela_174"
+    21300350: "\xC1guila_vuela_175"
+    21300352: "\xC1guila_vuela_176"
+    21300354: "\xC1guila_vuela_177"
+    21300356: "\xC1guila_vuela_178"
+    21300358: "\xC1guila_vuela_179"
+    21300360: "\xC1guila_vuela_180"
+    21300362: "\xC1guila_vuela_181"
+    21300364: "\xC1guila_vuela_182"
+    21300366: "\xC1guila_vuela_183"
+    21300368: "\xC1guila_vuela_184"
+    21300370: "\xC1guila_vuela_185"
+    21300372: "\xC1guila_vuela_186"
+    21300374: "\xC1guila_vuela_187"
+    21300376: "\xC1guila_vuela_188"
+    21300378: "\xC1guila_vuela_189"
+    21300380: "\xC1guila_vuela_190"
+    21300382: "\xC1guila_vuela_191"
+    21300384: "\xC1guila_vuela_192"
+    21300386: "\xC1guila_vuela_193"
+    21300388: "\xC1guila_vuela_194"
+    21300390: "\xC1guila_vuela_195"
+    21300392: "\xC1guila_vuela_196"
+    21300394: "\xC1guila_vuela_197"
+    21300396: "\xC1guila_vuela_198"
+    21300398: "\xC1guila_vuela_199"
+    21300400: "\xC1guila_vuela_200"
+    21300402: "\xC1guila_vuela_201"
+    21300404: "\xC1guila_vuela_202"
+    21300406: "\xC1guila_vuela_203"
+    21300408: "\xC1guila_vuela_204"
+    21300410: "\xC1guila_vuela_205"
+    21300412: "\xC1guila_vuela_206"
+    21300414: "\xC1guila_vuela_207"
+    21300416: "\xC1guila_vuela_208"
+    21300418: "\xC1guila_vuela_209"
+    21300420: "\xC1guila_vuela_210"
+    21300422: "\xC1guila_vuela_211"
+    21300424: "\xC1guila_vuela_212"
+    21300426: "\xC1guila_vuela_213"
+    21300428: "\xC1guila_vuela_214"
+    21300430: "\xC1guila_vuela_215"
+    21300432: "\xC1guila_vuela_216"
+    21300434: "\xC1guila_vuela_217"
+    21300436: "\xC1guila_vuela_218"
+    21300438: "\xC1guila_vuela_219"
+    21300440: "\xC1guila_vuela_220"
+    21300442: "\xC1guila_vuela_221"
+    21300444: "\xC1guila_vuela_222"
+    21300446: "\xC1guila_vuela_223"
+    21300448: "\xC1guila_vuela_224"
+    21300450: "\xC1guila_vuela_225"
+    21300452: "\xC1guila_vuela_226"
+    21300454: "\xC1guila_vuela_227"
+    21300456: "\xC1guila_vuela_228"
+    21300458: "\xC1guila_vuela_229"
+    21300460: "\xC1guila_vuela_230"
+    21300462: "\xC1guila_vuela_231"
+    21300464: "\xC1guila_vuela_232"
+    21300466: "\xC1guila_vuela_233"
+    21300468: "\xC1guila_vuela_234"
+    21300470: "\xC1guila_vuela_235"
+    21300472: "\xC1guila_vuela_236"
+    21300474: "\xC1guila_vuela_237"
+    21300476: "\xC1guila_vuela_238"
+    21300478: "\xC1guila_vuela_239"
+    21300480: "\xC1guila_vuela_240"
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_0"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4647
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_1"
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 4647
+        width: 242
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_2"
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 4647
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_3"
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 4647
+        width: 242
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_4"
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 4647
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_5"
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 4647
+        width: 242
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_6"
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 4647
+        width: 242
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_7"
+      rect:
+        serializedVersion: 2
+        x: 4867
+        y: 4647
+        width: 242
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_8"
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 4647
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_9"
+      rect:
+        serializedVersion: 2
+        x: 6245
+        y: 4647
+        width: 242
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_10"
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 4647
+        width: 242
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_11"
+      rect:
+        serializedVersion: 2
+        x: 7623
+        y: 4647
+        width: 242
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_12"
+      rect:
+        serializedVersion: 2
+        x: 8314
+        y: 4647
+        width: 242
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_13"
+      rect:
+        serializedVersion: 2
+        x: 9001
+        y: 4647
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_14"
+      rect:
+        serializedVersion: 2
+        x: 9692
+        y: 4647
+        width: 242
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_15"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4359
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_16"
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 4359
+        width: 242
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_17"
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 4359
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_18"
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 4359
+        width: 242
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_19"
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 4364
+        width: 237
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_20"
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4364
+        width: 227
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_21"
+      rect:
+        serializedVersion: 2
+        x: 4196
+        y: 4369
+        width: 216
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_22"
+      rect:
+        serializedVersion: 2
+        x: 4883
+        y: 4369
+        width: 216
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_23"
+      rect:
+        serializedVersion: 2
+        x: 5569
+        y: 4370
+        width: 221
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_24"
+      rect:
+        serializedVersion: 2
+        x: 6260
+        y: 4370
+        width: 217
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_25"
+      rect:
+        serializedVersion: 2
+        x: 6951
+        y: 4370
+        width: 217
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_26"
+      rect:
+        serializedVersion: 2
+        x: 7639
+        y: 4370
+        width: 216
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_27"
+      rect:
+        serializedVersion: 2
+        x: 8334
+        y: 4370
+        width: 212
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_28"
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 4371
+        width: 219
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_29"
+      rect:
+        serializedVersion: 2
+        x: 9707
+        y: 4370
+        width: 221
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_30"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4082
+        width: 231
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_31"
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 4081
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_32"
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 4082
+        width: 237
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_33"
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 4082
+        width: 242
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_34"
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 4082
+        width: 241
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_35"
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 4082
+        width: 242
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_36"
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 4082
+        width: 241
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_37"
+      rect:
+        serializedVersion: 2
+        x: 4867
+        y: 4081
+        width: 242
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_38"
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 4082
+        width: 241
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_39"
+      rect:
+        serializedVersion: 2
+        x: 6245
+        y: 4082
+        width: 242
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_40"
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 4081
+        width: 242
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_41"
+      rect:
+        serializedVersion: 2
+        x: 7623
+        y: 4082
+        width: 242
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_42"
+      rect:
+        serializedVersion: 2
+        x: 8314
+        y: 4082
+        width: 242
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_43"
+      rect:
+        serializedVersion: 2
+        x: 9001
+        y: 4082
+        width: 241
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_44"
+      rect:
+        serializedVersion: 2
+        x: 9697
+        y: 4082
+        width: 236
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_45"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3794
+        width: 226
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_46"
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 3794
+        width: 215
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_47"
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 3794
+        width: 218
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_48"
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 3794
+        width: 217
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_49"
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 3794
+        width: 219
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_50"
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 3794
+        width: 217
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_51"
+      rect:
+        serializedVersion: 2
+        x: 4196
+        y: 3794
+        width: 216
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_52"
+      rect:
+        serializedVersion: 2
+        x: 4885
+        y: 3794
+        width: 214
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_53"
+      rect:
+        serializedVersion: 2
+        x: 5574
+        y: 3794
+        width: 216
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_54"
+      rect:
+        serializedVersion: 2
+        x: 6260
+        y: 3794
+        width: 222
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_55"
+      rect:
+        serializedVersion: 2
+        x: 6947
+        y: 3794
+        width: 226
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_56"
+      rect:
+        serializedVersion: 2
+        x: 7633
+        y: 3794
+        width: 231
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_57"
+      rect:
+        serializedVersion: 2
+        x: 8319
+        y: 3794
+        width: 234
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_58"
+      rect:
+        serializedVersion: 2
+        x: 9005
+        y: 3794
+        width: 237
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_59"
+      rect:
+        serializedVersion: 2
+        x: 9692
+        y: 3794
+        width: 242
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_60"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3506
+        width: 242
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_61"
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 3506
+        width: 242
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_62"
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 3506
+        width: 241
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_63"
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 3506
+        width: 242
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_64"
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 3506
+        width: 241
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_65"
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 3506
+        width: 242
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_66"
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 3506
+        width: 242
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_67"
+      rect:
+        serializedVersion: 2
+        x: 4867
+        y: 3506
+        width: 242
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_68"
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 3506
+        width: 241
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_69"
+      rect:
+        serializedVersion: 2
+        x: 6245
+        y: 3506
+        width: 242
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_70"
+      rect:
+        serializedVersion: 2
+        x: 6938
+        y: 3506
+        width: 239
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_71"
+      rect:
+        serializedVersion: 2
+        x: 7638
+        y: 3506
+        width: 222
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_72"
+      rect:
+        serializedVersion: 2
+        x: 8330
+        y: 3506
+        width: 216
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_73"
+      rect:
+        serializedVersion: 2
+        x: 9016
+        y: 3506
+        width: 216
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_74"
+      rect:
+        serializedVersion: 2
+        x: 9703
+        y: 3506
+        width: 220
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_75"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3218
+        width: 217
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_76"
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 3218
+        width: 217
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_77"
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 3218
+        width: 219
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_78"
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 3218
+        width: 217
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_79"
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 3218
+        width: 220
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_80"
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 3218
+        width: 217
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_81"
+      rect:
+        serializedVersion: 2
+        x: 4196
+        y: 3218
+        width: 216
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_82"
+      rect:
+        serializedVersion: 2
+        x: 4883
+        y: 3218
+        width: 216
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_83"
+      rect:
+        serializedVersion: 2
+        x: 5574
+        y: 3218
+        width: 216
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_84"
+      rect:
+        serializedVersion: 2
+        x: 6265
+        y: 3218
+        width: 212
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_85"
+      rect:
+        serializedVersion: 2
+        x: 6954
+        y: 3218
+        width: 214
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_86"
+      rect:
+        serializedVersion: 2
+        x: 7643
+        y: 3218
+        width: 214
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_87"
+      rect:
+        serializedVersion: 2
+        x: 8329
+        y: 3218
+        width: 217
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_88"
+      rect:
+        serializedVersion: 2
+        x: 9016
+        y: 3218
+        width: 221
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_89"
+      rect:
+        serializedVersion: 2
+        x: 9707
+        y: 3218
+        width: 221
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_90"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2930
+        width: 222
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_91"
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 2930
+        width: 226
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_92"
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 2930
+        width: 226
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_93"
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 2930
+        width: 227
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_94"
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2930
+        width: 232
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_95"
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 2930
+        width: 236
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_96"
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 2930
+        width: 232
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_97"
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 2930
+        width: 237
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_98"
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 2930
+        width: 240
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_99"
+      rect:
+        serializedVersion: 2
+        x: 6250
+        y: 2930
+        width: 237
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_100"
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 2925
+        width: 242
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_101"
+      rect:
+        serializedVersion: 2
+        x: 7623
+        y: 2925
+        width: 242
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_102"
+      rect:
+        serializedVersion: 2
+        x: 8314
+        y: 2921
+        width: 242
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_103"
+      rect:
+        serializedVersion: 2
+        x: 9001
+        y: 2920
+        width: 241
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_104"
+      rect:
+        serializedVersion: 2
+        x: 9692
+        y: 2920
+        width: 242
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_105"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2632
+        width: 242
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_106"
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2632
+        width: 242
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_107"
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2632
+        width: 241
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_108"
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2632
+        width: 242
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_109"
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 2632
+        width: 240
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_110"
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 2632
+        width: 242
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_111"
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 2632
+        width: 241
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_112"
+      rect:
+        serializedVersion: 2
+        x: 4867
+        y: 2632
+        width: 242
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_113"
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 2632
+        width: 241
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_114"
+      rect:
+        serializedVersion: 2
+        x: 6245
+        y: 2632
+        width: 242
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_115"
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 2632
+        width: 242
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_116"
+      rect:
+        serializedVersion: 2
+        x: 7623
+        y: 2632
+        width: 242
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_117"
+      rect:
+        serializedVersion: 2
+        x: 8314
+        y: 2632
+        width: 242
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_118"
+      rect:
+        serializedVersion: 2
+        x: 9001
+        y: 2632
+        width: 241
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_119"
+      rect:
+        serializedVersion: 2
+        x: 9692
+        y: 2632
+        width: 242
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_120"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2345
+        width: 242
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_121"
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2345
+        width: 242
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_122"
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2345
+        width: 241
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_123"
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2345
+        width: 242
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_124"
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 2345
+        width: 241
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_125"
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 2345
+        width: 242
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_126"
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 2345
+        width: 241
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_127"
+      rect:
+        serializedVersion: 2
+        x: 4867
+        y: 2345
+        width: 242
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_128"
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 2345
+        width: 241
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_129"
+      rect:
+        serializedVersion: 2
+        x: 6245
+        y: 2345
+        width: 242
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_130"
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 2345
+        width: 242
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_131"
+      rect:
+        serializedVersion: 2
+        x: 7623
+        y: 2345
+        width: 242
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_132"
+      rect:
+        serializedVersion: 2
+        x: 8314
+        y: 2345
+        width: 242
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_133"
+      rect:
+        serializedVersion: 2
+        x: 9001
+        y: 2345
+        width: 241
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_134"
+      rect:
+        serializedVersion: 2
+        x: 9692
+        y: 2345
+        width: 242
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_135"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2057
+        width: 242
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_136"
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2057
+        width: 242
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_137"
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2057
+        width: 241
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_138"
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2057
+        width: 242
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_139"
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 2057
+        width: 241
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_140"
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 2057
+        width: 237
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_141"
+      rect:
+        serializedVersion: 2
+        x: 4191
+        y: 2062
+        width: 227
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_142"
+      rect:
+        serializedVersion: 2
+        x: 4885
+        y: 2062
+        width: 217
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_143"
+      rect:
+        serializedVersion: 2
+        x: 5574
+        y: 2067
+        width: 216
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_144"
+      rect:
+        serializedVersion: 2
+        x: 6260
+        y: 2067
+        width: 217
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_145"
+      rect:
+        serializedVersion: 2
+        x: 6947
+        y: 2067
+        width: 221
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_146"
+      rect:
+        serializedVersion: 2
+        x: 7638
+        y: 2067
+        width: 217
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_147"
+      rect:
+        serializedVersion: 2
+        x: 8329
+        y: 2067
+        width: 217
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_148"
+      rect:
+        serializedVersion: 2
+        x: 9022
+        y: 2067
+        width: 210
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_149"
+      rect:
+        serializedVersion: 2
+        x: 9707
+        y: 2067
+        width: 217
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_150"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1779
+        width: 222
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_151"
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1779
+        width: 227
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_152"
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1779
+        width: 232
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_153"
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 1779
+        width: 237
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_154"
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 1779
+        width: 240
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_155"
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 1779
+        width: 242
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_156"
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 1779
+        width: 241
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_157"
+      rect:
+        serializedVersion: 2
+        x: 4867
+        y: 1779
+        width: 242
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_158"
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 1779
+        width: 241
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_159"
+      rect:
+        serializedVersion: 2
+        x: 6245
+        y: 1779
+        width: 242
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_160"
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 1779
+        width: 242
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_161"
+      rect:
+        serializedVersion: 2
+        x: 7623
+        y: 1779
+        width: 242
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_162"
+      rect:
+        serializedVersion: 2
+        x: 8314
+        y: 1779
+        width: 242
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_163"
+      rect:
+        serializedVersion: 2
+        x: 9001
+        y: 1779
+        width: 241
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_164"
+      rect:
+        serializedVersion: 2
+        x: 9692
+        y: 1779
+        width: 242
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_165"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1492
+        width: 237
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_166"
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1492
+        width: 226
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_167"
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1492
+        width: 216
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_168"
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 1492
+        width: 217
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_169"
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 1492
+        width: 220
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_170"
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 1492
+        width: 217
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_171"
+      rect:
+        serializedVersion: 2
+        x: 4194
+        y: 1492
+        width: 218
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_172"
+      rect:
+        serializedVersion: 2
+        x: 4883
+        y: 1492
+        width: 216
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_173"
+      rect:
+        serializedVersion: 2
+        x: 5574
+        y: 1492
+        width: 216
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_174"
+      rect:
+        serializedVersion: 2
+        x: 6265
+        y: 1492
+        width: 214
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_175"
+      rect:
+        serializedVersion: 2
+        x: 6951
+        y: 1492
+        width: 217
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_176"
+      rect:
+        serializedVersion: 2
+        x: 7638
+        y: 1492
+        width: 222
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_177"
+      rect:
+        serializedVersion: 2
+        x: 8324
+        y: 1492
+        width: 227
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_178"
+      rect:
+        serializedVersion: 2
+        x: 9006
+        y: 1492
+        width: 236
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_179"
+      rect:
+        serializedVersion: 2
+        x: 9692
+        y: 1492
+        width: 242
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_180"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1204
+        width: 237
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_181"
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1204
+        width: 242
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_182"
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1204
+        width: 241
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_183"
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1204
+        width: 242
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_184"
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 1204
+        width: 241
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_185"
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 1204
+        width: 242
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_186"
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 1204
+        width: 242
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_187"
+      rect:
+        serializedVersion: 2
+        x: 4867
+        y: 1204
+        width: 242
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_188"
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 1204
+        width: 241
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_189"
+      rect:
+        serializedVersion: 2
+        x: 6245
+        y: 1204
+        width: 242
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_190"
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 1204
+        width: 242
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_191"
+      rect:
+        serializedVersion: 2
+        x: 7628
+        y: 1204
+        width: 237
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_192"
+      rect:
+        serializedVersion: 2
+        x: 8324
+        y: 1204
+        width: 227
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_193"
+      rect:
+        serializedVersion: 2
+        x: 9021
+        y: 1204
+        width: 214
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_194"
+      rect:
+        serializedVersion: 2
+        x: 9707
+        y: 1204
+        width: 216
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_195"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 916
+        width: 217
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_196"
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 916
+        width: 219
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_197"
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 916
+        width: 219
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_198"
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 916
+        width: 217
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_199"
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 916
+        width: 219
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_200"
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 916
+        width: 217
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_201"
+      rect:
+        serializedVersion: 2
+        x: 4194
+        y: 916
+        width: 218
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_202"
+      rect:
+        serializedVersion: 2
+        x: 4883
+        y: 916
+        width: 216
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_203"
+      rect:
+        serializedVersion: 2
+        x: 5574
+        y: 916
+        width: 216
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_204"
+      rect:
+        serializedVersion: 2
+        x: 6263
+        y: 916
+        width: 214
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_205"
+      rect:
+        serializedVersion: 2
+        x: 6952
+        y: 916
+        width: 216
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_206"
+      rect:
+        serializedVersion: 2
+        x: 7644
+        y: 916
+        width: 211
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_207"
+      rect:
+        serializedVersion: 2
+        x: 8329
+        y: 916
+        width: 217
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_208"
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 916
+        width: 219
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_209"
+      rect:
+        serializedVersion: 2
+        x: 9707
+        y: 916
+        width: 219
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_210"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 628
+        width: 222
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_211"
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 628
+        width: 222
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_212"
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 628
+        width: 226
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_213"
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 628
+        width: 227
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_214"
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 628
+        width: 231
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_215"
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 628
+        width: 231
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_216"
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 628
+        width: 232
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_217"
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 628
+        width: 237
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_218"
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 628
+        width: 237
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_219"
+      rect:
+        serializedVersion: 2
+        x: 6250
+        y: 628
+        width: 237
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_220"
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 624
+        width: 242
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_221"
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 623
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_222"
+      rect:
+        serializedVersion: 2
+        x: 8314
+        y: 619
+        width: 242
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_223"
+      rect:
+        serializedVersion: 2
+        x: 9001
+        y: 618
+        width: 241
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_224"
+      rect:
+        serializedVersion: 2
+        x: 9692
+        y: 616
+        width: 242
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_225"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 328
+        width: 241
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_226"
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 326
+        width: 242
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_227"
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 328
+        width: 240
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_228"
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 326
+        width: 242
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_229"
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 327
+        width: 241
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_230"
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 327
+        width: 242
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_231"
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 327
+        width: 242
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_232"
+      rect:
+        serializedVersion: 2
+        x: 4867
+        y: 327
+        width: 242
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_233"
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 327
+        width: 241
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_234"
+      rect:
+        serializedVersion: 2
+        x: 6245
+        y: 327
+        width: 242
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_235"
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 327
+        width: 242
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_236"
+      rect:
+        serializedVersion: 2
+        x: 7623
+        y: 327
+        width: 242
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_237"
+      rect:
+        serializedVersion: 2
+        x: 8314
+        y: 327
+        width: 242
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_238"
+      rect:
+        serializedVersion: 2
+        x: 9001
+        y: 328
+        width: 241
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_239"
+      rect:
+        serializedVersion: 2
+        x: 9692
+        y: 326
+        width: 242
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\xC1guila_vuela_240"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 39
+        width: 241
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

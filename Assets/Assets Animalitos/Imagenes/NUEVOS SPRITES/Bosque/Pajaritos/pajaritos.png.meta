@@ -1,0 +1,3702 @@
+fileFormatVersion: 2
+guid: fde9a0900810f2f42b2abd053717c0e9
+timeCreated: 1519902264
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pajaritos_0
+    21300002: pajaritos_1
+    21300004: pajaritos_2
+    21300006: pajaritos_3
+    21300008: pajaritos_4
+    21300010: pajaritos_5
+    21300012: pajaritos_6
+    21300014: pajaritos_7
+    21300016: pajaritos_8
+    21300018: pajaritos_9
+    21300020: pajaritos_10
+    21300022: pajaritos_11
+    21300024: pajaritos_12
+    21300026: pajaritos_13
+    21300028: pajaritos_14
+    21300030: pajaritos_15
+    21300032: pajaritos_16
+    21300034: pajaritos_17
+    21300036: pajaritos_18
+    21300038: pajaritos_19
+    21300040: pajaritos_20
+    21300042: pajaritos_21
+    21300044: pajaritos_22
+    21300046: pajaritos_23
+    21300048: pajaritos_24
+    21300050: pajaritos_25
+    21300052: pajaritos_26
+    21300054: pajaritos_27
+    21300056: pajaritos_28
+    21300058: pajaritos_29
+    21300060: pajaritos_30
+    21300062: pajaritos_31
+    21300064: pajaritos_32
+    21300066: pajaritos_33
+    21300068: pajaritos_34
+    21300070: pajaritos_35
+    21300072: pajaritos_36
+    21300074: pajaritos_37
+    21300076: pajaritos_38
+    21300078: pajaritos_39
+    21300080: pajaritos_40
+    21300082: pajaritos_41
+    21300084: pajaritos_42
+    21300086: pajaritos_43
+    21300088: pajaritos_44
+    21300090: pajaritos_45
+    21300092: pajaritos_46
+    21300094: pajaritos_47
+    21300096: pajaritos_48
+    21300098: pajaritos_49
+    21300100: pajaritos_50
+    21300102: pajaritos_51
+    21300104: pajaritos_52
+    21300106: pajaritos_53
+    21300108: pajaritos_54
+    21300110: pajaritos_55
+    21300112: pajaritos_56
+    21300114: pajaritos_57
+    21300116: pajaritos_58
+    21300118: pajaritos_59
+    21300120: pajaritos_60
+    21300122: pajaritos_61
+    21300124: pajaritos_62
+    21300126: pajaritos_63
+    21300128: pajaritos_64
+    21300130: pajaritos_65
+    21300132: pajaritos_66
+    21300134: pajaritos_67
+    21300136: pajaritos_68
+    21300138: pajaritos_69
+    21300140: pajaritos_70
+    21300142: pajaritos_71
+    21300144: pajaritos_72
+    21300146: pajaritos_73
+    21300148: pajaritos_74
+    21300150: pajaritos_75
+    21300152: pajaritos_76
+    21300154: pajaritos_77
+    21300156: pajaritos_78
+    21300158: pajaritos_79
+    21300160: pajaritos_80
+    21300162: pajaritos_81
+    21300164: pajaritos_82
+    21300166: pajaritos_83
+    21300168: pajaritos_84
+    21300170: pajaritos_85
+    21300172: pajaritos_86
+    21300174: pajaritos_87
+    21300176: pajaritos_88
+    21300178: pajaritos_89
+    21300180: pajaritos_90
+    21300182: pajaritos_91
+    21300184: pajaritos_92
+    21300186: pajaritos_93
+    21300188: pajaritos_94
+    21300190: pajaritos_95
+    21300192: pajaritos_96
+    21300194: pajaritos_97
+    21300196: pajaritos_98
+    21300198: pajaritos_99
+    21300200: pajaritos_100
+    21300202: pajaritos_101
+    21300204: pajaritos_102
+    21300206: pajaritos_103
+    21300208: pajaritos_104
+    21300210: pajaritos_105
+    21300212: pajaritos_106
+    21300214: pajaritos_107
+    21300216: pajaritos_108
+    21300218: pajaritos_109
+    21300220: pajaritos_110
+    21300222: pajaritos_111
+    21300224: pajaritos_112
+    21300226: pajaritos_113
+    21300228: pajaritos_114
+    21300230: pajaritos_115
+    21300232: pajaritos_116
+    21300234: pajaritos_117
+    21300236: pajaritos_118
+    21300238: pajaritos_119
+    21300240: pajaritos_120
+    21300242: pajaritos_121
+    21300244: pajaritos_122
+    21300246: pajaritos_123
+    21300248: pajaritos_124
+    21300250: pajaritos_125
+    21300252: pajaritos_126
+    21300254: pajaritos_127
+    21300256: pajaritos_128
+    21300258: pajaritos_129
+    21300260: pajaritos_130
+    21300262: pajaritos_131
+    21300264: pajaritos_132
+    21300266: pajaritos_133
+    21300268: pajaritos_134
+    21300270: pajaritos_135
+    21300272: pajaritos_136
+    21300274: pajaritos_137
+    21300276: pajaritos_138
+    21300278: pajaritos_139
+    21300280: pajaritos_140
+    21300282: pajaritos_141
+    21300284: pajaritos_142
+    21300286: pajaritos_143
+    21300288: pajaritos_144
+    21300290: pajaritos_145
+    21300292: pajaritos_146
+    21300294: pajaritos_147
+    21300296: pajaritos_148
+    21300298: pajaritos_149
+    21300300: pajaritos_150
+    21300302: pajaritos_151
+    21300304: pajaritos_152
+    21300306: pajaritos_153
+    21300308: pajaritos_154
+    21300310: pajaritos_155
+    21300312: pajaritos_156
+    21300314: pajaritos_157
+    21300316: pajaritos_158
+    21300318: pajaritos_159
+    21300320: pajaritos_160
+    21300322: pajaritos_161
+    21300324: pajaritos_162
+    21300326: pajaritos_163
+    21300328: pajaritos_164
+    21300330: pajaritos_165
+    21300332: pajaritos_166
+    21300334: pajaritos_167
+    21300336: pajaritos_168
+    21300338: pajaritos_169
+    21300340: pajaritos_170
+    21300342: pajaritos_171
+    21300344: pajaritos_172
+    21300346: pajaritos_173
+    21300348: pajaritos_174
+    21300350: pajaritos_175
+    21300352: pajaritos_176
+    21300354: pajaritos_177
+    21300356: pajaritos_178
+    21300358: pajaritos_179
+    21300360: pajaritos_180
+    21300362: pajaritos_181
+    21300364: pajaritos_182
+    21300366: pajaritos_183
+    21300368: pajaritos_184
+    21300370: pajaritos_185
+    21300372: pajaritos_186
+    21300374: pajaritos_187
+    21300376: pajaritos_188
+    21300378: pajaritos_189
+    21300380: pajaritos_190
+    21300382: pajaritos_191
+    21300384: pajaritos_192
+    21300386: pajaritos_193
+    21300388: pajaritos_194
+    21300390: pajaritos_195
+    21300392: pajaritos_196
+    21300394: pajaritos_197
+    21300396: pajaritos_198
+    21300398: pajaritos_199
+    21300400: pajaritos_200
+    21300402: pajaritos_201
+    21300404: pajaritos_202
+    21300406: pajaritos_203
+    21300408: pajaritos_204
+    21300410: pajaritos_205
+    21300412: pajaritos_206
+    21300414: pajaritos_207
+    21300416: pajaritos_208
+    21300418: pajaritos_209
+    21300420: pajaritos_210
+    21300422: pajaritos_211
+    21300424: pajaritos_212
+    21300426: pajaritos_213
+    21300428: pajaritos_214
+    21300430: pajaritos_215
+    21300432: pajaritos_216
+    21300434: pajaritos_217
+    21300436: pajaritos_218
+    21300438: pajaritos_219
+    21300440: pajaritos_220
+    21300442: pajaritos_221
+    21300444: pajaritos_222
+    21300446: pajaritos_223
+    21300448: pajaritos_224
+    21300450: pajaritos_225
+    21300452: pajaritos_226
+    21300454: pajaritos_227
+    21300456: pajaritos_228
+    21300458: pajaritos_229
+    21300460: pajaritos_230
+    21300462: pajaritos_231
+    21300464: pajaritos_232
+    21300466: pajaritos_233
+    21300468: pajaritos_234
+    21300470: pajaritos_235
+    21300472: pajaritos_236
+    21300474: pajaritos_237
+    21300476: pajaritos_238
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pajaritos_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4320
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_1
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 4320
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_2
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 4320
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_3
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 4320
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_4
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 4320
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_5
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 4320
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_6
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 4320
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_7
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 4320
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_8
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4320
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_9
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 4320
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_10
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 4320
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_11
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 4320
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_12
+      rect:
+        serializedVersion: 2
+        x: 8300
+        y: 4320
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_13
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 4320
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_14
+      rect:
+        serializedVersion: 2
+        x: 9650
+        y: 4320
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4032
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_16
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 4032
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_17
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 4032
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_18
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 4032
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_19
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 4032
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_20
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 4032
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_21
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 4032
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_22
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 4032
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_23
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4032
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_24
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 4032
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_25
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 4032
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_26
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 4032
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_27
+      rect:
+        serializedVersion: 2
+        x: 8300
+        y: 4032
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_28
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 4032
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_29
+      rect:
+        serializedVersion: 2
+        x: 9650
+        y: 4032
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3744
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_31
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 3744
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_32
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3744
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_33
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 3744
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_34
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 3744
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_35
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 3744
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_36
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 3744
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_37
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 3744
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_38
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3744
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_39
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 3744
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_40
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 3744
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_41
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 3744
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_42
+      rect:
+        serializedVersion: 2
+        x: 8300
+        y: 3744
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_43
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 3744
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_44
+      rect:
+        serializedVersion: 2
+        x: 9650
+        y: 3744
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3456
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_46
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 3456
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_47
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3456
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_48
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 3456
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_49
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 3456
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_50
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 3456
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_51
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 3456
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_52
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 3456
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_53
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3456
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_54
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 3456
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_55
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 3456
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_56
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 3456
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_57
+      rect:
+        serializedVersion: 2
+        x: 8300
+        y: 3456
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_58
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 3456
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_59
+      rect:
+        serializedVersion: 2
+        x: 9650
+        y: 3456
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3168
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_61
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 3168
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_62
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3168
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_63
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 3168
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_64
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 3168
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_65
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 3168
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_66
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 3168
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_67
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 3168
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_68
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3168
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_69
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 3168
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_70
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 3168
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_71
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 3168
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_72
+      rect:
+        serializedVersion: 2
+        x: 8300
+        y: 3168
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_73
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 3168
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_74
+      rect:
+        serializedVersion: 2
+        x: 9650
+        y: 3168
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_75
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2880
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_76
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2880
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_77
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2880
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_78
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 2880
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_79
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 2880
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_80
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 2880
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_81
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 2880
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_82
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 2880
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_83
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2880
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_84
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 2880
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_85
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 2880
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_86
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 2880
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_87
+      rect:
+        serializedVersion: 2
+        x: 8300
+        y: 2880
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_88
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 2880
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_89
+      rect:
+        serializedVersion: 2
+        x: 9650
+        y: 2880
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_90
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2592
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_91
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2592
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_92
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2592
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_93
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 2592
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_94
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 2592
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_95
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 2592
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_96
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 2592
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_97
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 2592
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_98
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2592
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_99
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 2592
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_100
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 2592
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_101
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 2592
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_102
+      rect:
+        serializedVersion: 2
+        x: 8300
+        y: 2592
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_103
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 2592
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_104
+      rect:
+        serializedVersion: 2
+        x: 9650
+        y: 2592
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_105
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2304
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_106
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2304
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_107
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2304
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_108
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 2304
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_109
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 2304
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_110
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 2304
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_111
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 2304
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_112
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 2304
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_113
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2304
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_114
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 2304
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_115
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 2304
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_116
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 2304
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_117
+      rect:
+        serializedVersion: 2
+        x: 8300
+        y: 2304
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_118
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 2304
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_119
+      rect:
+        serializedVersion: 2
+        x: 9650
+        y: 2304
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_120
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2016
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_121
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2016
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_122
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2016
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_123
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 2016
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_124
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 2016
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_125
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 2016
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_126
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 2016
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_127
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 2016
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_128
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2016
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_129
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 2016
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_130
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 2016
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_131
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 2016
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_132
+      rect:
+        serializedVersion: 2
+        x: 8300
+        y: 2016
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_133
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 2016
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_134
+      rect:
+        serializedVersion: 2
+        x: 9650
+        y: 2016
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_135
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1728
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_136
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1728
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_137
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1728
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_138
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 1728
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_139
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 1728
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_140
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 1728
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_141
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 1728
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_142
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 1728
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_143
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1728
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_144
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 1728
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_145
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 1728
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_146
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 1728
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_147
+      rect:
+        serializedVersion: 2
+        x: 8300
+        y: 1728
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_148
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 1728
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_149
+      rect:
+        serializedVersion: 2
+        x: 9650
+        y: 1728
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_150
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1440
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_151
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1440
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_152
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1440
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_153
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 1440
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_154
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 1440
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_155
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 1440
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_156
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 1440
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_157
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 1440
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_158
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1440
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_159
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 1440
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_160
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 1440
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_161
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 1440
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_162
+      rect:
+        serializedVersion: 2
+        x: 8300
+        y: 1440
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_163
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 1440
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_164
+      rect:
+        serializedVersion: 2
+        x: 9650
+        y: 1440
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_165
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1152
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_166
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1152
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_167
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1152
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_168
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 1152
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_169
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 1152
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_170
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 1152
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_171
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 1152
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_172
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 1152
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_173
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1152
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_174
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 1152
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_175
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 1152
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_176
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 1152
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_177
+      rect:
+        serializedVersion: 2
+        x: 8300
+        y: 1152
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_178
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 1152
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_179
+      rect:
+        serializedVersion: 2
+        x: 9650
+        y: 1152
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_180
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 864
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_181
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 864
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_182
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 864
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_183
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 864
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_184
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 864
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_185
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 864
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_186
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 864
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_187
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 864
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_188
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 864
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_189
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 864
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_190
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 864
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_191
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 864
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_192
+      rect:
+        serializedVersion: 2
+        x: 8300
+        y: 864
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_193
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 864
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_194
+      rect:
+        serializedVersion: 2
+        x: 9650
+        y: 864
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_195
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 576
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_196
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 576
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_197
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 576
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_198
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 576
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_199
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 576
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_200
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 576
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_201
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 576
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_202
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 576
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_203
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 576
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_204
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 576
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_205
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 576
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_206
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 576
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_207
+      rect:
+        serializedVersion: 2
+        x: 8300
+        y: 576
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_208
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 576
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_209
+      rect:
+        serializedVersion: 2
+        x: 9650
+        y: 576
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_210
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 288
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_211
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 288
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_212
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 288
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_213
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 288
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_214
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 288
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_215
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 288
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_216
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 288
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_217
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 288
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_218
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 288
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_219
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 288
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_220
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 288
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_221
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 288
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_222
+      rect:
+        serializedVersion: 2
+        x: 8300
+        y: 288
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_223
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 288
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_224
+      rect:
+        serializedVersion: 2
+        x: 9650
+        y: 288
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_225
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_226
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_227
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 0
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_228
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 0
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_229
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 0
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_230
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 0
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_231
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 0
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_232
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 0
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_233
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_234
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 0
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_235
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 0
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_236
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 0
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_237
+      rect:
+        serializedVersion: 2
+        x: 8300
+        y: 0
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pajaritos_238
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 0
+        width: 455.66666
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

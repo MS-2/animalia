@@ -1,0 +1,3732 @@
+fileFormatVersion: 2
+guid: e7dc98e9fa8fb774a885b6eaaad2d798
+timeCreated: 1520606331
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pollito_Picotea_0
+    21300002: Pollito_Picotea_1
+    21300004: Pollito_Picotea_2
+    21300006: Pollito_Picotea_3
+    21300008: Pollito_Picotea_4
+    21300010: Pollito_Picotea_5
+    21300012: Pollito_Picotea_6
+    21300014: Pollito_Picotea_7
+    21300016: Pollito_Picotea_8
+    21300018: Pollito_Picotea_9
+    21300020: Pollito_Picotea_10
+    21300022: Pollito_Picotea_11
+    21300024: Pollito_Picotea_12
+    21300026: Pollito_Picotea_13
+    21300028: Pollito_Picotea_14
+    21300030: Pollito_Picotea_15
+    21300032: Pollito_Picotea_16
+    21300034: Pollito_Picotea_17
+    21300036: Pollito_Picotea_18
+    21300038: Pollito_Picotea_19
+    21300040: Pollito_Picotea_20
+    21300042: Pollito_Picotea_21
+    21300044: Pollito_Picotea_22
+    21300046: Pollito_Picotea_23
+    21300048: Pollito_Picotea_24
+    21300050: Pollito_Picotea_25
+    21300052: Pollito_Picotea_26
+    21300054: Pollito_Picotea_27
+    21300056: Pollito_Picotea_28
+    21300058: Pollito_Picotea_29
+    21300060: Pollito_Picotea_30
+    21300062: Pollito_Picotea_31
+    21300064: Pollito_Picotea_32
+    21300066: Pollito_Picotea_33
+    21300068: Pollito_Picotea_34
+    21300070: Pollito_Picotea_35
+    21300072: Pollito_Picotea_36
+    21300074: Pollito_Picotea_37
+    21300076: Pollito_Picotea_38
+    21300078: Pollito_Picotea_39
+    21300080: Pollito_Picotea_40
+    21300082: Pollito_Picotea_41
+    21300084: Pollito_Picotea_42
+    21300086: Pollito_Picotea_43
+    21300088: Pollito_Picotea_44
+    21300090: Pollito_Picotea_45
+    21300092: Pollito_Picotea_46
+    21300094: Pollito_Picotea_47
+    21300096: Pollito_Picotea_48
+    21300098: Pollito_Picotea_49
+    21300100: Pollito_Picotea_50
+    21300102: Pollito_Picotea_51
+    21300104: Pollito_Picotea_52
+    21300106: Pollito_Picotea_53
+    21300108: Pollito_Picotea_54
+    21300110: Pollito_Picotea_55
+    21300112: Pollito_Picotea_56
+    21300114: Pollito_Picotea_57
+    21300116: Pollito_Picotea_58
+    21300118: Pollito_Picotea_59
+    21300120: Pollito_Picotea_60
+    21300122: Pollito_Picotea_61
+    21300124: Pollito_Picotea_62
+    21300126: Pollito_Picotea_63
+    21300128: Pollito_Picotea_64
+    21300130: Pollito_Picotea_65
+    21300132: Pollito_Picotea_66
+    21300134: Pollito_Picotea_67
+    21300136: Pollito_Picotea_68
+    21300138: Pollito_Picotea_69
+    21300140: Pollito_Picotea_70
+    21300142: Pollito_Picotea_71
+    21300144: Pollito_Picotea_72
+    21300146: Pollito_Picotea_73
+    21300148: Pollito_Picotea_74
+    21300150: Pollito_Picotea_75
+    21300152: Pollito_Picotea_76
+    21300154: Pollito_Picotea_77
+    21300156: Pollito_Picotea_78
+    21300158: Pollito_Picotea_79
+    21300160: Pollito_Picotea_80
+    21300162: Pollito_Picotea_81
+    21300164: Pollito_Picotea_82
+    21300166: Pollito_Picotea_83
+    21300168: Pollito_Picotea_84
+    21300170: Pollito_Picotea_85
+    21300172: Pollito_Picotea_86
+    21300174: Pollito_Picotea_87
+    21300176: Pollito_Picotea_88
+    21300178: Pollito_Picotea_89
+    21300180: Pollito_Picotea_90
+    21300182: Pollito_Picotea_91
+    21300184: Pollito_Picotea_92
+    21300186: Pollito_Picotea_93
+    21300188: Pollito_Picotea_94
+    21300190: Pollito_Picotea_95
+    21300192: Pollito_Picotea_96
+    21300194: Pollito_Picotea_97
+    21300196: Pollito_Picotea_98
+    21300198: Pollito_Picotea_99
+    21300200: Pollito_Picotea_100
+    21300202: Pollito_Picotea_101
+    21300204: Pollito_Picotea_102
+    21300206: Pollito_Picotea_103
+    21300208: Pollito_Picotea_104
+    21300210: Pollito_Picotea_105
+    21300212: Pollito_Picotea_106
+    21300214: Pollito_Picotea_107
+    21300216: Pollito_Picotea_108
+    21300218: Pollito_Picotea_109
+    21300220: Pollito_Picotea_110
+    21300222: Pollito_Picotea_111
+    21300224: Pollito_Picotea_112
+    21300226: Pollito_Picotea_113
+    21300228: Pollito_Picotea_114
+    21300230: Pollito_Picotea_115
+    21300232: Pollito_Picotea_116
+    21300234: Pollito_Picotea_117
+    21300236: Pollito_Picotea_118
+    21300238: Pollito_Picotea_119
+    21300240: Pollito_Picotea_120
+    21300242: Pollito_Picotea_121
+    21300244: Pollito_Picotea_122
+    21300246: Pollito_Picotea_123
+    21300248: Pollito_Picotea_124
+    21300250: Pollito_Picotea_125
+    21300252: Pollito_Picotea_126
+    21300254: Pollito_Picotea_127
+    21300256: Pollito_Picotea_128
+    21300258: Pollito_Picotea_129
+    21300260: Pollito_Picotea_130
+    21300262: Pollito_Picotea_131
+    21300264: Pollito_Picotea_132
+    21300266: Pollito_Picotea_133
+    21300268: Pollito_Picotea_134
+    21300270: Pollito_Picotea_135
+    21300272: Pollito_Picotea_136
+    21300274: Pollito_Picotea_137
+    21300276: Pollito_Picotea_138
+    21300278: Pollito_Picotea_139
+    21300280: Pollito_Picotea_140
+    21300282: Pollito_Picotea_141
+    21300284: Pollito_Picotea_142
+    21300286: Pollito_Picotea_143
+    21300288: Pollito_Picotea_144
+    21300290: Pollito_Picotea_145
+    21300292: Pollito_Picotea_146
+    21300294: Pollito_Picotea_147
+    21300296: Pollito_Picotea_148
+    21300298: Pollito_Picotea_149
+    21300300: Pollito_Picotea_150
+    21300302: Pollito_Picotea_151
+    21300304: Pollito_Picotea_152
+    21300306: Pollito_Picotea_153
+    21300308: Pollito_Picotea_154
+    21300310: Pollito_Picotea_155
+    21300312: Pollito_Picotea_156
+    21300314: Pollito_Picotea_157
+    21300316: Pollito_Picotea_158
+    21300318: Pollito_Picotea_159
+    21300320: Pollito_Picotea_160
+    21300322: Pollito_Picotea_161
+    21300324: Pollito_Picotea_162
+    21300326: Pollito_Picotea_163
+    21300328: Pollito_Picotea_164
+    21300330: Pollito_Picotea_165
+    21300332: Pollito_Picotea_166
+    21300334: Pollito_Picotea_167
+    21300336: Pollito_Picotea_168
+    21300338: Pollito_Picotea_169
+    21300340: Pollito_Picotea_170
+    21300342: Pollito_Picotea_171
+    21300344: Pollito_Picotea_172
+    21300346: Pollito_Picotea_173
+    21300348: Pollito_Picotea_174
+    21300350: Pollito_Picotea_175
+    21300352: Pollito_Picotea_176
+    21300354: Pollito_Picotea_177
+    21300356: Pollito_Picotea_178
+    21300358: Pollito_Picotea_179
+    21300360: Pollito_Picotea_180
+    21300362: Pollito_Picotea_181
+    21300364: Pollito_Picotea_182
+    21300366: Pollito_Picotea_183
+    21300368: Pollito_Picotea_184
+    21300370: Pollito_Picotea_185
+    21300372: Pollito_Picotea_186
+    21300374: Pollito_Picotea_187
+    21300376: Pollito_Picotea_188
+    21300378: Pollito_Picotea_189
+    21300380: Pollito_Picotea_190
+    21300382: Pollito_Picotea_191
+    21300384: Pollito_Picotea_192
+    21300386: Pollito_Picotea_193
+    21300388: Pollito_Picotea_194
+    21300390: Pollito_Picotea_195
+    21300392: Pollito_Picotea_196
+    21300394: Pollito_Picotea_197
+    21300396: Pollito_Picotea_198
+    21300398: Pollito_Picotea_199
+    21300400: Pollito_Picotea_200
+    21300402: Pollito_Picotea_201
+    21300404: Pollito_Picotea_202
+    21300406: Pollito_Picotea_203
+    21300408: Pollito_Picotea_204
+    21300410: Pollito_Picotea_205
+    21300412: Pollito_Picotea_206
+    21300414: Pollito_Picotea_207
+    21300416: Pollito_Picotea_208
+    21300418: Pollito_Picotea_209
+    21300420: Pollito_Picotea_210
+    21300422: Pollito_Picotea_211
+    21300424: Pollito_Picotea_212
+    21300426: Pollito_Picotea_213
+    21300428: Pollito_Picotea_214
+    21300430: Pollito_Picotea_215
+    21300432: Pollito_Picotea_216
+    21300434: Pollito_Picotea_217
+    21300436: Pollito_Picotea_218
+    21300438: Pollito_Picotea_219
+    21300440: Pollito_Picotea_220
+    21300442: Pollito_Picotea_221
+    21300444: Pollito_Picotea_222
+    21300446: Pollito_Picotea_223
+    21300448: Pollito_Picotea_224
+    21300450: Pollito_Picotea_225
+    21300452: Pollito_Picotea_226
+    21300454: Pollito_Picotea_227
+    21300456: Pollito_Picotea_228
+    21300458: Pollito_Picotea_229
+    21300460: Pollito_Picotea_230
+    21300462: Pollito_Picotea_231
+    21300464: Pollito_Picotea_232
+    21300466: Pollito_Picotea_233
+    21300468: Pollito_Picotea_234
+    21300470: Pollito_Picotea_235
+    21300472: Pollito_Picotea_236
+    21300474: Pollito_Picotea_237
+    21300476: Pollito_Picotea_238
+    21300478: Pollito_Picotea_239
+    21300480: Pollito_Picotea_240
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pollito_Picotea_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4610.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_1
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 4610.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_2
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 4610.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_3
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 4610.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_4
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 4610.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_5
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 4610.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_6
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 4610.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_7
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 4610.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_8
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 4610.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_9
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 4610.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_10
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 4610.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_11
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 4610.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_12
+      rect:
+        serializedVersion: 2
+        x: 8270
+        y: 4610.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_13
+      rect:
+        serializedVersion: 2
+        x: 8955
+        y: 4610.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_14
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 4610.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4325.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_16
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 4325.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_17
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 4325.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_18
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 4325.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_19
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 4325.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_20
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 4325.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_21
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 4325.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_22
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 4325.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_23
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 4325.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_24
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 4325.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_25
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 4325.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_26
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 4325.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_27
+      rect:
+        serializedVersion: 2
+        x: 8270
+        y: 4325.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_28
+      rect:
+        serializedVersion: 2
+        x: 8955
+        y: 4325.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_29
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 4325.9414
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4040.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_31
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 4040.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_32
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 4040.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_33
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 4040.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_34
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 4040.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_35
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 4040.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_36
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 4040.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_37
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 4040.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_38
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 4040.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_39
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 4040.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_40
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 4040.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_41
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 4040.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_42
+      rect:
+        serializedVersion: 2
+        x: 8270
+        y: 4040.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_43
+      rect:
+        serializedVersion: 2
+        x: 8955
+        y: 4040.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_44
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 4040.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3755.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_46
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3755.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_47
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 3755.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_48
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 3755.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_49
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 3755.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_50
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 3755.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_51
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 3755.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_52
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 3755.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_53
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 3755.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_54
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 3755.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_55
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 3755.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_56
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 3755.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_57
+      rect:
+        serializedVersion: 2
+        x: 8270
+        y: 3755.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_58
+      rect:
+        serializedVersion: 2
+        x: 8955
+        y: 3755.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_59
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 3755.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3470.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_61
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3470.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_62
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 3470.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_63
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 3470.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_64
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 3470.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_65
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 3470.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_66
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 3470.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_67
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 3470.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_68
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 3470.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_69
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 3470.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_70
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 3470.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_71
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 3470.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_72
+      rect:
+        serializedVersion: 2
+        x: 8270
+        y: 3470.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_73
+      rect:
+        serializedVersion: 2
+        x: 8955
+        y: 3470.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_74
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 3470.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_75
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3185.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_76
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3185.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_77
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 3185.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_78
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 3185.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_79
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 3185.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_80
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 3185.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_81
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 3185.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_82
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 3185.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_83
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 3185.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_84
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 3185.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_85
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 3185.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_86
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 3185.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_87
+      rect:
+        serializedVersion: 2
+        x: 8270
+        y: 3185.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_88
+      rect:
+        serializedVersion: 2
+        x: 8955
+        y: 3185.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_89
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 3185.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_90
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2900.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_91
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2900.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_92
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2900.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_93
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 2900.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_94
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 2900.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_95
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 2900.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_96
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 2900.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_97
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 2900.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_98
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 2900.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_99
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 2900.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_100
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 2900.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_101
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 2900.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_102
+      rect:
+        serializedVersion: 2
+        x: 8270
+        y: 2900.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_103
+      rect:
+        serializedVersion: 2
+        x: 8955
+        y: 2900.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_104
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 2900.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_105
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2615.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_106
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2615.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_107
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2615.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_108
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 2615.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_109
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 2615.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_110
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 2615.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_111
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 2615.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_112
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 2615.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_113
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 2615.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_114
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 2615.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_115
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 2615.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_116
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 2615.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_117
+      rect:
+        serializedVersion: 2
+        x: 8270
+        y: 2615.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_118
+      rect:
+        serializedVersion: 2
+        x: 8955
+        y: 2615.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_119
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 2615.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_120
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2330.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_121
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2330.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_122
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2330.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_123
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 2330.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_124
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 2330.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_125
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 2330.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_126
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 2330.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_127
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 2330.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_128
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 2330.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_129
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 2330.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_130
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 2330.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_131
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 2330.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_132
+      rect:
+        serializedVersion: 2
+        x: 8270
+        y: 2330.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_133
+      rect:
+        serializedVersion: 2
+        x: 8955
+        y: 2330.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_134
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 2330.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_135
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2045.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_136
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2045.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_137
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2045.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_138
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 2045.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_139
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 2045.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_140
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 2045.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_141
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 2045.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_142
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 2045.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_143
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 2045.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_144
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 2045.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_145
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 2045.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_146
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 2045.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_147
+      rect:
+        serializedVersion: 2
+        x: 8270
+        y: 2045.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_148
+      rect:
+        serializedVersion: 2
+        x: 8955
+        y: 2045.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_149
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 2045.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_150
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1760.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_151
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1760.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_152
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1760.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_153
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1760.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_154
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 1760.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_155
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 1760.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_156
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 1760.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_157
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 1760.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_158
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 1760.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_159
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 1760.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_160
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 1760.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_161
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 1760.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_162
+      rect:
+        serializedVersion: 2
+        x: 8270
+        y: 1760.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_163
+      rect:
+        serializedVersion: 2
+        x: 8955
+        y: 1760.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_164
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 1760.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_165
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1475.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_166
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1475.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_167
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1475.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_168
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1475.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_169
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 1475.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_170
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 1475.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_171
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 1475.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_172
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 1475.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_173
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 1475.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_174
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 1475.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_175
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 1475.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_176
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 1475.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_177
+      rect:
+        serializedVersion: 2
+        x: 8270
+        y: 1475.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_178
+      rect:
+        serializedVersion: 2
+        x: 8955
+        y: 1475.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_179
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 1475.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_180
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1190.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_181
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1190.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_182
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1190.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_183
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1190.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_184
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 1190.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_185
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 1190.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_186
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 1190.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_187
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 1190.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_188
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 1190.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_189
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 1190.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_190
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 1190.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_191
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 1190.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_192
+      rect:
+        serializedVersion: 2
+        x: 8270
+        y: 1190.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_193
+      rect:
+        serializedVersion: 2
+        x: 8955
+        y: 1190.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_194
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 1190.9412
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_195
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 905.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_196
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 905.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_197
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 905.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_198
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 905.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_199
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 905.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_200
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 905.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_201
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 905.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_202
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 905.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_203
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 905.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_204
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 905.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_205
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 905.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_206
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 905.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_207
+      rect:
+        serializedVersion: 2
+        x: 8270
+        y: 905.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_208
+      rect:
+        serializedVersion: 2
+        x: 8955
+        y: 905.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_209
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 905.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_210
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 620.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_211
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 620.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_212
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 620.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_213
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 620.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_214
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 620.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_215
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 620.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_216
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 620.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_217
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 620.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_218
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 620.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_219
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 620.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_220
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 620.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_221
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 620.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_222
+      rect:
+        serializedVersion: 2
+        x: 8270
+        y: 620.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_223
+      rect:
+        serializedVersion: 2
+        x: 8955
+        y: 620.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_224
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 620.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_225
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 335.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_226
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 335.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_227
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 335.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_228
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 335.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_229
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 335.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_230
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 335.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_231
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 335.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_232
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 335.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_233
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 335.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_234
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 335.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_235
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 335.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_236
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 335.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_237
+      rect:
+        serializedVersion: 2
+        x: 8270
+        y: 335.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_238
+      rect:
+        serializedVersion: 2
+        x: 8955
+        y: 335.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_239
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 335.94116
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pollito_Picotea_240
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50.941177
+        width: 235.66667
+        height: 235.05882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3732 @@
+fileFormatVersion: 2
+guid: cc3919c40028c7746ac59c979a525114
+timeCreated: 1518861268
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gallo_cantando_0
+    21300002: gallo_cantando_1
+    21300004: gallo_cantando_2
+    21300006: gallo_cantando_3
+    21300008: gallo_cantando_4
+    21300010: gallo_cantando_5
+    21300012: gallo_cantando_6
+    21300014: gallo_cantando_7
+    21300016: gallo_cantando_8
+    21300018: gallo_cantando_9
+    21300020: gallo_cantando_10
+    21300022: gallo_cantando_11
+    21300024: gallo_cantando_12
+    21300026: gallo_cantando_13
+    21300028: gallo_cantando_14
+    21300030: gallo_cantando_15
+    21300032: gallo_cantando_16
+    21300034: gallo_cantando_17
+    21300036: gallo_cantando_18
+    21300038: gallo_cantando_19
+    21300040: gallo_cantando_20
+    21300042: gallo_cantando_21
+    21300044: gallo_cantando_22
+    21300046: gallo_cantando_23
+    21300048: gallo_cantando_24
+    21300050: gallo_cantando_25
+    21300052: gallo_cantando_26
+    21300054: gallo_cantando_27
+    21300056: gallo_cantando_28
+    21300058: gallo_cantando_29
+    21300060: gallo_cantando_30
+    21300062: gallo_cantando_31
+    21300064: gallo_cantando_32
+    21300066: gallo_cantando_33
+    21300068: gallo_cantando_34
+    21300070: gallo_cantando_35
+    21300072: gallo_cantando_36
+    21300074: gallo_cantando_37
+    21300076: gallo_cantando_38
+    21300078: gallo_cantando_39
+    21300080: gallo_cantando_40
+    21300082: gallo_cantando_41
+    21300084: gallo_cantando_42
+    21300086: gallo_cantando_43
+    21300088: gallo_cantando_44
+    21300090: gallo_cantando_45
+    21300092: gallo_cantando_46
+    21300094: gallo_cantando_47
+    21300096: gallo_cantando_48
+    21300098: gallo_cantando_49
+    21300100: gallo_cantando_50
+    21300102: gallo_cantando_51
+    21300104: gallo_cantando_52
+    21300106: gallo_cantando_53
+    21300108: gallo_cantando_54
+    21300110: gallo_cantando_55
+    21300112: gallo_cantando_56
+    21300114: gallo_cantando_57
+    21300116: gallo_cantando_58
+    21300118: gallo_cantando_59
+    21300120: gallo_cantando_60
+    21300122: gallo_cantando_61
+    21300124: gallo_cantando_62
+    21300126: gallo_cantando_63
+    21300128: gallo_cantando_64
+    21300130: gallo_cantando_65
+    21300132: gallo_cantando_66
+    21300134: gallo_cantando_67
+    21300136: gallo_cantando_68
+    21300138: gallo_cantando_69
+    21300140: gallo_cantando_70
+    21300142: gallo_cantando_71
+    21300144: gallo_cantando_72
+    21300146: gallo_cantando_73
+    21300148: gallo_cantando_74
+    21300150: gallo_cantando_75
+    21300152: gallo_cantando_76
+    21300154: gallo_cantando_77
+    21300156: gallo_cantando_78
+    21300158: gallo_cantando_79
+    21300160: gallo_cantando_80
+    21300162: gallo_cantando_81
+    21300164: gallo_cantando_82
+    21300166: gallo_cantando_83
+    21300168: gallo_cantando_84
+    21300170: gallo_cantando_85
+    21300172: gallo_cantando_86
+    21300174: gallo_cantando_87
+    21300176: gallo_cantando_88
+    21300178: gallo_cantando_89
+    21300180: gallo_cantando_90
+    21300182: gallo_cantando_91
+    21300184: gallo_cantando_92
+    21300186: gallo_cantando_93
+    21300188: gallo_cantando_94
+    21300190: gallo_cantando_95
+    21300192: gallo_cantando_96
+    21300194: gallo_cantando_97
+    21300196: gallo_cantando_98
+    21300198: gallo_cantando_99
+    21300200: gallo_cantando_100
+    21300202: gallo_cantando_101
+    21300204: gallo_cantando_102
+    21300206: gallo_cantando_103
+    21300208: gallo_cantando_104
+    21300210: gallo_cantando_105
+    21300212: gallo_cantando_106
+    21300214: gallo_cantando_107
+    21300216: gallo_cantando_108
+    21300218: gallo_cantando_109
+    21300220: gallo_cantando_110
+    21300222: gallo_cantando_111
+    21300224: gallo_cantando_112
+    21300226: gallo_cantando_113
+    21300228: gallo_cantando_114
+    21300230: gallo_cantando_115
+    21300232: gallo_cantando_116
+    21300234: gallo_cantando_117
+    21300236: gallo_cantando_118
+    21300238: gallo_cantando_119
+    21300240: gallo_cantando_120
+    21300242: gallo_cantando_121
+    21300244: gallo_cantando_122
+    21300246: gallo_cantando_123
+    21300248: gallo_cantando_124
+    21300250: gallo_cantando_125
+    21300252: gallo_cantando_126
+    21300254: gallo_cantando_127
+    21300256: gallo_cantando_128
+    21300258: gallo_cantando_129
+    21300260: gallo_cantando_130
+    21300262: gallo_cantando_131
+    21300264: gallo_cantando_132
+    21300266: gallo_cantando_133
+    21300268: gallo_cantando_134
+    21300270: gallo_cantando_135
+    21300272: gallo_cantando_136
+    21300274: gallo_cantando_137
+    21300276: gallo_cantando_138
+    21300278: gallo_cantando_139
+    21300280: gallo_cantando_140
+    21300282: gallo_cantando_141
+    21300284: gallo_cantando_142
+    21300286: gallo_cantando_143
+    21300288: gallo_cantando_144
+    21300290: gallo_cantando_145
+    21300292: gallo_cantando_146
+    21300294: gallo_cantando_147
+    21300296: gallo_cantando_148
+    21300298: gallo_cantando_149
+    21300300: gallo_cantando_150
+    21300302: gallo_cantando_151
+    21300304: gallo_cantando_152
+    21300306: gallo_cantando_153
+    21300308: gallo_cantando_154
+    21300310: gallo_cantando_155
+    21300312: gallo_cantando_156
+    21300314: gallo_cantando_157
+    21300316: gallo_cantando_158
+    21300318: gallo_cantando_159
+    21300320: gallo_cantando_160
+    21300322: gallo_cantando_161
+    21300324: gallo_cantando_162
+    21300326: gallo_cantando_163
+    21300328: gallo_cantando_164
+    21300330: gallo_cantando_165
+    21300332: gallo_cantando_166
+    21300334: gallo_cantando_167
+    21300336: gallo_cantando_168
+    21300338: gallo_cantando_169
+    21300340: gallo_cantando_170
+    21300342: gallo_cantando_171
+    21300344: gallo_cantando_172
+    21300346: gallo_cantando_173
+    21300348: gallo_cantando_174
+    21300350: gallo_cantando_175
+    21300352: gallo_cantando_176
+    21300354: gallo_cantando_177
+    21300356: gallo_cantando_178
+    21300358: gallo_cantando_179
+    21300360: gallo_cantando_180
+    21300362: gallo_cantando_181
+    21300364: gallo_cantando_182
+    21300366: gallo_cantando_183
+    21300368: gallo_cantando_184
+    21300370: gallo_cantando_185
+    21300372: gallo_cantando_186
+    21300374: gallo_cantando_187
+    21300376: gallo_cantando_188
+    21300378: gallo_cantando_189
+    21300380: gallo_cantando_190
+    21300382: gallo_cantando_191
+    21300384: gallo_cantando_192
+    21300386: gallo_cantando_193
+    21300388: gallo_cantando_194
+    21300390: gallo_cantando_195
+    21300392: gallo_cantando_196
+    21300394: gallo_cantando_197
+    21300396: gallo_cantando_198
+    21300398: gallo_cantando_199
+    21300400: gallo_cantando_200
+    21300402: gallo_cantando_201
+    21300404: gallo_cantando_202
+    21300406: gallo_cantando_203
+    21300408: gallo_cantando_204
+    21300410: gallo_cantando_205
+    21300412: gallo_cantando_206
+    21300414: gallo_cantando_207
+    21300416: gallo_cantando_208
+    21300418: gallo_cantando_209
+    21300420: gallo_cantando_210
+    21300422: gallo_cantando_211
+    21300424: gallo_cantando_212
+    21300426: gallo_cantando_213
+    21300428: gallo_cantando_214
+    21300430: gallo_cantando_215
+    21300432: gallo_cantando_216
+    21300434: gallo_cantando_217
+    21300436: gallo_cantando_218
+    21300438: gallo_cantando_219
+    21300440: gallo_cantando_220
+    21300442: gallo_cantando_221
+    21300444: gallo_cantando_222
+    21300446: gallo_cantando_223
+    21300448: gallo_cantando_224
+    21300450: gallo_cantando_225
+    21300452: gallo_cantando_226
+    21300454: gallo_cantando_227
+    21300456: gallo_cantando_228
+    21300458: gallo_cantando_229
+    21300460: gallo_cantando_230
+    21300462: gallo_cantando_231
+    21300464: gallo_cantando_232
+    21300466: gallo_cantando_233
+    21300468: gallo_cantando_234
+    21300470: gallo_cantando_235
+    21300472: gallo_cantando_236
+    21300474: gallo_cantando_237
+    21300476: gallo_cantando_238
+    21300478: gallo_cantando_239
+    21300480: gallo_cantando_240
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 51
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 51
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 51
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 51
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 29
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gallo_cantando_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_1
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_2
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_3
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_4
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_5
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_6
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_7
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_8
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_9
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_10
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_11
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_12
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_13
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_14
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4608
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_16
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_17
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_18
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_19
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_20
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_21
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_22
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_23
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_24
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_25
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_26
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_27
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_28
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_29
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_31
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_32
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_33
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_34
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_35
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_36
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_37
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_38
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_39
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_40
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_41
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_42
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_43
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_44
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_47
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_48
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_49
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_50
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_51
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_52
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_53
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_54
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_55
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_56
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_57
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_58
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_59
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_61
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_62
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_63
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_64
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_65
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_66
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_67
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_68
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_69
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_70
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_71
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_72
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_73
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_74
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_76
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_77
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_78
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_79
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_80
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_81
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_82
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_83
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_84
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_85
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_86
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_87
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_88
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_89
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_91
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_92
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_93
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_94
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_95
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_96
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_97
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_98
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_99
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_100
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_101
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_102
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_103
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_104
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_106
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_107
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_108
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_109
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_110
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_111
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_112
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_113
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_114
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_115
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_116
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_117
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_118
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_119
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_121
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_122
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_123
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_124
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_125
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_126
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_127
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_128
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_129
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_130
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_131
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_132
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_133
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_134
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_136
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_137
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_138
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_139
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_140
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_141
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_142
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_143
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_144
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_145
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_146
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_147
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_148
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_149
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_151
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_152
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_153
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_154
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_155
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_156
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_157
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_158
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_159
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_160
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_161
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_162
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_163
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_164
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_166
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_167
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_168
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_169
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_170
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_171
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_172
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_173
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_174
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_175
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_176
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_177
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_178
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_179
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_181
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_182
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_183
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_184
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_185
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_186
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_187
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_188
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_189
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_190
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_191
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_192
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_193
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_194
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_196
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_197
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_198
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_199
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_200
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_201
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_202
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_203
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_204
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_205
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_206
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_207
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_208
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_209
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_211
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_212
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_213
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_214
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_215
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_216
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_217
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_218
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_219
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_220
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_221
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_222
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_223
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_224
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_226
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_227
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_228
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_229
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_230
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_231
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_232
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_233
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_234
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_235
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_236
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_237
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_238
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_239
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallo_cantando_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2097 @@
+fileFormatVersion: 2
+guid: 207996f011616d94799b82b7b0803222
+timeCreated: 1521211363
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: image10_0
+    21300002: image10_1
+    21300004: image10_2
+    21300006: image10_3
+    21300008: image10_4
+    21300010: image10_5
+    21300012: image10_6
+    21300014: image10_7
+    21300016: image10_8
+    21300018: image10_9
+    21300020: image10_10
+    21300022: image10_11
+    21300024: image10_12
+    21300026: image10_13
+    21300028: image10_14
+    21300030: image10_15
+    21300032: image10_16
+    21300034: image10_17
+    21300036: image10_18
+    21300038: image10_19
+    21300040: image10_20
+    21300042: image10_21
+    21300044: image10_22
+    21300046: image10_23
+    21300048: image10_24
+    21300050: image10_25
+    21300052: image10_26
+    21300054: image10_27
+    21300056: image10_28
+    21300058: image10_29
+    21300060: image10_30
+    21300062: image10_31
+    21300064: image10_32
+    21300066: image10_33
+    21300068: image10_34
+    21300070: image10_35
+    21300072: image10_36
+    21300074: image10_37
+    21300076: image10_38
+    21300078: image10_39
+    21300080: image10_40
+    21300082: image10_41
+    21300084: image10_42
+    21300086: image10_43
+    21300088: image10_44
+    21300090: image10_45
+    21300092: image10_46
+    21300094: image10_47
+    21300096: image10_48
+    21300098: image10_49
+    21300100: image10_50
+    21300102: image10_51
+    21300104: image10_52
+    21300106: image10_53
+    21300108: image10_54
+    21300110: image10_55
+    21300112: image10_56
+    21300114: image10_57
+    21300116: image10_58
+    21300118: image10_59
+    21300120: image10_60
+    21300122: image10_61
+    21300124: image10_62
+    21300126: image10_63
+    21300128: image10_64
+    21300130: image10_65
+    21300132: image10_66
+    21300134: image10_67
+    21300136: image10_68
+    21300138: image10_69
+    21300140: image10_70
+    21300142: image10_71
+    21300144: image10_72
+    21300146: image10_73
+    21300148: image10_74
+    21300150: image10_75
+    21300152: image10_76
+    21300154: image10_77
+    21300156: image10_78
+    21300158: image10_79
+    21300160: image10_80
+    21300162: image10_81
+    21300164: image10_82
+    21300166: image10_83
+    21300168: image10_84
+    21300170: image10_85
+    21300172: image10_86
+    21300174: image10_87
+    21300176: image10_88
+    21300178: image10_89
+    21300180: image10_90
+    21300182: image10_91
+    21300184: image10_92
+    21300186: image10_93
+    21300188: image10_94
+    21300190: image10_95
+    21300192: image10_96
+    21300194: image10_97
+    21300196: image10_98
+    21300198: image10_99
+    21300200: image10_100
+    21300202: image10_101
+    21300204: image10_102
+    21300206: image10_103
+    21300208: image10_104
+    21300210: image10_105
+    21300212: image10_106
+    21300214: image10_107
+    21300216: image10_108
+    21300218: image10_109
+    21300220: image10_110
+    21300222: image10_111
+    21300224: image10_112
+    21300226: image10_113
+    21300228: image10_114
+    21300230: image10_115
+    21300232: image10_116
+    21300234: image10_117
+    21300236: image10_118
+    21300238: image10_119
+    21300240: image10_120
+    21300242: image10_121
+    21300244: image10_122
+    21300246: image10_123
+    21300248: image10_124
+    21300250: image10_125
+    21300252: image10_126
+    21300254: image10_127
+    21300256: image10_128
+    21300258: image10_129
+    21300260: image10_130
+    21300262: image10_131
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: image10_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10463.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_1
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 10463.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_2
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 10463.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_3
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 10463.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_4
+      rect:
+        serializedVersion: 2
+        x: 5112
+        y: 10463.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_5
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 10463.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_6
+      rect:
+        serializedVersion: 2
+        x: 7668
+        y: 10463.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_7
+      rect:
+        serializedVersion: 2
+        x: 8946
+        y: 10463.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_8
+      rect:
+        serializedVersion: 2
+        x: 10224
+        y: 10463.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_9
+      rect:
+        serializedVersion: 2
+        x: 11502
+        y: 10463.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_10
+      rect:
+        serializedVersion: 2
+        x: 12780
+        y: 10463.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9529.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_12
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 9529.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_13
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 9529.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_14
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 9529.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_15
+      rect:
+        serializedVersion: 2
+        x: 5112
+        y: 9529.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_16
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 9529.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_17
+      rect:
+        serializedVersion: 2
+        x: 7668
+        y: 9529.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_18
+      rect:
+        serializedVersion: 2
+        x: 8946
+        y: 9529.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_19
+      rect:
+        serializedVersion: 2
+        x: 10224
+        y: 9529.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_20
+      rect:
+        serializedVersion: 2
+        x: 11502
+        y: 9529.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_21
+      rect:
+        serializedVersion: 2
+        x: 12780
+        y: 9529.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8595.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_23
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 8595.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_24
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 8595.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_25
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 8595.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_26
+      rect:
+        serializedVersion: 2
+        x: 5112
+        y: 8595.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_27
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 8595.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_28
+      rect:
+        serializedVersion: 2
+        x: 7668
+        y: 8595.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_29
+      rect:
+        serializedVersion: 2
+        x: 8946
+        y: 8595.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_30
+      rect:
+        serializedVersion: 2
+        x: 10224
+        y: 8595.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_31
+      rect:
+        serializedVersion: 2
+        x: 11502
+        y: 8595.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_32
+      rect:
+        serializedVersion: 2
+        x: 12780
+        y: 8595.167
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7661.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_34
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 7661.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_35
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 7661.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_36
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 7661.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_37
+      rect:
+        serializedVersion: 2
+        x: 5112
+        y: 7661.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_38
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 7661.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_39
+      rect:
+        serializedVersion: 2
+        x: 7668
+        y: 7661.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_40
+      rect:
+        serializedVersion: 2
+        x: 8946
+        y: 7661.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_41
+      rect:
+        serializedVersion: 2
+        x: 10224
+        y: 7661.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_42
+      rect:
+        serializedVersion: 2
+        x: 11502
+        y: 7661.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_43
+      rect:
+        serializedVersion: 2
+        x: 12780
+        y: 7661.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6727.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_45
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 6727.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_46
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 6727.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_47
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 6727.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_48
+      rect:
+        serializedVersion: 2
+        x: 5112
+        y: 6727.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_49
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 6727.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_50
+      rect:
+        serializedVersion: 2
+        x: 7668
+        y: 6727.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_51
+      rect:
+        serializedVersion: 2
+        x: 8946
+        y: 6727.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_52
+      rect:
+        serializedVersion: 2
+        x: 10224
+        y: 6727.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_53
+      rect:
+        serializedVersion: 2
+        x: 11502
+        y: 6727.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_54
+      rect:
+        serializedVersion: 2
+        x: 12780
+        y: 6727.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5793.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_56
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 5793.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_57
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 5793.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_58
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 5793.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_59
+      rect:
+        serializedVersion: 2
+        x: 5112
+        y: 5793.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_60
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 5793.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_61
+      rect:
+        serializedVersion: 2
+        x: 7668
+        y: 5793.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_62
+      rect:
+        serializedVersion: 2
+        x: 8946
+        y: 5793.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_63
+      rect:
+        serializedVersion: 2
+        x: 10224
+        y: 5793.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_64
+      rect:
+        serializedVersion: 2
+        x: 11502
+        y: 5793.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_65
+      rect:
+        serializedVersion: 2
+        x: 12780
+        y: 5793.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4859.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_67
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 4859.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_68
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 4859.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_69
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 4859.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_70
+      rect:
+        serializedVersion: 2
+        x: 5112
+        y: 4859.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_71
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 4859.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_72
+      rect:
+        serializedVersion: 2
+        x: 7668
+        y: 4859.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_73
+      rect:
+        serializedVersion: 2
+        x: 8946
+        y: 4859.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_74
+      rect:
+        serializedVersion: 2
+        x: 10224
+        y: 4859.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_75
+      rect:
+        serializedVersion: 2
+        x: 11502
+        y: 4859.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_76
+      rect:
+        serializedVersion: 2
+        x: 12780
+        y: 4859.1665
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3925.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_78
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3925.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_79
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 3925.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_80
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 3925.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_81
+      rect:
+        serializedVersion: 2
+        x: 5112
+        y: 3925.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_82
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 3925.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_83
+      rect:
+        serializedVersion: 2
+        x: 7668
+        y: 3925.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_84
+      rect:
+        serializedVersion: 2
+        x: 8946
+        y: 3925.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_85
+      rect:
+        serializedVersion: 2
+        x: 10224
+        y: 3925.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_86
+      rect:
+        serializedVersion: 2
+        x: 11502
+        y: 3925.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_87
+      rect:
+        serializedVersion: 2
+        x: 12780
+        y: 3925.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2991.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_89
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2991.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_90
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2991.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_91
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 2991.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_92
+      rect:
+        serializedVersion: 2
+        x: 5112
+        y: 2991.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_93
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 2991.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_94
+      rect:
+        serializedVersion: 2
+        x: 7668
+        y: 2991.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_95
+      rect:
+        serializedVersion: 2
+        x: 8946
+        y: 2991.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_96
+      rect:
+        serializedVersion: 2
+        x: 10224
+        y: 2991.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_97
+      rect:
+        serializedVersion: 2
+        x: 11502
+        y: 2991.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_98
+      rect:
+        serializedVersion: 2
+        x: 12780
+        y: 2991.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2057.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_100
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2057.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_101
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2057.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_102
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 2057.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_103
+      rect:
+        serializedVersion: 2
+        x: 5112
+        y: 2057.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_104
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 2057.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_105
+      rect:
+        serializedVersion: 2
+        x: 7668
+        y: 2057.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_106
+      rect:
+        serializedVersion: 2
+        x: 8946
+        y: 2057.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_107
+      rect:
+        serializedVersion: 2
+        x: 10224
+        y: 2057.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_108
+      rect:
+        serializedVersion: 2
+        x: 11502
+        y: 2057.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_109
+      rect:
+        serializedVersion: 2
+        x: 12780
+        y: 2057.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1123.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_111
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1123.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_112
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1123.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_113
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 1123.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_114
+      rect:
+        serializedVersion: 2
+        x: 5112
+        y: 1123.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_115
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 1123.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_116
+      rect:
+        serializedVersion: 2
+        x: 7668
+        y: 1123.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_117
+      rect:
+        serializedVersion: 2
+        x: 8946
+        y: 1123.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_118
+      rect:
+        serializedVersion: 2
+        x: 10224
+        y: 1123.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_119
+      rect:
+        serializedVersion: 2
+        x: 11502
+        y: 1123.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_120
+      rect:
+        serializedVersion: 2
+        x: 12780
+        y: 1123.1667
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189.16669
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_122
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 189.16669
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_123
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 189.16669
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_124
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 189.16669
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_125
+      rect:
+        serializedVersion: 2
+        x: 5112
+        y: 189.16669
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_126
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 189.16669
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_127
+      rect:
+        serializedVersion: 2
+        x: 7668
+        y: 189.16669
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_128
+      rect:
+        serializedVersion: 2
+        x: 8946
+        y: 189.16669
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_129
+      rect:
+        serializedVersion: 2
+        x: 10224
+        y: 189.16669
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_130
+      rect:
+        serializedVersion: 2
+        x: 11502
+        y: 189.16669
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: image10_131
+      rect:
+        serializedVersion: 2
+        x: 12780
+        y: 189.16669
+        width: 478.0909
+        height: 754.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

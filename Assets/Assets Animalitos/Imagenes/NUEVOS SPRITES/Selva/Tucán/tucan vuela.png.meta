@@ -1,0 +1,3717 @@
+fileFormatVersion: 2
+guid: 42da1702f0167134e9221b770eb45379
+timeCreated: 1519895329
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tucan vuela_0
+    21300002: tucan vuela_1
+    21300004: tucan vuela_2
+    21300006: tucan vuela_3
+    21300008: tucan vuela_4
+    21300010: tucan vuela_5
+    21300012: tucan vuela_6
+    21300014: tucan vuela_7
+    21300016: tucan vuela_8
+    21300018: tucan vuela_9
+    21300020: tucan vuela_10
+    21300022: tucan vuela_11
+    21300024: tucan vuela_12
+    21300026: tucan vuela_13
+    21300028: tucan vuela_14
+    21300030: tucan vuela_15
+    21300032: tucan vuela_16
+    21300034: tucan vuela_17
+    21300036: tucan vuela_18
+    21300038: tucan vuela_19
+    21300040: tucan vuela_20
+    21300042: tucan vuela_21
+    21300044: tucan vuela_22
+    21300046: tucan vuela_23
+    21300048: tucan vuela_24
+    21300050: tucan vuela_25
+    21300052: tucan vuela_26
+    21300054: tucan vuela_27
+    21300056: tucan vuela_28
+    21300058: tucan vuela_29
+    21300060: tucan vuela_30
+    21300062: tucan vuela_31
+    21300064: tucan vuela_32
+    21300066: tucan vuela_33
+    21300068: tucan vuela_34
+    21300070: tucan vuela_35
+    21300072: tucan vuela_36
+    21300074: tucan vuela_37
+    21300076: tucan vuela_38
+    21300078: tucan vuela_39
+    21300080: tucan vuela_40
+    21300082: tucan vuela_41
+    21300084: tucan vuela_42
+    21300086: tucan vuela_43
+    21300088: tucan vuela_44
+    21300090: tucan vuela_45
+    21300092: tucan vuela_46
+    21300094: tucan vuela_47
+    21300096: tucan vuela_48
+    21300098: tucan vuela_49
+    21300100: tucan vuela_50
+    21300102: tucan vuela_51
+    21300104: tucan vuela_52
+    21300106: tucan vuela_53
+    21300108: tucan vuela_54
+    21300110: tucan vuela_55
+    21300112: tucan vuela_56
+    21300114: tucan vuela_57
+    21300116: tucan vuela_58
+    21300118: tucan vuela_59
+    21300120: tucan vuela_60
+    21300122: tucan vuela_61
+    21300124: tucan vuela_62
+    21300126: tucan vuela_63
+    21300128: tucan vuela_64
+    21300130: tucan vuela_65
+    21300132: tucan vuela_66
+    21300134: tucan vuela_67
+    21300136: tucan vuela_68
+    21300138: tucan vuela_69
+    21300140: tucan vuela_70
+    21300142: tucan vuela_71
+    21300144: tucan vuela_72
+    21300146: tucan vuela_73
+    21300148: tucan vuela_74
+    21300150: tucan vuela_75
+    21300152: tucan vuela_76
+    21300154: tucan vuela_77
+    21300156: tucan vuela_78
+    21300158: tucan vuela_79
+    21300160: tucan vuela_80
+    21300162: tucan vuela_81
+    21300164: tucan vuela_82
+    21300166: tucan vuela_83
+    21300168: tucan vuela_84
+    21300170: tucan vuela_85
+    21300172: tucan vuela_86
+    21300174: tucan vuela_87
+    21300176: tucan vuela_88
+    21300178: tucan vuela_89
+    21300180: tucan vuela_90
+    21300182: tucan vuela_91
+    21300184: tucan vuela_92
+    21300186: tucan vuela_93
+    21300188: tucan vuela_94
+    21300190: tucan vuela_95
+    21300192: tucan vuela_96
+    21300194: tucan vuela_97
+    21300196: tucan vuela_98
+    21300198: tucan vuela_99
+    21300200: tucan vuela_100
+    21300202: tucan vuela_101
+    21300204: tucan vuela_102
+    21300206: tucan vuela_103
+    21300208: tucan vuela_104
+    21300210: tucan vuela_105
+    21300212: tucan vuela_106
+    21300214: tucan vuela_107
+    21300216: tucan vuela_108
+    21300218: tucan vuela_109
+    21300220: tucan vuela_110
+    21300222: tucan vuela_111
+    21300224: tucan vuela_112
+    21300226: tucan vuela_113
+    21300228: tucan vuela_114
+    21300230: tucan vuela_115
+    21300232: tucan vuela_116
+    21300234: tucan vuela_117
+    21300236: tucan vuela_118
+    21300238: tucan vuela_119
+    21300240: tucan vuela_120
+    21300242: tucan vuela_121
+    21300244: tucan vuela_122
+    21300246: tucan vuela_123
+    21300248: tucan vuela_124
+    21300250: tucan vuela_125
+    21300252: tucan vuela_126
+    21300254: tucan vuela_127
+    21300256: tucan vuela_128
+    21300258: tucan vuela_129
+    21300260: tucan vuela_130
+    21300262: tucan vuela_131
+    21300264: tucan vuela_132
+    21300266: tucan vuela_133
+    21300268: tucan vuela_134
+    21300270: tucan vuela_135
+    21300272: tucan vuela_136
+    21300274: tucan vuela_137
+    21300276: tucan vuela_138
+    21300278: tucan vuela_139
+    21300280: tucan vuela_140
+    21300282: tucan vuela_141
+    21300284: tucan vuela_142
+    21300286: tucan vuela_143
+    21300288: tucan vuela_144
+    21300290: tucan vuela_145
+    21300292: tucan vuela_146
+    21300294: tucan vuela_147
+    21300296: tucan vuela_148
+    21300298: tucan vuela_149
+    21300300: tucan vuela_150
+    21300302: tucan vuela_151
+    21300304: tucan vuela_152
+    21300306: tucan vuela_153
+    21300308: tucan vuela_154
+    21300310: tucan vuela_155
+    21300312: tucan vuela_156
+    21300314: tucan vuela_157
+    21300316: tucan vuela_158
+    21300318: tucan vuela_159
+    21300320: tucan vuela_160
+    21300322: tucan vuela_161
+    21300324: tucan vuela_162
+    21300326: tucan vuela_163
+    21300328: tucan vuela_164
+    21300330: tucan vuela_165
+    21300332: tucan vuela_166
+    21300334: tucan vuela_167
+    21300336: tucan vuela_168
+    21300338: tucan vuela_169
+    21300340: tucan vuela_170
+    21300342: tucan vuela_171
+    21300344: tucan vuela_172
+    21300346: tucan vuela_173
+    21300348: tucan vuela_174
+    21300350: tucan vuela_175
+    21300352: tucan vuela_176
+    21300354: tucan vuela_177
+    21300356: tucan vuela_178
+    21300358: tucan vuela_179
+    21300360: tucan vuela_180
+    21300362: tucan vuela_181
+    21300364: tucan vuela_182
+    21300366: tucan vuela_183
+    21300368: tucan vuela_184
+    21300370: tucan vuela_185
+    21300372: tucan vuela_186
+    21300374: tucan vuela_187
+    21300376: tucan vuela_188
+    21300378: tucan vuela_189
+    21300380: tucan vuela_190
+    21300382: tucan vuela_191
+    21300384: tucan vuela_192
+    21300386: tucan vuela_193
+    21300388: tucan vuela_194
+    21300390: tucan vuela_195
+    21300392: tucan vuela_196
+    21300394: tucan vuela_197
+    21300396: tucan vuela_198
+    21300398: tucan vuela_199
+    21300400: tucan vuela_200
+    21300402: tucan vuela_201
+    21300404: tucan vuela_202
+    21300406: tucan vuela_203
+    21300408: tucan vuela_204
+    21300410: tucan vuela_205
+    21300412: tucan vuela_206
+    21300414: tucan vuela_207
+    21300416: tucan vuela_208
+    21300418: tucan vuela_209
+    21300420: tucan vuela_210
+    21300422: tucan vuela_211
+    21300424: tucan vuela_212
+    21300426: tucan vuela_213
+    21300428: tucan vuela_214
+    21300430: tucan vuela_215
+    21300432: tucan vuela_216
+    21300434: tucan vuela_217
+    21300436: tucan vuela_218
+    21300438: tucan vuela_219
+    21300440: tucan vuela_220
+    21300442: tucan vuela_221
+    21300444: tucan vuela_222
+    21300446: tucan vuela_223
+    21300448: tucan vuela_224
+    21300450: tucan vuela_225
+    21300452: tucan vuela_226
+    21300454: tucan vuela_227
+    21300456: tucan vuela_228
+    21300458: tucan vuela_229
+    21300460: tucan vuela_230
+    21300462: tucan vuela_231
+    21300464: tucan vuela_232
+    21300466: tucan vuela_233
+    21300468: tucan vuela_234
+    21300470: tucan vuela_235
+    21300472: tucan vuela_236
+    21300474: tucan vuela_237
+    21300476: tucan vuela_238
+    21300478: tucan vuela_239
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tucan vuela_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_1
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_2
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_3
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_4
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_5
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_6
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_7
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_8
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_9
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_10
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_11
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_12
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_13
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_14
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_16
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_17
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_18
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_19
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_20
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_21
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_22
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_23
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_24
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_25
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_26
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_27
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_28
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_29
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_31
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_32
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_33
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_34
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_35
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_36
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_37
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_38
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_39
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_40
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_41
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_42
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_43
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_44
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_47
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_48
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_49
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_50
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_51
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_52
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_53
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_54
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_55
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_56
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_57
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_58
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_59
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_61
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_62
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_63
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_64
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_65
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_66
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_67
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_68
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_69
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_70
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_71
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_72
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_73
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_74
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_76
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_77
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_78
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_79
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_80
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_81
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_82
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_83
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_84
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_85
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_86
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_87
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_88
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_89
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_91
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_92
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_93
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_94
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_95
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_96
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_97
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_98
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_99
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_100
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_101
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_102
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_103
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_104
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_106
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_107
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_108
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_109
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_110
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_111
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_112
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_113
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_114
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_115
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_116
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_117
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_118
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_119
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_121
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_122
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_123
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_124
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_125
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_126
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_127
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_128
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_129
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_130
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_131
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_132
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_133
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_134
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_136
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_137
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_138
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_139
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_140
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_141
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_142
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_143
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_144
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_145
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_146
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_147
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_148
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_149
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_151
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_152
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_153
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_154
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_155
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_156
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_157
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_158
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_159
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_160
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_161
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_162
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_163
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_164
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_166
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_167
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_168
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_169
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_170
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_171
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_172
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_173
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_174
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_175
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_176
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_177
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_178
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_179
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_181
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_182
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_183
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_184
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_185
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_186
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_187
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_188
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_189
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_190
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_191
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_192
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_193
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_194
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_196
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_197
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_198
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_199
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_200
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_201
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_202
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_203
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_204
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_205
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_206
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_207
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_208
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_209
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_211
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_212
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_213
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_214
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_215
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_216
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_217
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_218
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_219
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_220
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_221
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_222
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_223
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_224
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_226
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_227
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_228
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_229
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_230
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_231
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_232
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_233
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_234
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_235
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_236
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_237
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_238
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tucan vuela_239
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

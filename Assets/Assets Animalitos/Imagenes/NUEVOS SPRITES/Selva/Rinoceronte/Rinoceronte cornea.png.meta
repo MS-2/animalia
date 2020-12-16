@@ -1,0 +1,3717 @@
+fileFormatVersion: 2
+guid: 7c1ab9b0a757a2e4893e1bf9b36d968d
+timeCreated: 1519894928
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Rinoceronte cornea_0
+    21300002: Rinoceronte cornea_1
+    21300004: Rinoceronte cornea_2
+    21300006: Rinoceronte cornea_3
+    21300008: Rinoceronte cornea_4
+    21300010: Rinoceronte cornea_5
+    21300012: Rinoceronte cornea_6
+    21300014: Rinoceronte cornea_7
+    21300016: Rinoceronte cornea_8
+    21300018: Rinoceronte cornea_9
+    21300020: Rinoceronte cornea_10
+    21300022: Rinoceronte cornea_11
+    21300024: Rinoceronte cornea_12
+    21300026: Rinoceronte cornea_13
+    21300028: Rinoceronte cornea_14
+    21300030: Rinoceronte cornea_15
+    21300032: Rinoceronte cornea_16
+    21300034: Rinoceronte cornea_17
+    21300036: Rinoceronte cornea_18
+    21300038: Rinoceronte cornea_19
+    21300040: Rinoceronte cornea_20
+    21300042: Rinoceronte cornea_21
+    21300044: Rinoceronte cornea_22
+    21300046: Rinoceronte cornea_23
+    21300048: Rinoceronte cornea_24
+    21300050: Rinoceronte cornea_25
+    21300052: Rinoceronte cornea_26
+    21300054: Rinoceronte cornea_27
+    21300056: Rinoceronte cornea_28
+    21300058: Rinoceronte cornea_29
+    21300060: Rinoceronte cornea_30
+    21300062: Rinoceronte cornea_31
+    21300064: Rinoceronte cornea_32
+    21300066: Rinoceronte cornea_33
+    21300068: Rinoceronte cornea_34
+    21300070: Rinoceronte cornea_35
+    21300072: Rinoceronte cornea_36
+    21300074: Rinoceronte cornea_37
+    21300076: Rinoceronte cornea_38
+    21300078: Rinoceronte cornea_39
+    21300080: Rinoceronte cornea_40
+    21300082: Rinoceronte cornea_41
+    21300084: Rinoceronte cornea_42
+    21300086: Rinoceronte cornea_43
+    21300088: Rinoceronte cornea_44
+    21300090: Rinoceronte cornea_45
+    21300092: Rinoceronte cornea_46
+    21300094: Rinoceronte cornea_47
+    21300096: Rinoceronte cornea_48
+    21300098: Rinoceronte cornea_49
+    21300100: Rinoceronte cornea_50
+    21300102: Rinoceronte cornea_51
+    21300104: Rinoceronte cornea_52
+    21300106: Rinoceronte cornea_53
+    21300108: Rinoceronte cornea_54
+    21300110: Rinoceronte cornea_55
+    21300112: Rinoceronte cornea_56
+    21300114: Rinoceronte cornea_57
+    21300116: Rinoceronte cornea_58
+    21300118: Rinoceronte cornea_59
+    21300120: Rinoceronte cornea_60
+    21300122: Rinoceronte cornea_61
+    21300124: Rinoceronte cornea_62
+    21300126: Rinoceronte cornea_63
+    21300128: Rinoceronte cornea_64
+    21300130: Rinoceronte cornea_65
+    21300132: Rinoceronte cornea_66
+    21300134: Rinoceronte cornea_67
+    21300136: Rinoceronte cornea_68
+    21300138: Rinoceronte cornea_69
+    21300140: Rinoceronte cornea_70
+    21300142: Rinoceronte cornea_71
+    21300144: Rinoceronte cornea_72
+    21300146: Rinoceronte cornea_73
+    21300148: Rinoceronte cornea_74
+    21300150: Rinoceronte cornea_75
+    21300152: Rinoceronte cornea_76
+    21300154: Rinoceronte cornea_77
+    21300156: Rinoceronte cornea_78
+    21300158: Rinoceronte cornea_79
+    21300160: Rinoceronte cornea_80
+    21300162: Rinoceronte cornea_81
+    21300164: Rinoceronte cornea_82
+    21300166: Rinoceronte cornea_83
+    21300168: Rinoceronte cornea_84
+    21300170: Rinoceronte cornea_85
+    21300172: Rinoceronte cornea_86
+    21300174: Rinoceronte cornea_87
+    21300176: Rinoceronte cornea_88
+    21300178: Rinoceronte cornea_89
+    21300180: Rinoceronte cornea_90
+    21300182: Rinoceronte cornea_91
+    21300184: Rinoceronte cornea_92
+    21300186: Rinoceronte cornea_93
+    21300188: Rinoceronte cornea_94
+    21300190: Rinoceronte cornea_95
+    21300192: Rinoceronte cornea_96
+    21300194: Rinoceronte cornea_97
+    21300196: Rinoceronte cornea_98
+    21300198: Rinoceronte cornea_99
+    21300200: Rinoceronte cornea_100
+    21300202: Rinoceronte cornea_101
+    21300204: Rinoceronte cornea_102
+    21300206: Rinoceronte cornea_103
+    21300208: Rinoceronte cornea_104
+    21300210: Rinoceronte cornea_105
+    21300212: Rinoceronte cornea_106
+    21300214: Rinoceronte cornea_107
+    21300216: Rinoceronte cornea_108
+    21300218: Rinoceronte cornea_109
+    21300220: Rinoceronte cornea_110
+    21300222: Rinoceronte cornea_111
+    21300224: Rinoceronte cornea_112
+    21300226: Rinoceronte cornea_113
+    21300228: Rinoceronte cornea_114
+    21300230: Rinoceronte cornea_115
+    21300232: Rinoceronte cornea_116
+    21300234: Rinoceronte cornea_117
+    21300236: Rinoceronte cornea_118
+    21300238: Rinoceronte cornea_119
+    21300240: Rinoceronte cornea_120
+    21300242: Rinoceronte cornea_121
+    21300244: Rinoceronte cornea_122
+    21300246: Rinoceronte cornea_123
+    21300248: Rinoceronte cornea_124
+    21300250: Rinoceronte cornea_125
+    21300252: Rinoceronte cornea_126
+    21300254: Rinoceronte cornea_127
+    21300256: Rinoceronte cornea_128
+    21300258: Rinoceronte cornea_129
+    21300260: Rinoceronte cornea_130
+    21300262: Rinoceronte cornea_131
+    21300264: Rinoceronte cornea_132
+    21300266: Rinoceronte cornea_133
+    21300268: Rinoceronte cornea_134
+    21300270: Rinoceronte cornea_135
+    21300272: Rinoceronte cornea_136
+    21300274: Rinoceronte cornea_137
+    21300276: Rinoceronte cornea_138
+    21300278: Rinoceronte cornea_139
+    21300280: Rinoceronte cornea_140
+    21300282: Rinoceronte cornea_141
+    21300284: Rinoceronte cornea_142
+    21300286: Rinoceronte cornea_143
+    21300288: Rinoceronte cornea_144
+    21300290: Rinoceronte cornea_145
+    21300292: Rinoceronte cornea_146
+    21300294: Rinoceronte cornea_147
+    21300296: Rinoceronte cornea_148
+    21300298: Rinoceronte cornea_149
+    21300300: Rinoceronte cornea_150
+    21300302: Rinoceronte cornea_151
+    21300304: Rinoceronte cornea_152
+    21300306: Rinoceronte cornea_153
+    21300308: Rinoceronte cornea_154
+    21300310: Rinoceronte cornea_155
+    21300312: Rinoceronte cornea_156
+    21300314: Rinoceronte cornea_157
+    21300316: Rinoceronte cornea_158
+    21300318: Rinoceronte cornea_159
+    21300320: Rinoceronte cornea_160
+    21300322: Rinoceronte cornea_161
+    21300324: Rinoceronte cornea_162
+    21300326: Rinoceronte cornea_163
+    21300328: Rinoceronte cornea_164
+    21300330: Rinoceronte cornea_165
+    21300332: Rinoceronte cornea_166
+    21300334: Rinoceronte cornea_167
+    21300336: Rinoceronte cornea_168
+    21300338: Rinoceronte cornea_169
+    21300340: Rinoceronte cornea_170
+    21300342: Rinoceronte cornea_171
+    21300344: Rinoceronte cornea_172
+    21300346: Rinoceronte cornea_173
+    21300348: Rinoceronte cornea_174
+    21300350: Rinoceronte cornea_175
+    21300352: Rinoceronte cornea_176
+    21300354: Rinoceronte cornea_177
+    21300356: Rinoceronte cornea_178
+    21300358: Rinoceronte cornea_179
+    21300360: Rinoceronte cornea_180
+    21300362: Rinoceronte cornea_181
+    21300364: Rinoceronte cornea_182
+    21300366: Rinoceronte cornea_183
+    21300368: Rinoceronte cornea_184
+    21300370: Rinoceronte cornea_185
+    21300372: Rinoceronte cornea_186
+    21300374: Rinoceronte cornea_187
+    21300376: Rinoceronte cornea_188
+    21300378: Rinoceronte cornea_189
+    21300380: Rinoceronte cornea_190
+    21300382: Rinoceronte cornea_191
+    21300384: Rinoceronte cornea_192
+    21300386: Rinoceronte cornea_193
+    21300388: Rinoceronte cornea_194
+    21300390: Rinoceronte cornea_195
+    21300392: Rinoceronte cornea_196
+    21300394: Rinoceronte cornea_197
+    21300396: Rinoceronte cornea_198
+    21300398: Rinoceronte cornea_199
+    21300400: Rinoceronte cornea_200
+    21300402: Rinoceronte cornea_201
+    21300404: Rinoceronte cornea_202
+    21300406: Rinoceronte cornea_203
+    21300408: Rinoceronte cornea_204
+    21300410: Rinoceronte cornea_205
+    21300412: Rinoceronte cornea_206
+    21300414: Rinoceronte cornea_207
+    21300416: Rinoceronte cornea_208
+    21300418: Rinoceronte cornea_209
+    21300420: Rinoceronte cornea_210
+    21300422: Rinoceronte cornea_211
+    21300424: Rinoceronte cornea_212
+    21300426: Rinoceronte cornea_213
+    21300428: Rinoceronte cornea_214
+    21300430: Rinoceronte cornea_215
+    21300432: Rinoceronte cornea_216
+    21300434: Rinoceronte cornea_217
+    21300436: Rinoceronte cornea_218
+    21300438: Rinoceronte cornea_219
+    21300440: Rinoceronte cornea_220
+    21300442: Rinoceronte cornea_221
+    21300444: Rinoceronte cornea_222
+    21300446: Rinoceronte cornea_223
+    21300448: Rinoceronte cornea_224
+    21300450: Rinoceronte cornea_225
+    21300452: Rinoceronte cornea_226
+    21300454: Rinoceronte cornea_227
+    21300456: Rinoceronte cornea_228
+    21300458: Rinoceronte cornea_229
+    21300460: Rinoceronte cornea_230
+    21300462: Rinoceronte cornea_231
+    21300464: Rinoceronte cornea_232
+    21300466: Rinoceronte cornea_233
+    21300468: Rinoceronte cornea_234
+    21300470: Rinoceronte cornea_235
+    21300472: Rinoceronte cornea_236
+    21300474: Rinoceronte cornea_237
+    21300476: Rinoceronte cornea_238
+    21300478: Rinoceronte cornea_239
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rinoceronte cornea_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_1
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_2
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_3
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_4
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_5
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_6
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_7
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_8
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_9
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_10
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_11
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_12
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_13
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_14
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_16
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_17
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_18
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_19
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_20
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_21
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_22
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_23
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_24
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_25
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_26
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_27
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_28
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_29
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_31
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_32
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_33
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_34
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_35
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_36
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_37
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_38
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_39
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_40
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_41
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_42
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_43
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_44
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_47
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_48
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_49
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_50
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_51
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_52
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_53
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_54
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_55
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_56
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_57
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_58
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_59
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_61
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_62
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_63
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_64
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_65
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_66
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_67
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_68
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_69
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_70
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_71
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_72
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_73
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_74
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_76
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_77
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_78
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_79
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_80
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_81
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_82
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_83
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_84
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_85
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_86
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_87
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_88
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_89
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_91
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_92
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_93
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_94
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_95
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_96
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_97
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_98
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_99
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_100
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_101
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_102
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_103
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_104
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_106
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_107
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_108
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_109
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_110
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_111
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_112
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_113
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_114
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_115
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_116
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_117
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_118
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_119
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_121
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_122
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_123
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_124
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_125
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_126
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_127
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_128
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_129
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_130
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_131
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_132
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_133
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_134
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_136
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_137
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_138
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_139
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_140
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_141
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_142
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_143
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_144
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_145
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_146
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_147
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_148
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_149
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_151
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_152
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_153
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_154
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_155
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_156
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_157
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_158
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_159
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_160
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_161
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_162
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_163
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_164
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_166
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_167
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_168
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_169
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_170
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_171
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_172
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_173
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_174
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_175
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_176
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_177
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_178
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_179
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_181
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_182
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_183
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_184
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_185
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_186
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_187
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_188
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_189
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_190
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_191
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_192
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_193
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_194
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_196
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_197
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_198
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_199
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_200
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_201
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_202
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_203
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_204
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_205
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_206
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_207
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_208
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_209
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_211
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_212
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_213
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_214
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_215
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_216
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_217
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_218
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_219
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_220
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_221
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_222
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_223
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_224
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_226
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_227
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 0
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_228
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 0
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_229
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 0
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_230
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 0
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_231
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 0
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_232
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 0
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_233
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 0
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_234
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 0
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_235
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 0
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_236
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 0
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_237
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 0
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_238
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 0
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rinoceronte cornea_239
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 0
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

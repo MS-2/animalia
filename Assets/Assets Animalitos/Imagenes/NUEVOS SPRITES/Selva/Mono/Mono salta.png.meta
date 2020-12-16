@@ -1,0 +1,3717 @@
+fileFormatVersion: 2
+guid: 3f4fa865721f2e649873972c0b820b5f
+timeCreated: 1519894517
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mono salta_0
+    21300002: Mono salta_1
+    21300004: Mono salta_2
+    21300006: Mono salta_3
+    21300008: Mono salta_4
+    21300010: Mono salta_5
+    21300012: Mono salta_6
+    21300014: Mono salta_7
+    21300016: Mono salta_8
+    21300018: Mono salta_9
+    21300020: Mono salta_10
+    21300022: Mono salta_11
+    21300024: Mono salta_12
+    21300026: Mono salta_13
+    21300028: Mono salta_14
+    21300030: Mono salta_15
+    21300032: Mono salta_16
+    21300034: Mono salta_17
+    21300036: Mono salta_18
+    21300038: Mono salta_19
+    21300040: Mono salta_20
+    21300042: Mono salta_21
+    21300044: Mono salta_22
+    21300046: Mono salta_23
+    21300048: Mono salta_24
+    21300050: Mono salta_25
+    21300052: Mono salta_26
+    21300054: Mono salta_27
+    21300056: Mono salta_28
+    21300058: Mono salta_29
+    21300060: Mono salta_30
+    21300062: Mono salta_31
+    21300064: Mono salta_32
+    21300066: Mono salta_33
+    21300068: Mono salta_34
+    21300070: Mono salta_35
+    21300072: Mono salta_36
+    21300074: Mono salta_37
+    21300076: Mono salta_38
+    21300078: Mono salta_39
+    21300080: Mono salta_40
+    21300082: Mono salta_41
+    21300084: Mono salta_42
+    21300086: Mono salta_43
+    21300088: Mono salta_44
+    21300090: Mono salta_45
+    21300092: Mono salta_46
+    21300094: Mono salta_47
+    21300096: Mono salta_48
+    21300098: Mono salta_49
+    21300100: Mono salta_50
+    21300102: Mono salta_51
+    21300104: Mono salta_52
+    21300106: Mono salta_53
+    21300108: Mono salta_54
+    21300110: Mono salta_55
+    21300112: Mono salta_56
+    21300114: Mono salta_57
+    21300116: Mono salta_58
+    21300118: Mono salta_59
+    21300120: Mono salta_60
+    21300122: Mono salta_61
+    21300124: Mono salta_62
+    21300126: Mono salta_63
+    21300128: Mono salta_64
+    21300130: Mono salta_65
+    21300132: Mono salta_66
+    21300134: Mono salta_67
+    21300136: Mono salta_68
+    21300138: Mono salta_69
+    21300140: Mono salta_70
+    21300142: Mono salta_71
+    21300144: Mono salta_72
+    21300146: Mono salta_73
+    21300148: Mono salta_74
+    21300150: Mono salta_75
+    21300152: Mono salta_76
+    21300154: Mono salta_77
+    21300156: Mono salta_78
+    21300158: Mono salta_79
+    21300160: Mono salta_80
+    21300162: Mono salta_81
+    21300164: Mono salta_82
+    21300166: Mono salta_83
+    21300168: Mono salta_84
+    21300170: Mono salta_85
+    21300172: Mono salta_86
+    21300174: Mono salta_87
+    21300176: Mono salta_88
+    21300178: Mono salta_89
+    21300180: Mono salta_90
+    21300182: Mono salta_91
+    21300184: Mono salta_92
+    21300186: Mono salta_93
+    21300188: Mono salta_94
+    21300190: Mono salta_95
+    21300192: Mono salta_96
+    21300194: Mono salta_97
+    21300196: Mono salta_98
+    21300198: Mono salta_99
+    21300200: Mono salta_100
+    21300202: Mono salta_101
+    21300204: Mono salta_102
+    21300206: Mono salta_103
+    21300208: Mono salta_104
+    21300210: Mono salta_105
+    21300212: Mono salta_106
+    21300214: Mono salta_107
+    21300216: Mono salta_108
+    21300218: Mono salta_109
+    21300220: Mono salta_110
+    21300222: Mono salta_111
+    21300224: Mono salta_112
+    21300226: Mono salta_113
+    21300228: Mono salta_114
+    21300230: Mono salta_115
+    21300232: Mono salta_116
+    21300234: Mono salta_117
+    21300236: Mono salta_118
+    21300238: Mono salta_119
+    21300240: Mono salta_120
+    21300242: Mono salta_121
+    21300244: Mono salta_122
+    21300246: Mono salta_123
+    21300248: Mono salta_124
+    21300250: Mono salta_125
+    21300252: Mono salta_126
+    21300254: Mono salta_127
+    21300256: Mono salta_128
+    21300258: Mono salta_129
+    21300260: Mono salta_130
+    21300262: Mono salta_131
+    21300264: Mono salta_132
+    21300266: Mono salta_133
+    21300268: Mono salta_134
+    21300270: Mono salta_135
+    21300272: Mono salta_136
+    21300274: Mono salta_137
+    21300276: Mono salta_138
+    21300278: Mono salta_139
+    21300280: Mono salta_140
+    21300282: Mono salta_141
+    21300284: Mono salta_142
+    21300286: Mono salta_143
+    21300288: Mono salta_144
+    21300290: Mono salta_145
+    21300292: Mono salta_146
+    21300294: Mono salta_147
+    21300296: Mono salta_148
+    21300298: Mono salta_149
+    21300300: Mono salta_150
+    21300302: Mono salta_151
+    21300304: Mono salta_152
+    21300306: Mono salta_153
+    21300308: Mono salta_154
+    21300310: Mono salta_155
+    21300312: Mono salta_156
+    21300314: Mono salta_157
+    21300316: Mono salta_158
+    21300318: Mono salta_159
+    21300320: Mono salta_160
+    21300322: Mono salta_161
+    21300324: Mono salta_162
+    21300326: Mono salta_163
+    21300328: Mono salta_164
+    21300330: Mono salta_165
+    21300332: Mono salta_166
+    21300334: Mono salta_167
+    21300336: Mono salta_168
+    21300338: Mono salta_169
+    21300340: Mono salta_170
+    21300342: Mono salta_171
+    21300344: Mono salta_172
+    21300346: Mono salta_173
+    21300348: Mono salta_174
+    21300350: Mono salta_175
+    21300352: Mono salta_176
+    21300354: Mono salta_177
+    21300356: Mono salta_178
+    21300358: Mono salta_179
+    21300360: Mono salta_180
+    21300362: Mono salta_181
+    21300364: Mono salta_182
+    21300366: Mono salta_183
+    21300368: Mono salta_184
+    21300370: Mono salta_185
+    21300372: Mono salta_186
+    21300374: Mono salta_187
+    21300376: Mono salta_188
+    21300378: Mono salta_189
+    21300380: Mono salta_190
+    21300382: Mono salta_191
+    21300384: Mono salta_192
+    21300386: Mono salta_193
+    21300388: Mono salta_194
+    21300390: Mono salta_195
+    21300392: Mono salta_196
+    21300394: Mono salta_197
+    21300396: Mono salta_198
+    21300398: Mono salta_199
+    21300400: Mono salta_200
+    21300402: Mono salta_201
+    21300404: Mono salta_202
+    21300406: Mono salta_203
+    21300408: Mono salta_204
+    21300410: Mono salta_205
+    21300412: Mono salta_206
+    21300414: Mono salta_207
+    21300416: Mono salta_208
+    21300418: Mono salta_209
+    21300420: Mono salta_210
+    21300422: Mono salta_211
+    21300424: Mono salta_212
+    21300426: Mono salta_213
+    21300428: Mono salta_214
+    21300430: Mono salta_215
+    21300432: Mono salta_216
+    21300434: Mono salta_217
+    21300436: Mono salta_218
+    21300438: Mono salta_219
+    21300440: Mono salta_220
+    21300442: Mono salta_221
+    21300444: Mono salta_222
+    21300446: Mono salta_223
+    21300448: Mono salta_224
+    21300450: Mono salta_225
+    21300452: Mono salta_226
+    21300454: Mono salta_227
+    21300456: Mono salta_228
+    21300458: Mono salta_229
+    21300460: Mono salta_230
+    21300462: Mono salta_231
+    21300464: Mono salta_232
+    21300466: Mono salta_233
+    21300468: Mono salta_234
+    21300470: Mono salta_235
+    21300472: Mono salta_236
+    21300474: Mono salta_237
+    21300476: Mono salta_238
+    21300478: Mono salta_239
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mono salta_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_1
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_2
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_3
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_4
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_5
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_6
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_7
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_8
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_9
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_10
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_11
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_12
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_13
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_14
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4320
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_16
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_17
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_18
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_19
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_20
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_21
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_22
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_23
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_24
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_25
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_26
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_27
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_28
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_29
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4032
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_31
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_32
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_33
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_34
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_35
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_36
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_37
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_38
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_39
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_40
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_41
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_42
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_43
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_44
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3744
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_47
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_48
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_49
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_50
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_51
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_52
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_53
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_54
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_55
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_56
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_57
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_58
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_59
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3456
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_61
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_62
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_63
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_64
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_65
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_66
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_67
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_68
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_69
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_70
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_71
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_72
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_73
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_74
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3168
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_76
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_77
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_78
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_79
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_80
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_81
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_82
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_83
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_84
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_85
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_86
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_87
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_88
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_89
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2880
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_91
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_92
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_93
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_94
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_95
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_96
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_97
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_98
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_99
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_100
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_101
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_102
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_103
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_104
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2592
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_106
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_107
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_108
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_109
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_110
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_111
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_112
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_113
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_114
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_115
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_116
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_117
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_118
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_119
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_121
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_122
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_123
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_124
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_125
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_126
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_127
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_128
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_129
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_130
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_131
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_132
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_133
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_134
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2016
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_136
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_137
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_138
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_139
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_140
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_141
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_142
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_143
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_144
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_145
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_146
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_147
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_148
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_149
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1728
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_151
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_152
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_153
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_154
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_155
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_156
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_157
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_158
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_159
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_160
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_161
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_162
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_163
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_164
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1440
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_166
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_167
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_168
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_169
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_170
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_171
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_172
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_173
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_174
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_175
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_176
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_177
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_178
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_179
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1152
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_181
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_182
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_183
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_184
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_185
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_186
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_187
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_188
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_189
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_190
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_191
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_192
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_193
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_194
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 864
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_196
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_197
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_198
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_199
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_200
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_201
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_202
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_203
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_204
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_205
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_206
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_207
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_208
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_209
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 576
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_211
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_212
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_213
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_214
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_215
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_216
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_217
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_218
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_219
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_220
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_221
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_222
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_223
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_224
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 288
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_226
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_227
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_228
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_229
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_230
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_231
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_232
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_233
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_234
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_235
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_236
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_237
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_238
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mono salta_239
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 0
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

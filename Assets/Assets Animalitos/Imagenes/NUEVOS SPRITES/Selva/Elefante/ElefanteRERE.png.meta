@@ -1,0 +1,3717 @@
+fileFormatVersion: 2
+guid: 63d2889cee747b949bfcd1df3ee2536f
+timeCreated: 1521214460
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ElefanteRERE_0
+    21300002: ElefanteRERE_1
+    21300004: ElefanteRERE_2
+    21300006: ElefanteRERE_3
+    21300008: ElefanteRERE_4
+    21300010: ElefanteRERE_5
+    21300012: ElefanteRERE_6
+    21300014: ElefanteRERE_7
+    21300016: ElefanteRERE_8
+    21300018: ElefanteRERE_9
+    21300020: ElefanteRERE_10
+    21300022: ElefanteRERE_11
+    21300024: ElefanteRERE_12
+    21300026: ElefanteRERE_13
+    21300028: ElefanteRERE_14
+    21300030: ElefanteRERE_15
+    21300032: ElefanteRERE_16
+    21300034: ElefanteRERE_17
+    21300036: ElefanteRERE_18
+    21300038: ElefanteRERE_19
+    21300040: ElefanteRERE_20
+    21300042: ElefanteRERE_21
+    21300044: ElefanteRERE_22
+    21300046: ElefanteRERE_23
+    21300048: ElefanteRERE_24
+    21300050: ElefanteRERE_25
+    21300052: ElefanteRERE_26
+    21300054: ElefanteRERE_27
+    21300056: ElefanteRERE_28
+    21300058: ElefanteRERE_29
+    21300060: ElefanteRERE_30
+    21300062: ElefanteRERE_31
+    21300064: ElefanteRERE_32
+    21300066: ElefanteRERE_33
+    21300068: ElefanteRERE_34
+    21300070: ElefanteRERE_35
+    21300072: ElefanteRERE_36
+    21300074: ElefanteRERE_37
+    21300076: ElefanteRERE_38
+    21300078: ElefanteRERE_39
+    21300080: ElefanteRERE_40
+    21300082: ElefanteRERE_41
+    21300084: ElefanteRERE_42
+    21300086: ElefanteRERE_43
+    21300088: ElefanteRERE_44
+    21300090: ElefanteRERE_45
+    21300092: ElefanteRERE_46
+    21300094: ElefanteRERE_47
+    21300096: ElefanteRERE_48
+    21300098: ElefanteRERE_49
+    21300100: ElefanteRERE_50
+    21300102: ElefanteRERE_51
+    21300104: ElefanteRERE_52
+    21300106: ElefanteRERE_53
+    21300108: ElefanteRERE_54
+    21300110: ElefanteRERE_55
+    21300112: ElefanteRERE_56
+    21300114: ElefanteRERE_57
+    21300116: ElefanteRERE_58
+    21300118: ElefanteRERE_59
+    21300120: ElefanteRERE_60
+    21300122: ElefanteRERE_61
+    21300124: ElefanteRERE_62
+    21300126: ElefanteRERE_63
+    21300128: ElefanteRERE_64
+    21300130: ElefanteRERE_65
+    21300132: ElefanteRERE_66
+    21300134: ElefanteRERE_67
+    21300136: ElefanteRERE_68
+    21300138: ElefanteRERE_69
+    21300140: ElefanteRERE_70
+    21300142: ElefanteRERE_71
+    21300144: ElefanteRERE_72
+    21300146: ElefanteRERE_73
+    21300148: ElefanteRERE_74
+    21300150: ElefanteRERE_75
+    21300152: ElefanteRERE_76
+    21300154: ElefanteRERE_77
+    21300156: ElefanteRERE_78
+    21300158: ElefanteRERE_79
+    21300160: ElefanteRERE_80
+    21300162: ElefanteRERE_81
+    21300164: ElefanteRERE_82
+    21300166: ElefanteRERE_83
+    21300168: ElefanteRERE_84
+    21300170: ElefanteRERE_85
+    21300172: ElefanteRERE_86
+    21300174: ElefanteRERE_87
+    21300176: ElefanteRERE_88
+    21300178: ElefanteRERE_89
+    21300180: ElefanteRERE_90
+    21300182: ElefanteRERE_91
+    21300184: ElefanteRERE_92
+    21300186: ElefanteRERE_93
+    21300188: ElefanteRERE_94
+    21300190: ElefanteRERE_95
+    21300192: ElefanteRERE_96
+    21300194: ElefanteRERE_97
+    21300196: ElefanteRERE_98
+    21300198: ElefanteRERE_99
+    21300200: ElefanteRERE_100
+    21300202: ElefanteRERE_101
+    21300204: ElefanteRERE_102
+    21300206: ElefanteRERE_103
+    21300208: ElefanteRERE_104
+    21300210: ElefanteRERE_105
+    21300212: ElefanteRERE_106
+    21300214: ElefanteRERE_107
+    21300216: ElefanteRERE_108
+    21300218: ElefanteRERE_109
+    21300220: ElefanteRERE_110
+    21300222: ElefanteRERE_111
+    21300224: ElefanteRERE_112
+    21300226: ElefanteRERE_113
+    21300228: ElefanteRERE_114
+    21300230: ElefanteRERE_115
+    21300232: ElefanteRERE_116
+    21300234: ElefanteRERE_117
+    21300236: ElefanteRERE_118
+    21300238: ElefanteRERE_119
+    21300240: ElefanteRERE_120
+    21300242: ElefanteRERE_121
+    21300244: ElefanteRERE_122
+    21300246: ElefanteRERE_123
+    21300248: ElefanteRERE_124
+    21300250: ElefanteRERE_125
+    21300252: ElefanteRERE_126
+    21300254: ElefanteRERE_127
+    21300256: ElefanteRERE_128
+    21300258: ElefanteRERE_129
+    21300260: ElefanteRERE_130
+    21300262: ElefanteRERE_131
+    21300264: ElefanteRERE_132
+    21300266: ElefanteRERE_133
+    21300268: ElefanteRERE_134
+    21300270: ElefanteRERE_135
+    21300272: ElefanteRERE_136
+    21300274: ElefanteRERE_137
+    21300276: ElefanteRERE_138
+    21300278: ElefanteRERE_139
+    21300280: ElefanteRERE_140
+    21300282: ElefanteRERE_141
+    21300284: ElefanteRERE_142
+    21300286: ElefanteRERE_143
+    21300288: ElefanteRERE_144
+    21300290: ElefanteRERE_145
+    21300292: ElefanteRERE_146
+    21300294: ElefanteRERE_147
+    21300296: ElefanteRERE_148
+    21300298: ElefanteRERE_149
+    21300300: ElefanteRERE_150
+    21300302: ElefanteRERE_151
+    21300304: ElefanteRERE_152
+    21300306: ElefanteRERE_153
+    21300308: ElefanteRERE_154
+    21300310: ElefanteRERE_155
+    21300312: ElefanteRERE_156
+    21300314: ElefanteRERE_157
+    21300316: ElefanteRERE_158
+    21300318: ElefanteRERE_159
+    21300320: ElefanteRERE_160
+    21300322: ElefanteRERE_161
+    21300324: ElefanteRERE_162
+    21300326: ElefanteRERE_163
+    21300328: ElefanteRERE_164
+    21300330: ElefanteRERE_165
+    21300332: ElefanteRERE_166
+    21300334: ElefanteRERE_167
+    21300336: ElefanteRERE_168
+    21300338: ElefanteRERE_169
+    21300340: ElefanteRERE_170
+    21300342: ElefanteRERE_171
+    21300344: ElefanteRERE_172
+    21300346: ElefanteRERE_173
+    21300348: ElefanteRERE_174
+    21300350: ElefanteRERE_175
+    21300352: ElefanteRERE_176
+    21300354: ElefanteRERE_177
+    21300356: ElefanteRERE_178
+    21300358: ElefanteRERE_179
+    21300360: ElefanteRERE_180
+    21300362: ElefanteRERE_181
+    21300364: ElefanteRERE_182
+    21300366: ElefanteRERE_183
+    21300368: ElefanteRERE_184
+    21300370: ElefanteRERE_185
+    21300372: ElefanteRERE_186
+    21300374: ElefanteRERE_187
+    21300376: ElefanteRERE_188
+    21300378: ElefanteRERE_189
+    21300380: ElefanteRERE_190
+    21300382: ElefanteRERE_191
+    21300384: ElefanteRERE_192
+    21300386: ElefanteRERE_193
+    21300388: ElefanteRERE_194
+    21300390: ElefanteRERE_195
+    21300392: ElefanteRERE_196
+    21300394: ElefanteRERE_197
+    21300396: ElefanteRERE_198
+    21300398: ElefanteRERE_199
+    21300400: ElefanteRERE_200
+    21300402: ElefanteRERE_201
+    21300404: ElefanteRERE_202
+    21300406: ElefanteRERE_203
+    21300408: ElefanteRERE_204
+    21300410: ElefanteRERE_205
+    21300412: ElefanteRERE_206
+    21300414: ElefanteRERE_207
+    21300416: ElefanteRERE_208
+    21300418: ElefanteRERE_209
+    21300420: ElefanteRERE_210
+    21300422: ElefanteRERE_211
+    21300424: ElefanteRERE_212
+    21300426: ElefanteRERE_213
+    21300428: ElefanteRERE_214
+    21300430: ElefanteRERE_215
+    21300432: ElefanteRERE_216
+    21300434: ElefanteRERE_217
+    21300436: ElefanteRERE_218
+    21300438: ElefanteRERE_219
+    21300440: ElefanteRERE_220
+    21300442: ElefanteRERE_221
+    21300444: ElefanteRERE_222
+    21300446: ElefanteRERE_223
+    21300448: ElefanteRERE_224
+    21300450: ElefanteRERE_225
+    21300452: ElefanteRERE_226
+    21300454: ElefanteRERE_227
+    21300456: ElefanteRERE_228
+    21300458: ElefanteRERE_229
+    21300460: ElefanteRERE_230
+    21300462: ElefanteRERE_231
+    21300464: ElefanteRERE_232
+    21300466: ElefanteRERE_233
+    21300468: ElefanteRERE_234
+    21300470: ElefanteRERE_235
+    21300472: ElefanteRERE_236
+    21300474: ElefanteRERE_237
+    21300476: ElefanteRERE_238
+    21300478: ElefanteRERE_239
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElefanteRERE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_1
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 9100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_2
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 9100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_3
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 9100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_4
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 9100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_5
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 9100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_6
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 9100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_7
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 9100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_8
+      rect:
+        serializedVersion: 2
+        x: 8528
+        y: 9100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_9
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 9100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_10
+      rect:
+        serializedVersion: 2
+        x: 10660
+        y: 9100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_11
+      rect:
+        serializedVersion: 2
+        x: 11726
+        y: 9100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_12
+      rect:
+        serializedVersion: 2
+        x: 12792
+        y: 9100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_13
+      rect:
+        serializedVersion: 2
+        x: 13858
+        y: 9100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_14
+      rect:
+        serializedVersion: 2
+        x: 14924
+        y: 9100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_16
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 8500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_17
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 8500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_18
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 8500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_19
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 8500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_20
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 8500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_21
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 8500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_22
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 8500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_23
+      rect:
+        serializedVersion: 2
+        x: 8528
+        y: 8500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_24
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 8500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_25
+      rect:
+        serializedVersion: 2
+        x: 10660
+        y: 8500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_26
+      rect:
+        serializedVersion: 2
+        x: 11726
+        y: 8500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_27
+      rect:
+        serializedVersion: 2
+        x: 12792
+        y: 8500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_28
+      rect:
+        serializedVersion: 2
+        x: 13858
+        y: 8500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_29
+      rect:
+        serializedVersion: 2
+        x: 14924
+        y: 8500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_31
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 7900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_32
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 7900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_33
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 7900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_34
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 7900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_35
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 7900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_36
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 7900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_37
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 7900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_38
+      rect:
+        serializedVersion: 2
+        x: 8528
+        y: 7900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_39
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 7900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_40
+      rect:
+        serializedVersion: 2
+        x: 10660
+        y: 7900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_41
+      rect:
+        serializedVersion: 2
+        x: 11726
+        y: 7900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_42
+      rect:
+        serializedVersion: 2
+        x: 12792
+        y: 7900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_43
+      rect:
+        serializedVersion: 2
+        x: 13858
+        y: 7900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_44
+      rect:
+        serializedVersion: 2
+        x: 14924
+        y: 7900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_46
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 7300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_47
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 7300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_48
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 7300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_49
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 7300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_50
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 7300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_51
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 7300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_52
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 7300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_53
+      rect:
+        serializedVersion: 2
+        x: 8528
+        y: 7300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_54
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 7300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_55
+      rect:
+        serializedVersion: 2
+        x: 10660
+        y: 7300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_56
+      rect:
+        serializedVersion: 2
+        x: 11726
+        y: 7300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_57
+      rect:
+        serializedVersion: 2
+        x: 12792
+        y: 7300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_58
+      rect:
+        serializedVersion: 2
+        x: 13858
+        y: 7300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_59
+      rect:
+        serializedVersion: 2
+        x: 14924
+        y: 7300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_61
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 6700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_62
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 6700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_63
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 6700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_64
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 6700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_65
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 6700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_66
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 6700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_67
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 6700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_68
+      rect:
+        serializedVersion: 2
+        x: 8528
+        y: 6700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_69
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 6700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_70
+      rect:
+        serializedVersion: 2
+        x: 10660
+        y: 6700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_71
+      rect:
+        serializedVersion: 2
+        x: 11726
+        y: 6700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_72
+      rect:
+        serializedVersion: 2
+        x: 12792
+        y: 6700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_73
+      rect:
+        serializedVersion: 2
+        x: 13858
+        y: 6700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_74
+      rect:
+        serializedVersion: 2
+        x: 14924
+        y: 6700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_76
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 6100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_77
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 6100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_78
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 6100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_79
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 6100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_80
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 6100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_81
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 6100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_82
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 6100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_83
+      rect:
+        serializedVersion: 2
+        x: 8528
+        y: 6100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_84
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 6100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_85
+      rect:
+        serializedVersion: 2
+        x: 10660
+        y: 6100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_86
+      rect:
+        serializedVersion: 2
+        x: 11726
+        y: 6100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_87
+      rect:
+        serializedVersion: 2
+        x: 12792
+        y: 6100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_88
+      rect:
+        serializedVersion: 2
+        x: 13858
+        y: 6100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_89
+      rect:
+        serializedVersion: 2
+        x: 14924
+        y: 6100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_91
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 5500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_92
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 5500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_93
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 5500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_94
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 5500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_95
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 5500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_96
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 5500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_97
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 5500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_98
+      rect:
+        serializedVersion: 2
+        x: 8528
+        y: 5500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_99
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 5500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_100
+      rect:
+        serializedVersion: 2
+        x: 10660
+        y: 5500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_101
+      rect:
+        serializedVersion: 2
+        x: 11726
+        y: 5500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_102
+      rect:
+        serializedVersion: 2
+        x: 12792
+        y: 5500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_103
+      rect:
+        serializedVersion: 2
+        x: 13858
+        y: 5500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_104
+      rect:
+        serializedVersion: 2
+        x: 14924
+        y: 5500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_106
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 4900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_107
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 4900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_108
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 4900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_109
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 4900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_110
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 4900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_111
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 4900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_112
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 4900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_113
+      rect:
+        serializedVersion: 2
+        x: 8528
+        y: 4900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_114
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 4900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_115
+      rect:
+        serializedVersion: 2
+        x: 10660
+        y: 4900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_116
+      rect:
+        serializedVersion: 2
+        x: 11726
+        y: 4900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_117
+      rect:
+        serializedVersion: 2
+        x: 12792
+        y: 4900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_118
+      rect:
+        serializedVersion: 2
+        x: 13858
+        y: 4900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_119
+      rect:
+        serializedVersion: 2
+        x: 14924
+        y: 4900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_121
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 4300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_122
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 4300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_123
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 4300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_124
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 4300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_125
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 4300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_126
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 4300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_127
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 4300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_128
+      rect:
+        serializedVersion: 2
+        x: 8528
+        y: 4300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_129
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 4300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_130
+      rect:
+        serializedVersion: 2
+        x: 10660
+        y: 4300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_131
+      rect:
+        serializedVersion: 2
+        x: 11726
+        y: 4300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_132
+      rect:
+        serializedVersion: 2
+        x: 12792
+        y: 4300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_133
+      rect:
+        serializedVersion: 2
+        x: 13858
+        y: 4300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_134
+      rect:
+        serializedVersion: 2
+        x: 14924
+        y: 4300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_136
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 3700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_137
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 3700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_138
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 3700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_139
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 3700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_140
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 3700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_141
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 3700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_142
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 3700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_143
+      rect:
+        serializedVersion: 2
+        x: 8528
+        y: 3700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_144
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 3700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_145
+      rect:
+        serializedVersion: 2
+        x: 10660
+        y: 3700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_146
+      rect:
+        serializedVersion: 2
+        x: 11726
+        y: 3700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_147
+      rect:
+        serializedVersion: 2
+        x: 12792
+        y: 3700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_148
+      rect:
+        serializedVersion: 2
+        x: 13858
+        y: 3700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_149
+      rect:
+        serializedVersion: 2
+        x: 14924
+        y: 3700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_151
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 3100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_152
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 3100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_153
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 3100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_154
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 3100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_155
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 3100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_156
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 3100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_157
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 3100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_158
+      rect:
+        serializedVersion: 2
+        x: 8528
+        y: 3100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_159
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 3100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_160
+      rect:
+        serializedVersion: 2
+        x: 10660
+        y: 3100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_161
+      rect:
+        serializedVersion: 2
+        x: 11726
+        y: 3100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_162
+      rect:
+        serializedVersion: 2
+        x: 12792
+        y: 3100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_163
+      rect:
+        serializedVersion: 2
+        x: 13858
+        y: 3100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_164
+      rect:
+        serializedVersion: 2
+        x: 14924
+        y: 3100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_166
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 2500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_167
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 2500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_168
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 2500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_169
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 2500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_170
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 2500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_171
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 2500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_172
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 2500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_173
+      rect:
+        serializedVersion: 2
+        x: 8528
+        y: 2500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_174
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 2500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_175
+      rect:
+        serializedVersion: 2
+        x: 10660
+        y: 2500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_176
+      rect:
+        serializedVersion: 2
+        x: 11726
+        y: 2500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_177
+      rect:
+        serializedVersion: 2
+        x: 12792
+        y: 2500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_178
+      rect:
+        serializedVersion: 2
+        x: 13858
+        y: 2500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_179
+      rect:
+        serializedVersion: 2
+        x: 14924
+        y: 2500
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_181
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_182
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_183
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 1900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_184
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 1900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_185
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 1900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_186
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 1900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_187
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 1900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_188
+      rect:
+        serializedVersion: 2
+        x: 8528
+        y: 1900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_189
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 1900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_190
+      rect:
+        serializedVersion: 2
+        x: 10660
+        y: 1900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_191
+      rect:
+        serializedVersion: 2
+        x: 11726
+        y: 1900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_192
+      rect:
+        serializedVersion: 2
+        x: 12792
+        y: 1900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_193
+      rect:
+        serializedVersion: 2
+        x: 13858
+        y: 1900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_194
+      rect:
+        serializedVersion: 2
+        x: 14924
+        y: 1900
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_196
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_197
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_198
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 1300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_199
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 1300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_200
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 1300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_201
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 1300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_202
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 1300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_203
+      rect:
+        serializedVersion: 2
+        x: 8528
+        y: 1300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_204
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 1300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_205
+      rect:
+        serializedVersion: 2
+        x: 10660
+        y: 1300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_206
+      rect:
+        serializedVersion: 2
+        x: 11726
+        y: 1300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_207
+      rect:
+        serializedVersion: 2
+        x: 12792
+        y: 1300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_208
+      rect:
+        serializedVersion: 2
+        x: 13858
+        y: 1300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_209
+      rect:
+        serializedVersion: 2
+        x: 14924
+        y: 1300
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_211
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_212
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_213
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_214
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_215
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_216
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_217
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_218
+      rect:
+        serializedVersion: 2
+        x: 8528
+        y: 700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_219
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_220
+      rect:
+        serializedVersion: 2
+        x: 10660
+        y: 700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_221
+      rect:
+        serializedVersion: 2
+        x: 11726
+        y: 700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_222
+      rect:
+        serializedVersion: 2
+        x: 12792
+        y: 700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_223
+      rect:
+        serializedVersion: 2
+        x: 13858
+        y: 700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_224
+      rect:
+        serializedVersion: 2
+        x: 14924
+        y: 700
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_226
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_227
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_228
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_229
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_230
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_231
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_232
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_233
+      rect:
+        serializedVersion: 2
+        x: 8528
+        y: 100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_234
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_235
+      rect:
+        serializedVersion: 2
+        x: 10660
+        y: 100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_236
+      rect:
+        serializedVersion: 2
+        x: 11726
+        y: 100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_237
+      rect:
+        serializedVersion: 2
+        x: 12792
+        y: 100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_238
+      rect:
+        serializedVersion: 2
+        x: 13858
+        y: 100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ElefanteRERE_239
+      rect:
+        serializedVersion: 2
+        x: 14924
+        y: 100
+        width: 566.6667
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

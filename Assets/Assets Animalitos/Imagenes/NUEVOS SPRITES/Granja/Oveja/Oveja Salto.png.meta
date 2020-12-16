@@ -1,0 +1,3732 @@
+fileFormatVersion: 2
+guid: ccd5fe9dfa9031b4ebb1326adc79656e
+timeCreated: 1519896641
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Oveja Salto_0
+    21300002: Oveja Salto_1
+    21300004: Oveja Salto_2
+    21300006: Oveja Salto_3
+    21300008: Oveja Salto_4
+    21300010: Oveja Salto_5
+    21300012: Oveja Salto_6
+    21300014: Oveja Salto_7
+    21300016: Oveja Salto_8
+    21300018: Oveja Salto_9
+    21300020: Oveja Salto_10
+    21300022: Oveja Salto_11
+    21300024: Oveja Salto_12
+    21300026: Oveja Salto_13
+    21300028: Oveja Salto_14
+    21300030: Oveja Salto_15
+    21300032: Oveja Salto_16
+    21300034: Oveja Salto_17
+    21300036: Oveja Salto_18
+    21300038: Oveja Salto_19
+    21300040: Oveja Salto_20
+    21300042: Oveja Salto_21
+    21300044: Oveja Salto_22
+    21300046: Oveja Salto_23
+    21300048: Oveja Salto_24
+    21300050: Oveja Salto_25
+    21300052: Oveja Salto_26
+    21300054: Oveja Salto_27
+    21300056: Oveja Salto_28
+    21300058: Oveja Salto_29
+    21300060: Oveja Salto_30
+    21300062: Oveja Salto_31
+    21300064: Oveja Salto_32
+    21300066: Oveja Salto_33
+    21300068: Oveja Salto_34
+    21300070: Oveja Salto_35
+    21300072: Oveja Salto_36
+    21300074: Oveja Salto_37
+    21300076: Oveja Salto_38
+    21300078: Oveja Salto_39
+    21300080: Oveja Salto_40
+    21300082: Oveja Salto_41
+    21300084: Oveja Salto_42
+    21300086: Oveja Salto_43
+    21300088: Oveja Salto_44
+    21300090: Oveja Salto_45
+    21300092: Oveja Salto_46
+    21300094: Oveja Salto_47
+    21300096: Oveja Salto_48
+    21300098: Oveja Salto_49
+    21300100: Oveja Salto_50
+    21300102: Oveja Salto_51
+    21300104: Oveja Salto_52
+    21300106: Oveja Salto_53
+    21300108: Oveja Salto_54
+    21300110: Oveja Salto_55
+    21300112: Oveja Salto_56
+    21300114: Oveja Salto_57
+    21300116: Oveja Salto_58
+    21300118: Oveja Salto_59
+    21300120: Oveja Salto_60
+    21300122: Oveja Salto_61
+    21300124: Oveja Salto_62
+    21300126: Oveja Salto_63
+    21300128: Oveja Salto_64
+    21300130: Oveja Salto_65
+    21300132: Oveja Salto_66
+    21300134: Oveja Salto_67
+    21300136: Oveja Salto_68
+    21300138: Oveja Salto_69
+    21300140: Oveja Salto_70
+    21300142: Oveja Salto_71
+    21300144: Oveja Salto_72
+    21300146: Oveja Salto_73
+    21300148: Oveja Salto_74
+    21300150: Oveja Salto_75
+    21300152: Oveja Salto_76
+    21300154: Oveja Salto_77
+    21300156: Oveja Salto_78
+    21300158: Oveja Salto_79
+    21300160: Oveja Salto_80
+    21300162: Oveja Salto_81
+    21300164: Oveja Salto_82
+    21300166: Oveja Salto_83
+    21300168: Oveja Salto_84
+    21300170: Oveja Salto_85
+    21300172: Oveja Salto_86
+    21300174: Oveja Salto_87
+    21300176: Oveja Salto_88
+    21300178: Oveja Salto_89
+    21300180: Oveja Salto_90
+    21300182: Oveja Salto_91
+    21300184: Oveja Salto_92
+    21300186: Oveja Salto_93
+    21300188: Oveja Salto_94
+    21300190: Oveja Salto_95
+    21300192: Oveja Salto_96
+    21300194: Oveja Salto_97
+    21300196: Oveja Salto_98
+    21300198: Oveja Salto_99
+    21300200: Oveja Salto_100
+    21300202: Oveja Salto_101
+    21300204: Oveja Salto_102
+    21300206: Oveja Salto_103
+    21300208: Oveja Salto_104
+    21300210: Oveja Salto_105
+    21300212: Oveja Salto_106
+    21300214: Oveja Salto_107
+    21300216: Oveja Salto_108
+    21300218: Oveja Salto_109
+    21300220: Oveja Salto_110
+    21300222: Oveja Salto_111
+    21300224: Oveja Salto_112
+    21300226: Oveja Salto_113
+    21300228: Oveja Salto_114
+    21300230: Oveja Salto_115
+    21300232: Oveja Salto_116
+    21300234: Oveja Salto_117
+    21300236: Oveja Salto_118
+    21300238: Oveja Salto_119
+    21300240: Oveja Salto_120
+    21300242: Oveja Salto_121
+    21300244: Oveja Salto_122
+    21300246: Oveja Salto_123
+    21300248: Oveja Salto_124
+    21300250: Oveja Salto_125
+    21300252: Oveja Salto_126
+    21300254: Oveja Salto_127
+    21300256: Oveja Salto_128
+    21300258: Oveja Salto_129
+    21300260: Oveja Salto_130
+    21300262: Oveja Salto_131
+    21300264: Oveja Salto_132
+    21300266: Oveja Salto_133
+    21300268: Oveja Salto_134
+    21300270: Oveja Salto_135
+    21300272: Oveja Salto_136
+    21300274: Oveja Salto_137
+    21300276: Oveja Salto_138
+    21300278: Oveja Salto_139
+    21300280: Oveja Salto_140
+    21300282: Oveja Salto_141
+    21300284: Oveja Salto_142
+    21300286: Oveja Salto_143
+    21300288: Oveja Salto_144
+    21300290: Oveja Salto_145
+    21300292: Oveja Salto_146
+    21300294: Oveja Salto_147
+    21300296: Oveja Salto_148
+    21300298: Oveja Salto_149
+    21300300: Oveja Salto_150
+    21300302: Oveja Salto_151
+    21300304: Oveja Salto_152
+    21300306: Oveja Salto_153
+    21300308: Oveja Salto_154
+    21300310: Oveja Salto_155
+    21300312: Oveja Salto_156
+    21300314: Oveja Salto_157
+    21300316: Oveja Salto_158
+    21300318: Oveja Salto_159
+    21300320: Oveja Salto_160
+    21300322: Oveja Salto_161
+    21300324: Oveja Salto_162
+    21300326: Oveja Salto_163
+    21300328: Oveja Salto_164
+    21300330: Oveja Salto_165
+    21300332: Oveja Salto_166
+    21300334: Oveja Salto_167
+    21300336: Oveja Salto_168
+    21300338: Oveja Salto_169
+    21300340: Oveja Salto_170
+    21300342: Oveja Salto_171
+    21300344: Oveja Salto_172
+    21300346: Oveja Salto_173
+    21300348: Oveja Salto_174
+    21300350: Oveja Salto_175
+    21300352: Oveja Salto_176
+    21300354: Oveja Salto_177
+    21300356: Oveja Salto_178
+    21300358: Oveja Salto_179
+    21300360: Oveja Salto_180
+    21300362: Oveja Salto_181
+    21300364: Oveja Salto_182
+    21300366: Oveja Salto_183
+    21300368: Oveja Salto_184
+    21300370: Oveja Salto_185
+    21300372: Oveja Salto_186
+    21300374: Oveja Salto_187
+    21300376: Oveja Salto_188
+    21300378: Oveja Salto_189
+    21300380: Oveja Salto_190
+    21300382: Oveja Salto_191
+    21300384: Oveja Salto_192
+    21300386: Oveja Salto_193
+    21300388: Oveja Salto_194
+    21300390: Oveja Salto_195
+    21300392: Oveja Salto_196
+    21300394: Oveja Salto_197
+    21300396: Oveja Salto_198
+    21300398: Oveja Salto_199
+    21300400: Oveja Salto_200
+    21300402: Oveja Salto_201
+    21300404: Oveja Salto_202
+    21300406: Oveja Salto_203
+    21300408: Oveja Salto_204
+    21300410: Oveja Salto_205
+    21300412: Oveja Salto_206
+    21300414: Oveja Salto_207
+    21300416: Oveja Salto_208
+    21300418: Oveja Salto_209
+    21300420: Oveja Salto_210
+    21300422: Oveja Salto_211
+    21300424: Oveja Salto_212
+    21300426: Oveja Salto_213
+    21300428: Oveja Salto_214
+    21300430: Oveja Salto_215
+    21300432: Oveja Salto_216
+    21300434: Oveja Salto_217
+    21300436: Oveja Salto_218
+    21300438: Oveja Salto_219
+    21300440: Oveja Salto_220
+    21300442: Oveja Salto_221
+    21300444: Oveja Salto_222
+    21300446: Oveja Salto_223
+    21300448: Oveja Salto_224
+    21300450: Oveja Salto_225
+    21300452: Oveja Salto_226
+    21300454: Oveja Salto_227
+    21300456: Oveja Salto_228
+    21300458: Oveja Salto_229
+    21300460: Oveja Salto_230
+    21300462: Oveja Salto_231
+    21300464: Oveja Salto_232
+    21300466: Oveja Salto_233
+    21300468: Oveja Salto_234
+    21300470: Oveja Salto_235
+    21300472: Oveja Salto_236
+    21300474: Oveja Salto_237
+    21300476: Oveja Salto_238
+    21300478: Oveja Salto_239
+    21300480: Oveja Salto_240
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oveja Salto_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_1
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4608
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_2
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4608
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_3
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4608
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_4
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4608
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_5
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4608
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_6
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4608
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_7
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4608
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_8
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4608
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_9
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4608
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_10
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4608
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_11
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4608
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_12
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4608
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_13
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4608
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_14
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4608
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_16
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_17
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_18
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_19
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_20
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_21
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_22
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_23
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_24
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_25
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_26
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_27
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_28
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_29
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4320
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_31
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_32
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_33
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_34
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_35
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_36
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_37
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_38
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_39
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_40
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_41
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_42
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_43
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_44
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4032
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_47
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_48
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_49
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_50
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_51
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_52
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_53
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_54
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_55
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_56
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_57
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_58
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_59
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3744
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_61
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_62
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_63
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_64
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_65
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_66
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_67
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_68
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_69
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_70
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_71
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_72
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_73
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_74
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3456
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_76
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_77
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_78
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_79
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_80
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_81
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_82
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_83
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_84
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_85
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_86
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_87
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_88
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_89
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3168
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_91
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_92
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_93
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_94
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_95
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_96
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_97
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_98
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_99
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_100
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_101
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_102
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_103
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_104
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2880
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_106
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_107
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_108
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_109
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_110
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_111
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_112
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_113
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_114
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_115
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_116
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_117
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_118
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_119
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2592
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_121
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_122
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_123
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_124
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_125
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_126
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_127
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_128
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_129
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_130
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_131
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_132
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_133
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_134
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2304
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_136
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_137
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_138
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_139
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_140
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_141
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_142
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_143
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_144
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_145
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_146
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_147
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_148
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_149
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2016
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_151
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_152
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_153
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_154
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_155
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_156
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_157
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_158
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_159
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_160
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_161
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_162
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_163
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_164
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1728
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_166
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_167
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_168
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_169
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_170
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_171
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_172
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_173
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_174
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_175
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_176
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_177
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_178
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_179
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1440
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_181
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_182
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_183
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_184
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_185
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_186
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_187
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_188
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_189
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_190
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_191
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_192
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_193
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_194
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1152
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_196
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_197
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_198
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_199
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_200
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_201
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_202
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_203
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_204
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_205
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_206
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_207
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_208
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_209
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 864
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_211
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_212
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_213
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_214
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_215
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_216
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_217
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_218
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_219
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_220
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_221
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_222
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_223
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_224
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 576
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_226
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_227
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_228
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_229
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_230
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_231
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_232
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_233
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_234
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_235
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_236
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_237
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_238
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_239
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 288
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oveja Salto_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

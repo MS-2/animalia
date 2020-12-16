@@ -1,0 +1,3702 @@
+fileFormatVersion: 2
+guid: bd0f00fbc9ddcae49a1c6f7fe1e86969
+timeCreated: 1519901628
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Oso hormiguero come_0
+    21300002: Oso hormiguero come_1
+    21300004: Oso hormiguero come_2
+    21300006: Oso hormiguero come_3
+    21300008: Oso hormiguero come_4
+    21300010: Oso hormiguero come_5
+    21300012: Oso hormiguero come_6
+    21300014: Oso hormiguero come_7
+    21300016: Oso hormiguero come_8
+    21300018: Oso hormiguero come_9
+    21300020: Oso hormiguero come_10
+    21300022: Oso hormiguero come_11
+    21300024: Oso hormiguero come_12
+    21300026: Oso hormiguero come_13
+    21300028: Oso hormiguero come_14
+    21300030: Oso hormiguero come_15
+    21300032: Oso hormiguero come_16
+    21300034: Oso hormiguero come_17
+    21300036: Oso hormiguero come_18
+    21300038: Oso hormiguero come_19
+    21300040: Oso hormiguero come_20
+    21300042: Oso hormiguero come_21
+    21300044: Oso hormiguero come_22
+    21300046: Oso hormiguero come_23
+    21300048: Oso hormiguero come_24
+    21300050: Oso hormiguero come_25
+    21300052: Oso hormiguero come_26
+    21300054: Oso hormiguero come_27
+    21300056: Oso hormiguero come_28
+    21300058: Oso hormiguero come_29
+    21300060: Oso hormiguero come_30
+    21300062: Oso hormiguero come_31
+    21300064: Oso hormiguero come_32
+    21300066: Oso hormiguero come_33
+    21300068: Oso hormiguero come_34
+    21300070: Oso hormiguero come_35
+    21300072: Oso hormiguero come_36
+    21300074: Oso hormiguero come_37
+    21300076: Oso hormiguero come_38
+    21300078: Oso hormiguero come_39
+    21300080: Oso hormiguero come_40
+    21300082: Oso hormiguero come_41
+    21300084: Oso hormiguero come_42
+    21300086: Oso hormiguero come_43
+    21300088: Oso hormiguero come_44
+    21300090: Oso hormiguero come_45
+    21300092: Oso hormiguero come_46
+    21300094: Oso hormiguero come_47
+    21300096: Oso hormiguero come_48
+    21300098: Oso hormiguero come_49
+    21300100: Oso hormiguero come_50
+    21300102: Oso hormiguero come_51
+    21300104: Oso hormiguero come_52
+    21300106: Oso hormiguero come_53
+    21300108: Oso hormiguero come_54
+    21300110: Oso hormiguero come_55
+    21300112: Oso hormiguero come_56
+    21300114: Oso hormiguero come_57
+    21300116: Oso hormiguero come_58
+    21300118: Oso hormiguero come_59
+    21300120: Oso hormiguero come_60
+    21300122: Oso hormiguero come_61
+    21300124: Oso hormiguero come_62
+    21300126: Oso hormiguero come_63
+    21300128: Oso hormiguero come_64
+    21300130: Oso hormiguero come_65
+    21300132: Oso hormiguero come_66
+    21300134: Oso hormiguero come_67
+    21300136: Oso hormiguero come_68
+    21300138: Oso hormiguero come_69
+    21300140: Oso hormiguero come_70
+    21300142: Oso hormiguero come_71
+    21300144: Oso hormiguero come_72
+    21300146: Oso hormiguero come_73
+    21300148: Oso hormiguero come_74
+    21300150: Oso hormiguero come_75
+    21300152: Oso hormiguero come_76
+    21300154: Oso hormiguero come_77
+    21300156: Oso hormiguero come_78
+    21300158: Oso hormiguero come_79
+    21300160: Oso hormiguero come_80
+    21300162: Oso hormiguero come_81
+    21300164: Oso hormiguero come_82
+    21300166: Oso hormiguero come_83
+    21300168: Oso hormiguero come_84
+    21300170: Oso hormiguero come_85
+    21300172: Oso hormiguero come_86
+    21300174: Oso hormiguero come_87
+    21300176: Oso hormiguero come_88
+    21300178: Oso hormiguero come_89
+    21300180: Oso hormiguero come_90
+    21300182: Oso hormiguero come_91
+    21300184: Oso hormiguero come_92
+    21300186: Oso hormiguero come_93
+    21300188: Oso hormiguero come_94
+    21300190: Oso hormiguero come_95
+    21300192: Oso hormiguero come_96
+    21300194: Oso hormiguero come_97
+    21300196: Oso hormiguero come_98
+    21300198: Oso hormiguero come_99
+    21300200: Oso hormiguero come_100
+    21300202: Oso hormiguero come_101
+    21300204: Oso hormiguero come_102
+    21300206: Oso hormiguero come_103
+    21300208: Oso hormiguero come_104
+    21300210: Oso hormiguero come_105
+    21300212: Oso hormiguero come_106
+    21300214: Oso hormiguero come_107
+    21300216: Oso hormiguero come_108
+    21300218: Oso hormiguero come_109
+    21300220: Oso hormiguero come_110
+    21300222: Oso hormiguero come_111
+    21300224: Oso hormiguero come_112
+    21300226: Oso hormiguero come_113
+    21300228: Oso hormiguero come_114
+    21300230: Oso hormiguero come_115
+    21300232: Oso hormiguero come_116
+    21300234: Oso hormiguero come_117
+    21300236: Oso hormiguero come_118
+    21300238: Oso hormiguero come_119
+    21300240: Oso hormiguero come_120
+    21300242: Oso hormiguero come_121
+    21300244: Oso hormiguero come_122
+    21300246: Oso hormiguero come_123
+    21300248: Oso hormiguero come_124
+    21300250: Oso hormiguero come_125
+    21300252: Oso hormiguero come_126
+    21300254: Oso hormiguero come_127
+    21300256: Oso hormiguero come_128
+    21300258: Oso hormiguero come_129
+    21300260: Oso hormiguero come_130
+    21300262: Oso hormiguero come_131
+    21300264: Oso hormiguero come_132
+    21300266: Oso hormiguero come_133
+    21300268: Oso hormiguero come_134
+    21300270: Oso hormiguero come_135
+    21300272: Oso hormiguero come_136
+    21300274: Oso hormiguero come_137
+    21300276: Oso hormiguero come_138
+    21300278: Oso hormiguero come_139
+    21300280: Oso hormiguero come_140
+    21300282: Oso hormiguero come_141
+    21300284: Oso hormiguero come_142
+    21300286: Oso hormiguero come_143
+    21300288: Oso hormiguero come_144
+    21300290: Oso hormiguero come_145
+    21300292: Oso hormiguero come_146
+    21300294: Oso hormiguero come_147
+    21300296: Oso hormiguero come_148
+    21300298: Oso hormiguero come_149
+    21300300: Oso hormiguero come_150
+    21300302: Oso hormiguero come_151
+    21300304: Oso hormiguero come_152
+    21300306: Oso hormiguero come_153
+    21300308: Oso hormiguero come_154
+    21300310: Oso hormiguero come_155
+    21300312: Oso hormiguero come_156
+    21300314: Oso hormiguero come_157
+    21300316: Oso hormiguero come_158
+    21300318: Oso hormiguero come_159
+    21300320: Oso hormiguero come_160
+    21300322: Oso hormiguero come_161
+    21300324: Oso hormiguero come_162
+    21300326: Oso hormiguero come_163
+    21300328: Oso hormiguero come_164
+    21300330: Oso hormiguero come_165
+    21300332: Oso hormiguero come_166
+    21300334: Oso hormiguero come_167
+    21300336: Oso hormiguero come_168
+    21300338: Oso hormiguero come_169
+    21300340: Oso hormiguero come_170
+    21300342: Oso hormiguero come_171
+    21300344: Oso hormiguero come_172
+    21300346: Oso hormiguero come_173
+    21300348: Oso hormiguero come_174
+    21300350: Oso hormiguero come_175
+    21300352: Oso hormiguero come_176
+    21300354: Oso hormiguero come_177
+    21300356: Oso hormiguero come_178
+    21300358: Oso hormiguero come_179
+    21300360: Oso hormiguero come_180
+    21300362: Oso hormiguero come_181
+    21300364: Oso hormiguero come_182
+    21300366: Oso hormiguero come_183
+    21300368: Oso hormiguero come_184
+    21300370: Oso hormiguero come_185
+    21300372: Oso hormiguero come_186
+    21300374: Oso hormiguero come_187
+    21300376: Oso hormiguero come_188
+    21300378: Oso hormiguero come_189
+    21300380: Oso hormiguero come_190
+    21300382: Oso hormiguero come_191
+    21300384: Oso hormiguero come_192
+    21300386: Oso hormiguero come_193
+    21300388: Oso hormiguero come_194
+    21300390: Oso hormiguero come_195
+    21300392: Oso hormiguero come_196
+    21300394: Oso hormiguero come_197
+    21300396: Oso hormiguero come_198
+    21300398: Oso hormiguero come_199
+    21300400: Oso hormiguero come_200
+    21300402: Oso hormiguero come_201
+    21300404: Oso hormiguero come_202
+    21300406: Oso hormiguero come_203
+    21300408: Oso hormiguero come_204
+    21300410: Oso hormiguero come_205
+    21300412: Oso hormiguero come_206
+    21300414: Oso hormiguero come_207
+    21300416: Oso hormiguero come_208
+    21300418: Oso hormiguero come_209
+    21300420: Oso hormiguero come_210
+    21300422: Oso hormiguero come_211
+    21300424: Oso hormiguero come_212
+    21300426: Oso hormiguero come_213
+    21300428: Oso hormiguero come_214
+    21300430: Oso hormiguero come_215
+    21300432: Oso hormiguero come_216
+    21300434: Oso hormiguero come_217
+    21300436: Oso hormiguero come_218
+    21300438: Oso hormiguero come_219
+    21300440: Oso hormiguero come_220
+    21300442: Oso hormiguero come_221
+    21300444: Oso hormiguero come_222
+    21300446: Oso hormiguero come_223
+    21300448: Oso hormiguero come_224
+    21300450: Oso hormiguero come_225
+    21300452: Oso hormiguero come_226
+    21300454: Oso hormiguero come_227
+    21300456: Oso hormiguero come_228
+    21300458: Oso hormiguero come_229
+    21300460: Oso hormiguero come_230
+    21300462: Oso hormiguero come_231
+    21300464: Oso hormiguero come_232
+    21300466: Oso hormiguero come_233
+    21300468: Oso hormiguero come_234
+    21300470: Oso hormiguero come_235
+    21300472: Oso hormiguero come_236
+    21300474: Oso hormiguero come_237
+    21300476: Oso hormiguero come_238
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oso hormiguero come_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_1
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_2
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_3
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_4
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_5
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_6
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_7
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_8
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_9
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_10
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_11
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_12
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_13
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_14
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_16
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_17
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_18
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_19
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_20
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_21
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_22
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_23
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_24
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_25
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_26
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_27
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_28
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_29
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_31
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_32
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_33
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_34
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_35
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_36
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_37
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_38
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_39
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_40
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_41
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_42
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_43
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_44
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_47
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_48
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_49
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_50
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_51
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_52
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_53
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_54
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_55
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_56
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_57
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_58
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_59
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_61
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_62
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_63
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_64
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_65
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_66
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_67
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_68
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_69
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_70
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_71
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_72
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_73
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_74
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_76
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_77
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_78
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_79
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_80
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_81
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_82
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_83
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_84
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_85
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_86
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_87
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_88
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_89
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_91
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_92
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_93
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_94
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_95
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_96
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_97
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_98
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_99
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_100
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_101
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_102
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_103
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_104
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_106
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_107
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_108
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_109
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_110
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_111
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_112
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_113
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_114
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_115
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_116
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_117
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_118
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_119
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_121
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_122
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_123
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_124
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_125
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_126
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_127
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_128
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_129
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_130
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_131
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_132
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_133
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_134
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_136
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_137
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_138
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_139
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_140
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_141
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_142
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_143
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_144
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_145
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_146
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_147
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_148
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_149
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_151
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_152
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_153
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_154
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_155
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_156
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_157
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_158
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_159
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_160
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_161
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_162
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_163
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_164
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_166
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_167
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_168
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_169
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_170
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_171
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_172
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_173
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_174
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_175
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_176
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_177
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_178
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_179
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_181
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_182
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_183
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_184
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_185
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_186
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_187
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_188
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_189
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_190
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_191
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_192
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_193
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_194
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_196
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_197
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_198
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_199
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_200
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_201
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_202
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_203
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_204
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_205
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_206
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_207
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_208
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_209
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_211
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_212
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_213
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_214
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_215
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_216
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_217
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_218
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_219
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_220
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_221
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_222
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_223
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_224
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_226
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_227
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 0
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_228
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 0
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_229
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 0
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_230
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 0
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_231
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 0
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_232
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 0
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_233
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 0
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_234
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 0
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_235
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 0
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_236
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 0
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_237
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 0
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oso hormiguero come_238
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 0
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

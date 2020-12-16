@@ -1,0 +1,3732 @@
+fileFormatVersion: 2
+guid: c2243d09733d5024d87cf19481bd471e
+timeCreated: 1518860328
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Burro_patea_0
+    21300002: Burro_patea_1
+    21300004: Burro_patea_2
+    21300006: Burro_patea_3
+    21300008: Burro_patea_4
+    21300010: Burro_patea_5
+    21300012: Burro_patea_6
+    21300014: Burro_patea_7
+    21300016: Burro_patea_8
+    21300018: Burro_patea_9
+    21300020: Burro_patea_10
+    21300022: Burro_patea_11
+    21300024: Burro_patea_12
+    21300026: Burro_patea_13
+    21300028: Burro_patea_14
+    21300030: Burro_patea_15
+    21300032: Burro_patea_16
+    21300034: Burro_patea_17
+    21300036: Burro_patea_18
+    21300038: Burro_patea_19
+    21300040: Burro_patea_20
+    21300042: Burro_patea_21
+    21300044: Burro_patea_22
+    21300046: Burro_patea_23
+    21300048: Burro_patea_24
+    21300050: Burro_patea_25
+    21300052: Burro_patea_26
+    21300054: Burro_patea_27
+    21300056: Burro_patea_28
+    21300058: Burro_patea_29
+    21300060: Burro_patea_30
+    21300062: Burro_patea_31
+    21300064: Burro_patea_32
+    21300066: Burro_patea_33
+    21300068: Burro_patea_34
+    21300070: Burro_patea_35
+    21300072: Burro_patea_36
+    21300074: Burro_patea_37
+    21300076: Burro_patea_38
+    21300078: Burro_patea_39
+    21300080: Burro_patea_40
+    21300082: Burro_patea_41
+    21300084: Burro_patea_42
+    21300086: Burro_patea_43
+    21300088: Burro_patea_44
+    21300090: Burro_patea_45
+    21300092: Burro_patea_46
+    21300094: Burro_patea_47
+    21300096: Burro_patea_48
+    21300098: Burro_patea_49
+    21300100: Burro_patea_50
+    21300102: Burro_patea_51
+    21300104: Burro_patea_52
+    21300106: Burro_patea_53
+    21300108: Burro_patea_54
+    21300110: Burro_patea_55
+    21300112: Burro_patea_56
+    21300114: Burro_patea_57
+    21300116: Burro_patea_58
+    21300118: Burro_patea_59
+    21300120: Burro_patea_60
+    21300122: Burro_patea_61
+    21300124: Burro_patea_62
+    21300126: Burro_patea_63
+    21300128: Burro_patea_64
+    21300130: Burro_patea_65
+    21300132: Burro_patea_66
+    21300134: Burro_patea_67
+    21300136: Burro_patea_68
+    21300138: Burro_patea_69
+    21300140: Burro_patea_70
+    21300142: Burro_patea_71
+    21300144: Burro_patea_72
+    21300146: Burro_patea_73
+    21300148: Burro_patea_74
+    21300150: Burro_patea_75
+    21300152: Burro_patea_76
+    21300154: Burro_patea_77
+    21300156: Burro_patea_78
+    21300158: Burro_patea_79
+    21300160: Burro_patea_80
+    21300162: Burro_patea_81
+    21300164: Burro_patea_82
+    21300166: Burro_patea_83
+    21300168: Burro_patea_84
+    21300170: Burro_patea_85
+    21300172: Burro_patea_86
+    21300174: Burro_patea_87
+    21300176: Burro_patea_88
+    21300178: Burro_patea_89
+    21300180: Burro_patea_90
+    21300182: Burro_patea_91
+    21300184: Burro_patea_92
+    21300186: Burro_patea_93
+    21300188: Burro_patea_94
+    21300190: Burro_patea_95
+    21300192: Burro_patea_96
+    21300194: Burro_patea_97
+    21300196: Burro_patea_98
+    21300198: Burro_patea_99
+    21300200: Burro_patea_100
+    21300202: Burro_patea_101
+    21300204: Burro_patea_102
+    21300206: Burro_patea_103
+    21300208: Burro_patea_104
+    21300210: Burro_patea_105
+    21300212: Burro_patea_106
+    21300214: Burro_patea_107
+    21300216: Burro_patea_108
+    21300218: Burro_patea_109
+    21300220: Burro_patea_110
+    21300222: Burro_patea_111
+    21300224: Burro_patea_112
+    21300226: Burro_patea_113
+    21300228: Burro_patea_114
+    21300230: Burro_patea_115
+    21300232: Burro_patea_116
+    21300234: Burro_patea_117
+    21300236: Burro_patea_118
+    21300238: Burro_patea_119
+    21300240: Burro_patea_120
+    21300242: Burro_patea_121
+    21300244: Burro_patea_122
+    21300246: Burro_patea_123
+    21300248: Burro_patea_124
+    21300250: Burro_patea_125
+    21300252: Burro_patea_126
+    21300254: Burro_patea_127
+    21300256: Burro_patea_128
+    21300258: Burro_patea_129
+    21300260: Burro_patea_130
+    21300262: Burro_patea_131
+    21300264: Burro_patea_132
+    21300266: Burro_patea_133
+    21300268: Burro_patea_134
+    21300270: Burro_patea_135
+    21300272: Burro_patea_136
+    21300274: Burro_patea_137
+    21300276: Burro_patea_138
+    21300278: Burro_patea_139
+    21300280: Burro_patea_140
+    21300282: Burro_patea_141
+    21300284: Burro_patea_142
+    21300286: Burro_patea_143
+    21300288: Burro_patea_144
+    21300290: Burro_patea_145
+    21300292: Burro_patea_146
+    21300294: Burro_patea_147
+    21300296: Burro_patea_148
+    21300298: Burro_patea_149
+    21300300: Burro_patea_150
+    21300302: Burro_patea_151
+    21300304: Burro_patea_152
+    21300306: Burro_patea_153
+    21300308: Burro_patea_154
+    21300310: Burro_patea_155
+    21300312: Burro_patea_156
+    21300314: Burro_patea_157
+    21300316: Burro_patea_158
+    21300318: Burro_patea_159
+    21300320: Burro_patea_160
+    21300322: Burro_patea_161
+    21300324: Burro_patea_162
+    21300326: Burro_patea_163
+    21300328: Burro_patea_164
+    21300330: Burro_patea_165
+    21300332: Burro_patea_166
+    21300334: Burro_patea_167
+    21300336: Burro_patea_168
+    21300338: Burro_patea_169
+    21300340: Burro_patea_170
+    21300342: Burro_patea_171
+    21300344: Burro_patea_172
+    21300346: Burro_patea_173
+    21300348: Burro_patea_174
+    21300350: Burro_patea_175
+    21300352: Burro_patea_176
+    21300354: Burro_patea_177
+    21300356: Burro_patea_178
+    21300358: Burro_patea_179
+    21300360: Burro_patea_180
+    21300362: Burro_patea_181
+    21300364: Burro_patea_182
+    21300366: Burro_patea_183
+    21300368: Burro_patea_184
+    21300370: Burro_patea_185
+    21300372: Burro_patea_186
+    21300374: Burro_patea_187
+    21300376: Burro_patea_188
+    21300378: Burro_patea_189
+    21300380: Burro_patea_190
+    21300382: Burro_patea_191
+    21300384: Burro_patea_192
+    21300386: Burro_patea_193
+    21300388: Burro_patea_194
+    21300390: Burro_patea_195
+    21300392: Burro_patea_196
+    21300394: Burro_patea_197
+    21300396: Burro_patea_198
+    21300398: Burro_patea_199
+    21300400: Burro_patea_200
+    21300402: Burro_patea_201
+    21300404: Burro_patea_202
+    21300406: Burro_patea_203
+    21300408: Burro_patea_204
+    21300410: Burro_patea_205
+    21300412: Burro_patea_206
+    21300414: Burro_patea_207
+    21300416: Burro_patea_208
+    21300418: Burro_patea_209
+    21300420: Burro_patea_210
+    21300422: Burro_patea_211
+    21300424: Burro_patea_212
+    21300426: Burro_patea_213
+    21300428: Burro_patea_214
+    21300430: Burro_patea_215
+    21300432: Burro_patea_216
+    21300434: Burro_patea_217
+    21300436: Burro_patea_218
+    21300438: Burro_patea_219
+    21300440: Burro_patea_220
+    21300442: Burro_patea_221
+    21300444: Burro_patea_222
+    21300446: Burro_patea_223
+    21300448: Burro_patea_224
+    21300450: Burro_patea_225
+    21300452: Burro_patea_226
+    21300454: Burro_patea_227
+    21300456: Burro_patea_228
+    21300458: Burro_patea_229
+    21300460: Burro_patea_230
+    21300462: Burro_patea_231
+    21300464: Burro_patea_232
+    21300466: Burro_patea_233
+    21300468: Burro_patea_234
+    21300470: Burro_patea_235
+    21300472: Burro_patea_236
+    21300474: Burro_patea_237
+    21300476: Burro_patea_238
+    21300478: Burro_patea_239
+    21300480: Burro_patea_240
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Burro_patea_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_1
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_2
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_3
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_4
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_5
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_6
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_7
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_8
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_9
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_10
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_11
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_12
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_13
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_14
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4608
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_16
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_17
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_18
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_19
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_20
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_21
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_22
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_23
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_24
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_25
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_26
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_27
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_28
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_29
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4320
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_31
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_32
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_33
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_34
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_35
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_36
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_37
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_38
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_39
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_40
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_41
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_42
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_43
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_44
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 4032
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_47
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_48
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_49
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_50
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_51
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_52
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_53
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_54
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_55
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_56
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_57
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_58
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_59
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3744
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_61
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_62
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_63
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_64
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_65
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_66
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_67
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_68
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_69
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_70
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_71
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_72
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_73
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_74
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3456
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_76
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_77
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_78
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_79
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_80
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_81
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_82
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_83
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_84
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_85
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_86
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_87
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_88
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_89
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3168
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_91
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_92
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_93
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_94
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_95
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_96
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_97
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_98
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_99
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_100
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_101
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_102
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_103
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_104
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2880
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_106
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_107
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_108
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_109
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_110
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_111
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_112
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_113
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_114
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_115
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_116
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_117
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_118
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_119
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2592
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_121
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_122
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_123
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_124
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_125
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_126
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_127
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_128
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_129
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_130
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_131
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_132
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_133
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_134
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2304
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_136
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_137
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_138
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_139
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_140
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_141
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_142
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_143
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_144
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_145
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_146
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_147
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_148
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_149
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2016
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_151
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_152
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_153
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_154
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_155
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_156
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_157
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_158
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_159
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_160
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_161
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_162
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_163
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_164
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1728
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_166
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_167
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_168
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_169
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_170
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_171
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_172
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_173
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_174
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_175
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_176
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_177
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_178
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_179
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1440
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_181
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_182
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_183
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_184
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_185
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_186
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_187
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_188
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_189
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_190
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_191
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_192
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_193
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_194
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 1152
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_196
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_197
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_198
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_199
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_200
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_201
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_202
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_203
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_204
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_205
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_206
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_207
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_208
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_209
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 864
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_211
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_212
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_213
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_214
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_215
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_216
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_217
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_218
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_219
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_220
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_221
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_222
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_223
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_224
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 576
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_226
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_227
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_228
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_229
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_230
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_231
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_232
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_233
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_234
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_235
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_236
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_237
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_238
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_239
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 288
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burro_patea_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 339
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

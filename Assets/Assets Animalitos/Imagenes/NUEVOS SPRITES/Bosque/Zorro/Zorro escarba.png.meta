@@ -1,0 +1,3732 @@
+fileFormatVersion: 2
+guid: 545796ed07ea6a746960808cbf609dd2
+timeCreated: 1519903121
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Zorro escarba_0
+    21300002: Zorro escarba_1
+    21300004: Zorro escarba_2
+    21300006: Zorro escarba_3
+    21300008: Zorro escarba_4
+    21300010: Zorro escarba_5
+    21300012: Zorro escarba_6
+    21300014: Zorro escarba_7
+    21300016: Zorro escarba_8
+    21300018: Zorro escarba_9
+    21300020: Zorro escarba_10
+    21300022: Zorro escarba_11
+    21300024: Zorro escarba_12
+    21300026: Zorro escarba_13
+    21300028: Zorro escarba_14
+    21300030: Zorro escarba_15
+    21300032: Zorro escarba_16
+    21300034: Zorro escarba_17
+    21300036: Zorro escarba_18
+    21300038: Zorro escarba_19
+    21300040: Zorro escarba_20
+    21300042: Zorro escarba_21
+    21300044: Zorro escarba_22
+    21300046: Zorro escarba_23
+    21300048: Zorro escarba_24
+    21300050: Zorro escarba_25
+    21300052: Zorro escarba_26
+    21300054: Zorro escarba_27
+    21300056: Zorro escarba_28
+    21300058: Zorro escarba_29
+    21300060: Zorro escarba_30
+    21300062: Zorro escarba_31
+    21300064: Zorro escarba_32
+    21300066: Zorro escarba_33
+    21300068: Zorro escarba_34
+    21300070: Zorro escarba_35
+    21300072: Zorro escarba_36
+    21300074: Zorro escarba_37
+    21300076: Zorro escarba_38
+    21300078: Zorro escarba_39
+    21300080: Zorro escarba_40
+    21300082: Zorro escarba_41
+    21300084: Zorro escarba_42
+    21300086: Zorro escarba_43
+    21300088: Zorro escarba_44
+    21300090: Zorro escarba_45
+    21300092: Zorro escarba_46
+    21300094: Zorro escarba_47
+    21300096: Zorro escarba_48
+    21300098: Zorro escarba_49
+    21300100: Zorro escarba_50
+    21300102: Zorro escarba_51
+    21300104: Zorro escarba_52
+    21300106: Zorro escarba_53
+    21300108: Zorro escarba_54
+    21300110: Zorro escarba_55
+    21300112: Zorro escarba_56
+    21300114: Zorro escarba_57
+    21300116: Zorro escarba_58
+    21300118: Zorro escarba_59
+    21300120: Zorro escarba_60
+    21300122: Zorro escarba_61
+    21300124: Zorro escarba_62
+    21300126: Zorro escarba_63
+    21300128: Zorro escarba_64
+    21300130: Zorro escarba_65
+    21300132: Zorro escarba_66
+    21300134: Zorro escarba_67
+    21300136: Zorro escarba_68
+    21300138: Zorro escarba_69
+    21300140: Zorro escarba_70
+    21300142: Zorro escarba_71
+    21300144: Zorro escarba_72
+    21300146: Zorro escarba_73
+    21300148: Zorro escarba_74
+    21300150: Zorro escarba_75
+    21300152: Zorro escarba_76
+    21300154: Zorro escarba_77
+    21300156: Zorro escarba_78
+    21300158: Zorro escarba_79
+    21300160: Zorro escarba_80
+    21300162: Zorro escarba_81
+    21300164: Zorro escarba_82
+    21300166: Zorro escarba_83
+    21300168: Zorro escarba_84
+    21300170: Zorro escarba_85
+    21300172: Zorro escarba_86
+    21300174: Zorro escarba_87
+    21300176: Zorro escarba_88
+    21300178: Zorro escarba_89
+    21300180: Zorro escarba_90
+    21300182: Zorro escarba_91
+    21300184: Zorro escarba_92
+    21300186: Zorro escarba_93
+    21300188: Zorro escarba_94
+    21300190: Zorro escarba_95
+    21300192: Zorro escarba_96
+    21300194: Zorro escarba_97
+    21300196: Zorro escarba_98
+    21300198: Zorro escarba_99
+    21300200: Zorro escarba_100
+    21300202: Zorro escarba_101
+    21300204: Zorro escarba_102
+    21300206: Zorro escarba_103
+    21300208: Zorro escarba_104
+    21300210: Zorro escarba_105
+    21300212: Zorro escarba_106
+    21300214: Zorro escarba_107
+    21300216: Zorro escarba_108
+    21300218: Zorro escarba_109
+    21300220: Zorro escarba_110
+    21300222: Zorro escarba_111
+    21300224: Zorro escarba_112
+    21300226: Zorro escarba_113
+    21300228: Zorro escarba_114
+    21300230: Zorro escarba_115
+    21300232: Zorro escarba_116
+    21300234: Zorro escarba_117
+    21300236: Zorro escarba_118
+    21300238: Zorro escarba_119
+    21300240: Zorro escarba_120
+    21300242: Zorro escarba_121
+    21300244: Zorro escarba_122
+    21300246: Zorro escarba_123
+    21300248: Zorro escarba_124
+    21300250: Zorro escarba_125
+    21300252: Zorro escarba_126
+    21300254: Zorro escarba_127
+    21300256: Zorro escarba_128
+    21300258: Zorro escarba_129
+    21300260: Zorro escarba_130
+    21300262: Zorro escarba_131
+    21300264: Zorro escarba_132
+    21300266: Zorro escarba_133
+    21300268: Zorro escarba_134
+    21300270: Zorro escarba_135
+    21300272: Zorro escarba_136
+    21300274: Zorro escarba_137
+    21300276: Zorro escarba_138
+    21300278: Zorro escarba_139
+    21300280: Zorro escarba_140
+    21300282: Zorro escarba_141
+    21300284: Zorro escarba_142
+    21300286: Zorro escarba_143
+    21300288: Zorro escarba_144
+    21300290: Zorro escarba_145
+    21300292: Zorro escarba_146
+    21300294: Zorro escarba_147
+    21300296: Zorro escarba_148
+    21300298: Zorro escarba_149
+    21300300: Zorro escarba_150
+    21300302: Zorro escarba_151
+    21300304: Zorro escarba_152
+    21300306: Zorro escarba_153
+    21300308: Zorro escarba_154
+    21300310: Zorro escarba_155
+    21300312: Zorro escarba_156
+    21300314: Zorro escarba_157
+    21300316: Zorro escarba_158
+    21300318: Zorro escarba_159
+    21300320: Zorro escarba_160
+    21300322: Zorro escarba_161
+    21300324: Zorro escarba_162
+    21300326: Zorro escarba_163
+    21300328: Zorro escarba_164
+    21300330: Zorro escarba_165
+    21300332: Zorro escarba_166
+    21300334: Zorro escarba_167
+    21300336: Zorro escarba_168
+    21300338: Zorro escarba_169
+    21300340: Zorro escarba_170
+    21300342: Zorro escarba_171
+    21300344: Zorro escarba_172
+    21300346: Zorro escarba_173
+    21300348: Zorro escarba_174
+    21300350: Zorro escarba_175
+    21300352: Zorro escarba_176
+    21300354: Zorro escarba_177
+    21300356: Zorro escarba_178
+    21300358: Zorro escarba_179
+    21300360: Zorro escarba_180
+    21300362: Zorro escarba_181
+    21300364: Zorro escarba_182
+    21300366: Zorro escarba_183
+    21300368: Zorro escarba_184
+    21300370: Zorro escarba_185
+    21300372: Zorro escarba_186
+    21300374: Zorro escarba_187
+    21300376: Zorro escarba_188
+    21300378: Zorro escarba_189
+    21300380: Zorro escarba_190
+    21300382: Zorro escarba_191
+    21300384: Zorro escarba_192
+    21300386: Zorro escarba_193
+    21300388: Zorro escarba_194
+    21300390: Zorro escarba_195
+    21300392: Zorro escarba_196
+    21300394: Zorro escarba_197
+    21300396: Zorro escarba_198
+    21300398: Zorro escarba_199
+    21300400: Zorro escarba_200
+    21300402: Zorro escarba_201
+    21300404: Zorro escarba_202
+    21300406: Zorro escarba_203
+    21300408: Zorro escarba_204
+    21300410: Zorro escarba_205
+    21300412: Zorro escarba_206
+    21300414: Zorro escarba_207
+    21300416: Zorro escarba_208
+    21300418: Zorro escarba_209
+    21300420: Zorro escarba_210
+    21300422: Zorro escarba_211
+    21300424: Zorro escarba_212
+    21300426: Zorro escarba_213
+    21300428: Zorro escarba_214
+    21300430: Zorro escarba_215
+    21300432: Zorro escarba_216
+    21300434: Zorro escarba_217
+    21300436: Zorro escarba_218
+    21300438: Zorro escarba_219
+    21300440: Zorro escarba_220
+    21300442: Zorro escarba_221
+    21300444: Zorro escarba_222
+    21300446: Zorro escarba_223
+    21300448: Zorro escarba_224
+    21300450: Zorro escarba_225
+    21300452: Zorro escarba_226
+    21300454: Zorro escarba_227
+    21300456: Zorro escarba_228
+    21300458: Zorro escarba_229
+    21300460: Zorro escarba_230
+    21300462: Zorro escarba_231
+    21300464: Zorro escarba_232
+    21300466: Zorro escarba_233
+    21300468: Zorro escarba_234
+    21300470: Zorro escarba_235
+    21300472: Zorro escarba_236
+    21300474: Zorro escarba_237
+    21300476: Zorro escarba_238
+    21300478: Zorro escarba_239
+    21300480: Zorro escarba_240
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zorro escarba_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4608
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_1
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 4608
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_2
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 4608
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_3
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 4608
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_4
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 4608
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_5
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 4608
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_6
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 4608
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_7
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 4608
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_8
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 4608
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_9
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 4608
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_10
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4608
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_11
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 4608
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_12
+      rect:
+        serializedVersion: 2
+        x: 8266
+        y: 4608
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_13
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 4608
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_14
+      rect:
+        serializedVersion: 2
+        x: 9642
+        y: 4608
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4320
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_16
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 4320
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_17
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 4320
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_18
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 4320
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_19
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 4320
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_20
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 4320
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_21
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 4320
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_22
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 4320
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_23
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 4320
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_24
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 4320
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_25
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4320
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_26
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 4320
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_27
+      rect:
+        serializedVersion: 2
+        x: 8266
+        y: 4320
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_28
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 4320
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_29
+      rect:
+        serializedVersion: 2
+        x: 9642
+        y: 4320
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4032
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_31
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 4032
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_32
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 4032
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_33
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 4032
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_34
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 4032
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_35
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 4032
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_36
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 4032
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_37
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 4032
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_38
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 4032
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_39
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 4032
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_40
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4032
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_41
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 4032
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_42
+      rect:
+        serializedVersion: 2
+        x: 8266
+        y: 4032
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_43
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 4032
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_44
+      rect:
+        serializedVersion: 2
+        x: 9642
+        y: 4032
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3744
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_46
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 3744
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_47
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 3744
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_48
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 3744
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_49
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 3744
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_50
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3744
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_51
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 3744
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_52
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 3744
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_53
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 3744
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_54
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 3744
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_55
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3744
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_56
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 3744
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_57
+      rect:
+        serializedVersion: 2
+        x: 8266
+        y: 3744
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_58
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 3744
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_59
+      rect:
+        serializedVersion: 2
+        x: 9642
+        y: 3744
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3456
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_61
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 3456
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_62
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 3456
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_63
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 3456
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_64
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 3456
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_65
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3456
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_66
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 3456
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_67
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 3456
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_68
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 3456
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_69
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 3456
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_70
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3456
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_71
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 3456
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_72
+      rect:
+        serializedVersion: 2
+        x: 8266
+        y: 3456
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_73
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 3456
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_74
+      rect:
+        serializedVersion: 2
+        x: 9642
+        y: 3456
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3168
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_76
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 3168
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_77
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 3168
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_78
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 3168
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_79
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 3168
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_80
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3168
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_81
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 3168
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_82
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 3168
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_83
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 3168
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_84
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 3168
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_85
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3168
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_86
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 3168
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_87
+      rect:
+        serializedVersion: 2
+        x: 8266
+        y: 3168
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_88
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 3168
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_89
+      rect:
+        serializedVersion: 2
+        x: 9642
+        y: 3168
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_90
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2880
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_91
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2880
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_92
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2880
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_93
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 2880
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_94
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 2880
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_95
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2880
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_96
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 2880
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_97
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 2880
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_98
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 2880
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_99
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 2880
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_100
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2880
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_101
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 2880
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_102
+      rect:
+        serializedVersion: 2
+        x: 8266
+        y: 2880
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_103
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 2880
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_104
+      rect:
+        serializedVersion: 2
+        x: 9642
+        y: 2880
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_105
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2592
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_106
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2592
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_107
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2592
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_108
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 2592
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_109
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 2592
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_110
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2592
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_111
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 2592
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_112
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 2592
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_113
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 2592
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_114
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 2592
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_115
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2592
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_116
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 2592
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_117
+      rect:
+        serializedVersion: 2
+        x: 8266
+        y: 2592
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_118
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 2592
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_119
+      rect:
+        serializedVersion: 2
+        x: 9642
+        y: 2592
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_120
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2304
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_121
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2304
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_122
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2304
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_123
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 2304
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_124
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 2304
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_125
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2304
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_126
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 2304
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_127
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 2304
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_128
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 2304
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_129
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 2304
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_130
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2304
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_131
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 2304
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_132
+      rect:
+        serializedVersion: 2
+        x: 8266
+        y: 2304
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_133
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 2304
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_134
+      rect:
+        serializedVersion: 2
+        x: 9642
+        y: 2304
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_135
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2016
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_136
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2016
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_137
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2016
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_138
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 2016
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_139
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 2016
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_140
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2016
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_141
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 2016
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_142
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 2016
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_143
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 2016
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_144
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 2016
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_145
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2016
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_146
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 2016
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_147
+      rect:
+        serializedVersion: 2
+        x: 8266
+        y: 2016
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_148
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 2016
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_149
+      rect:
+        serializedVersion: 2
+        x: 9642
+        y: 2016
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_150
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1728
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_151
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1728
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_152
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1728
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_153
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1728
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_154
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 1728
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_155
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1728
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_156
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 1728
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_157
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 1728
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_158
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 1728
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_159
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 1728
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_160
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1728
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_161
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 1728
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_162
+      rect:
+        serializedVersion: 2
+        x: 8266
+        y: 1728
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_163
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 1728
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_164
+      rect:
+        serializedVersion: 2
+        x: 9642
+        y: 1728
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_165
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1440
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_166
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1440
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_167
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1440
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_168
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1440
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_169
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 1440
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_170
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1440
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_171
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 1440
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_172
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 1440
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_173
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 1440
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_174
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 1440
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_175
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1440
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_176
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 1440
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_177
+      rect:
+        serializedVersion: 2
+        x: 8266
+        y: 1440
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_178
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 1440
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_179
+      rect:
+        serializedVersion: 2
+        x: 9642
+        y: 1440
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_180
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1152
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_181
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1152
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_182
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1152
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_183
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1152
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_184
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 1152
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_185
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1152
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_186
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 1152
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_187
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 1152
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_188
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 1152
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_189
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 1152
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_190
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1152
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_191
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 1152
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_192
+      rect:
+        serializedVersion: 2
+        x: 8266
+        y: 1152
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_193
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 1152
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_194
+      rect:
+        serializedVersion: 2
+        x: 9642
+        y: 1152
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_195
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 864
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_196
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 864
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_197
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 864
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_198
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 864
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_199
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 864
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_200
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 864
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_201
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 864
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_202
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 864
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_203
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 864
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_204
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 864
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_205
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 864
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_206
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 864
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_207
+      rect:
+        serializedVersion: 2
+        x: 8266
+        y: 864
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_208
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 864
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_209
+      rect:
+        serializedVersion: 2
+        x: 9642
+        y: 864
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_210
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 576
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_211
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 576
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_212
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 576
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_213
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 576
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_214
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 576
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_215
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 576
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_216
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 576
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_217
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 576
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_218
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 576
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_219
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 576
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_220
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 576
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_221
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 576
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_222
+      rect:
+        serializedVersion: 2
+        x: 8266
+        y: 576
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_223
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 576
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_224
+      rect:
+        serializedVersion: 2
+        x: 9642
+        y: 576
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_225
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 288
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_226
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 288
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_227
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 288
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_228
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 288
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_229
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 288
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_230
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 288
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_231
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 288
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_232
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 288
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_233
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 288
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_234
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 288
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_235
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 288
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_236
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 288
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_237
+      rect:
+        serializedVersion: 2
+        x: 8266
+        y: 288
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_238
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 288
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_239
+      rect:
+        serializedVersion: 2
+        x: 9642
+        y: 288
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zorro escarba_240
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 338.33334
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

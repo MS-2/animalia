@@ -1,0 +1,3477 @@
+fileFormatVersion: 2
+guid: 9fbc39121c7e31c48be8f348175bba38
+timeCreated: 1519375631
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Castor_azota_co_la_cola_0
+    21300002: Castor_azota_co_la_cola_1
+    21300004: Castor_azota_co_la_cola_2
+    21300006: Castor_azota_co_la_cola_3
+    21300008: Castor_azota_co_la_cola_4
+    21300010: Castor_azota_co_la_cola_5
+    21300012: Castor_azota_co_la_cola_6
+    21300014: Castor_azota_co_la_cola_7
+    21300016: Castor_azota_co_la_cola_8
+    21300018: Castor_azota_co_la_cola_9
+    21300020: Castor_azota_co_la_cola_10
+    21300022: Castor_azota_co_la_cola_11
+    21300024: Castor_azota_co_la_cola_12
+    21300026: Castor_azota_co_la_cola_13
+    21300028: Castor_azota_co_la_cola_14
+    21300030: Castor_azota_co_la_cola_15
+    21300032: Castor_azota_co_la_cola_16
+    21300034: Castor_azota_co_la_cola_17
+    21300036: Castor_azota_co_la_cola_18
+    21300038: Castor_azota_co_la_cola_19
+    21300040: Castor_azota_co_la_cola_20
+    21300042: Castor_azota_co_la_cola_21
+    21300044: Castor_azota_co_la_cola_22
+    21300046: Castor_azota_co_la_cola_23
+    21300048: Castor_azota_co_la_cola_24
+    21300050: Castor_azota_co_la_cola_25
+    21300052: Castor_azota_co_la_cola_26
+    21300054: Castor_azota_co_la_cola_27
+    21300056: Castor_azota_co_la_cola_28
+    21300058: Castor_azota_co_la_cola_29
+    21300060: Castor_azota_co_la_cola_30
+    21300062: Castor_azota_co_la_cola_31
+    21300064: Castor_azota_co_la_cola_32
+    21300066: Castor_azota_co_la_cola_33
+    21300068: Castor_azota_co_la_cola_34
+    21300070: Castor_azota_co_la_cola_35
+    21300072: Castor_azota_co_la_cola_36
+    21300074: Castor_azota_co_la_cola_37
+    21300076: Castor_azota_co_la_cola_38
+    21300078: Castor_azota_co_la_cola_39
+    21300080: Castor_azota_co_la_cola_40
+    21300082: Castor_azota_co_la_cola_41
+    21300084: Castor_azota_co_la_cola_42
+    21300086: Castor_azota_co_la_cola_43
+    21300088: Castor_azota_co_la_cola_44
+    21300090: Castor_azota_co_la_cola_45
+    21300092: Castor_azota_co_la_cola_46
+    21300094: Castor_azota_co_la_cola_47
+    21300096: Castor_azota_co_la_cola_48
+    21300098: Castor_azota_co_la_cola_49
+    21300100: Castor_azota_co_la_cola_50
+    21300102: Castor_azota_co_la_cola_51
+    21300104: Castor_azota_co_la_cola_52
+    21300106: Castor_azota_co_la_cola_53
+    21300108: Castor_azota_co_la_cola_54
+    21300110: Castor_azota_co_la_cola_55
+    21300112: Castor_azota_co_la_cola_56
+    21300114: Castor_azota_co_la_cola_57
+    21300116: Castor_azota_co_la_cola_58
+    21300118: Castor_azota_co_la_cola_59
+    21300120: Castor_azota_co_la_cola_60
+    21300122: Castor_azota_co_la_cola_61
+    21300124: Castor_azota_co_la_cola_62
+    21300126: Castor_azota_co_la_cola_63
+    21300128: Castor_azota_co_la_cola_64
+    21300130: Castor_azota_co_la_cola_65
+    21300132: Castor_azota_co_la_cola_66
+    21300134: Castor_azota_co_la_cola_67
+    21300136: Castor_azota_co_la_cola_68
+    21300138: Castor_azota_co_la_cola_69
+    21300140: Castor_azota_co_la_cola_70
+    21300142: Castor_azota_co_la_cola_71
+    21300144: Castor_azota_co_la_cola_72
+    21300146: Castor_azota_co_la_cola_73
+    21300148: Castor_azota_co_la_cola_74
+    21300150: Castor_azota_co_la_cola_75
+    21300152: Castor_azota_co_la_cola_76
+    21300154: Castor_azota_co_la_cola_77
+    21300156: Castor_azota_co_la_cola_78
+    21300158: Castor_azota_co_la_cola_79
+    21300160: Castor_azota_co_la_cola_80
+    21300162: Castor_azota_co_la_cola_81
+    21300164: Castor_azota_co_la_cola_82
+    21300166: Castor_azota_co_la_cola_83
+    21300168: Castor_azota_co_la_cola_84
+    21300170: Castor_azota_co_la_cola_85
+    21300172: Castor_azota_co_la_cola_86
+    21300174: Castor_azota_co_la_cola_87
+    21300176: Castor_azota_co_la_cola_88
+    21300178: Castor_azota_co_la_cola_89
+    21300180: Castor_azota_co_la_cola_90
+    21300182: Castor_azota_co_la_cola_91
+    21300184: Castor_azota_co_la_cola_92
+    21300186: Castor_azota_co_la_cola_93
+    21300188: Castor_azota_co_la_cola_94
+    21300190: Castor_azota_co_la_cola_95
+    21300192: Castor_azota_co_la_cola_96
+    21300194: Castor_azota_co_la_cola_97
+    21300196: Castor_azota_co_la_cola_98
+    21300198: Castor_azota_co_la_cola_99
+    21300200: Castor_azota_co_la_cola_100
+    21300202: Castor_azota_co_la_cola_101
+    21300204: Castor_azota_co_la_cola_102
+    21300206: Castor_azota_co_la_cola_103
+    21300208: Castor_azota_co_la_cola_104
+    21300210: Castor_azota_co_la_cola_105
+    21300212: Castor_azota_co_la_cola_106
+    21300214: Castor_azota_co_la_cola_107
+    21300216: Castor_azota_co_la_cola_108
+    21300218: Castor_azota_co_la_cola_109
+    21300220: Castor_azota_co_la_cola_110
+    21300222: Castor_azota_co_la_cola_111
+    21300224: Castor_azota_co_la_cola_112
+    21300226: Castor_azota_co_la_cola_113
+    21300228: Castor_azota_co_la_cola_114
+    21300230: Castor_azota_co_la_cola_115
+    21300232: Castor_azota_co_la_cola_116
+    21300234: Castor_azota_co_la_cola_117
+    21300236: Castor_azota_co_la_cola_118
+    21300238: Castor_azota_co_la_cola_119
+    21300240: Castor_azota_co_la_cola_120
+    21300242: Castor_azota_co_la_cola_121
+    21300244: Castor_azota_co_la_cola_122
+    21300246: Castor_azota_co_la_cola_123
+    21300248: Castor_azota_co_la_cola_124
+    21300250: Castor_azota_co_la_cola_125
+    21300252: Castor_azota_co_la_cola_126
+    21300254: Castor_azota_co_la_cola_127
+    21300256: Castor_azota_co_la_cola_128
+    21300258: Castor_azota_co_la_cola_129
+    21300260: Castor_azota_co_la_cola_130
+    21300262: Castor_azota_co_la_cola_131
+    21300264: Castor_azota_co_la_cola_132
+    21300266: Castor_azota_co_la_cola_133
+    21300268: Castor_azota_co_la_cola_134
+    21300270: Castor_azota_co_la_cola_135
+    21300272: Castor_azota_co_la_cola_136
+    21300274: Castor_azota_co_la_cola_137
+    21300276: Castor_azota_co_la_cola_138
+    21300278: Castor_azota_co_la_cola_139
+    21300280: Castor_azota_co_la_cola_140
+    21300282: Castor_azota_co_la_cola_141
+    21300284: Castor_azota_co_la_cola_142
+    21300286: Castor_azota_co_la_cola_143
+    21300288: Castor_azota_co_la_cola_144
+    21300290: Castor_azota_co_la_cola_145
+    21300292: Castor_azota_co_la_cola_146
+    21300294: Castor_azota_co_la_cola_147
+    21300296: Castor_azota_co_la_cola_148
+    21300298: Castor_azota_co_la_cola_149
+    21300300: Castor_azota_co_la_cola_150
+    21300302: Castor_azota_co_la_cola_151
+    21300304: Castor_azota_co_la_cola_152
+    21300306: Castor_azota_co_la_cola_153
+    21300308: Castor_azota_co_la_cola_154
+    21300310: Castor_azota_co_la_cola_155
+    21300312: Castor_azota_co_la_cola_156
+    21300314: Castor_azota_co_la_cola_157
+    21300316: Castor_azota_co_la_cola_158
+    21300318: Castor_azota_co_la_cola_159
+    21300320: Castor_azota_co_la_cola_160
+    21300322: Castor_azota_co_la_cola_161
+    21300324: Castor_azota_co_la_cola_162
+    21300326: Castor_azota_co_la_cola_163
+    21300328: Castor_azota_co_la_cola_164
+    21300330: Castor_azota_co_la_cola_165
+    21300332: Castor_azota_co_la_cola_166
+    21300334: Castor_azota_co_la_cola_167
+    21300336: Castor_azota_co_la_cola_168
+    21300338: Castor_azota_co_la_cola_169
+    21300340: Castor_azota_co_la_cola_170
+    21300342: Castor_azota_co_la_cola_171
+    21300344: Castor_azota_co_la_cola_172
+    21300346: Castor_azota_co_la_cola_173
+    21300348: Castor_azota_co_la_cola_174
+    21300350: Castor_azota_co_la_cola_175
+    21300352: Castor_azota_co_la_cola_176
+    21300354: Castor_azota_co_la_cola_177
+    21300356: Castor_azota_co_la_cola_178
+    21300358: Castor_azota_co_la_cola_179
+    21300360: Castor_azota_co_la_cola_180
+    21300362: Castor_azota_co_la_cola_181
+    21300364: Castor_azota_co_la_cola_182
+    21300366: Castor_azota_co_la_cola_183
+    21300368: Castor_azota_co_la_cola_184
+    21300370: Castor_azota_co_la_cola_185
+    21300372: Castor_azota_co_la_cola_186
+    21300374: Castor_azota_co_la_cola_187
+    21300376: Castor_azota_co_la_cola_188
+    21300378: Castor_azota_co_la_cola_189
+    21300380: Castor_azota_co_la_cola_190
+    21300382: Castor_azota_co_la_cola_191
+    21300384: Castor_azota_co_la_cola_192
+    21300386: Castor_azota_co_la_cola_193
+    21300388: Castor_azota_co_la_cola_194
+    21300390: Castor_azota_co_la_cola_195
+    21300392: Castor_azota_co_la_cola_196
+    21300394: Castor_azota_co_la_cola_197
+    21300396: Castor_azota_co_la_cola_198
+    21300398: Castor_azota_co_la_cola_199
+    21300400: Castor_azota_co_la_cola_200
+    21300402: Castor_azota_co_la_cola_201
+    21300404: Castor_azota_co_la_cola_202
+    21300406: Castor_azota_co_la_cola_203
+    21300408: Castor_azota_co_la_cola_204
+    21300410: Castor_azota_co_la_cola_205
+    21300412: Castor_azota_co_la_cola_206
+    21300414: Castor_azota_co_la_cola_207
+    21300416: Castor_azota_co_la_cola_208
+    21300418: Castor_azota_co_la_cola_209
+    21300420: Castor_azota_co_la_cola_210
+    21300422: Castor_azota_co_la_cola_211
+    21300424: Castor_azota_co_la_cola_212
+    21300426: Castor_azota_co_la_cola_213
+    21300428: Castor_azota_co_la_cola_214
+    21300430: Castor_azota_co_la_cola_215
+    21300432: Castor_azota_co_la_cola_216
+    21300434: Castor_azota_co_la_cola_217
+    21300436: Castor_azota_co_la_cola_218
+    21300438: Castor_azota_co_la_cola_219
+    21300440: Castor_azota_co_la_cola_220
+    21300442: Castor_azota_co_la_cola_221
+    21300444: Castor_azota_co_la_cola_222
+    21300446: Castor_azota_co_la_cola_223
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_1
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_2
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_3
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_4
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_5
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_6
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_7
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_8
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_9
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_10
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_11
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_12
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_13
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4320
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_15
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_16
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_17
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_18
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_19
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_20
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_21
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_22
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_23
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_24
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_25
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_26
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_27
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 4032
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_29
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_30
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_31
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_32
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_33
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_34
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_35
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_36
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_37
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_38
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_39
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_40
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_41
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3744
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_43
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_44
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_45
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_46
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_47
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_48
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_49
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_50
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_51
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_52
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_53
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_54
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_55
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3456
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_57
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_58
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_59
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_60
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_61
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_62
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_63
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_64
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_65
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_66
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_67
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_68
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_69
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 3168
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_71
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_72
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_73
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_74
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_75
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_76
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_77
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_78
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_79
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_80
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_81
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_82
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_83
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2880
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_85
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_86
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_87
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_88
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_89
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_90
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_91
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_92
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_93
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_94
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_95
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_96
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_97
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2592
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_99
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_100
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_101
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_102
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_103
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_104
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_105
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_106
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_107
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_108
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_109
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_110
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_111
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2304
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_113
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_114
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_115
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_116
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_117
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_118
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_119
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_120
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_121
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_122
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_123
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_124
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_125
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 2016
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_127
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_128
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_129
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_130
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_131
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_132
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_133
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_134
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_135
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_136
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_137
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_138
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_139
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1728
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_141
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_142
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_143
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_144
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_145
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_146
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_147
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_148
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_149
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_150
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_151
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_152
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_153
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1440
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_155
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_156
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_157
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_158
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_159
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_160
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_161
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_162
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_163
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_164
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_165
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_166
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_167
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 1152
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_169
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_170
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_171
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_172
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_173
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_174
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_175
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_176
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_177
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_178
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_179
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_180
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_181
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 864
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_183
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_184
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_185
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_186
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_187
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_188
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_189
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_190
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_191
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_192
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_193
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_194
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_195
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 576
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_197
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_198
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_199
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_200
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_201
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_202
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_203
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_204
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_205
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_206
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_207
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_208
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_209
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 288
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_211
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_212
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_213
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_214
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_215
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_216
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_217
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_218
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_219
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_220
+      rect:
+        serializedVersion: 2
+        x: 6890
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_221
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_222
+      rect:
+        serializedVersion: 2
+        x: 8268
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castor_azota_co_la_cola_223
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 0
+        width: 329
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

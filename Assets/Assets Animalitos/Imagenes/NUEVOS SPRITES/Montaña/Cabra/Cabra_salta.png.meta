@@ -1,0 +1,3732 @@
+fileFormatVersion: 2
+guid: e670d97b481053042bf5a164deb79647
+timeCreated: 1518511792
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cabra_salta_0
+    21300002: Cabra_salta_1
+    21300004: Cabra_salta_2
+    21300006: Cabra_salta_3
+    21300008: Cabra_salta_4
+    21300010: Cabra_salta_5
+    21300012: Cabra_salta_6
+    21300014: Cabra_salta_7
+    21300016: Cabra_salta_8
+    21300018: Cabra_salta_9
+    21300020: Cabra_salta_10
+    21300022: Cabra_salta_11
+    21300024: Cabra_salta_12
+    21300026: Cabra_salta_13
+    21300028: Cabra_salta_14
+    21300030: Cabra_salta_15
+    21300032: Cabra_salta_16
+    21300034: Cabra_salta_17
+    21300036: Cabra_salta_18
+    21300038: Cabra_salta_19
+    21300040: Cabra_salta_20
+    21300042: Cabra_salta_21
+    21300044: Cabra_salta_22
+    21300046: Cabra_salta_23
+    21300048: Cabra_salta_24
+    21300050: Cabra_salta_25
+    21300052: Cabra_salta_26
+    21300054: Cabra_salta_27
+    21300056: Cabra_salta_28
+    21300058: Cabra_salta_29
+    21300060: Cabra_salta_30
+    21300062: Cabra_salta_31
+    21300064: Cabra_salta_32
+    21300066: Cabra_salta_33
+    21300068: Cabra_salta_34
+    21300070: Cabra_salta_35
+    21300072: Cabra_salta_36
+    21300074: Cabra_salta_37
+    21300076: Cabra_salta_38
+    21300078: Cabra_salta_39
+    21300080: Cabra_salta_40
+    21300082: Cabra_salta_41
+    21300084: Cabra_salta_42
+    21300086: Cabra_salta_43
+    21300088: Cabra_salta_44
+    21300090: Cabra_salta_45
+    21300092: Cabra_salta_46
+    21300094: Cabra_salta_47
+    21300096: Cabra_salta_48
+    21300098: Cabra_salta_49
+    21300100: Cabra_salta_50
+    21300102: Cabra_salta_51
+    21300104: Cabra_salta_52
+    21300106: Cabra_salta_53
+    21300108: Cabra_salta_54
+    21300110: Cabra_salta_55
+    21300112: Cabra_salta_56
+    21300114: Cabra_salta_57
+    21300116: Cabra_salta_58
+    21300118: Cabra_salta_59
+    21300120: Cabra_salta_60
+    21300122: Cabra_salta_61
+    21300124: Cabra_salta_62
+    21300126: Cabra_salta_63
+    21300128: Cabra_salta_64
+    21300130: Cabra_salta_65
+    21300132: Cabra_salta_66
+    21300134: Cabra_salta_67
+    21300136: Cabra_salta_68
+    21300138: Cabra_salta_69
+    21300140: Cabra_salta_70
+    21300142: Cabra_salta_71
+    21300144: Cabra_salta_72
+    21300146: Cabra_salta_73
+    21300148: Cabra_salta_74
+    21300150: Cabra_salta_75
+    21300152: Cabra_salta_76
+    21300154: Cabra_salta_77
+    21300156: Cabra_salta_78
+    21300158: Cabra_salta_79
+    21300160: Cabra_salta_80
+    21300162: Cabra_salta_81
+    21300164: Cabra_salta_82
+    21300166: Cabra_salta_83
+    21300168: Cabra_salta_84
+    21300170: Cabra_salta_85
+    21300172: Cabra_salta_86
+    21300174: Cabra_salta_87
+    21300176: Cabra_salta_88
+    21300178: Cabra_salta_89
+    21300180: Cabra_salta_90
+    21300182: Cabra_salta_91
+    21300184: Cabra_salta_92
+    21300186: Cabra_salta_93
+    21300188: Cabra_salta_94
+    21300190: Cabra_salta_95
+    21300192: Cabra_salta_96
+    21300194: Cabra_salta_97
+    21300196: Cabra_salta_98
+    21300198: Cabra_salta_99
+    21300200: Cabra_salta_100
+    21300202: Cabra_salta_101
+    21300204: Cabra_salta_102
+    21300206: Cabra_salta_103
+    21300208: Cabra_salta_104
+    21300210: Cabra_salta_105
+    21300212: Cabra_salta_106
+    21300214: Cabra_salta_107
+    21300216: Cabra_salta_108
+    21300218: Cabra_salta_109
+    21300220: Cabra_salta_110
+    21300222: Cabra_salta_111
+    21300224: Cabra_salta_112
+    21300226: Cabra_salta_113
+    21300228: Cabra_salta_114
+    21300230: Cabra_salta_115
+    21300232: Cabra_salta_116
+    21300234: Cabra_salta_117
+    21300236: Cabra_salta_118
+    21300238: Cabra_salta_119
+    21300240: Cabra_salta_120
+    21300242: Cabra_salta_121
+    21300244: Cabra_salta_122
+    21300246: Cabra_salta_123
+    21300248: Cabra_salta_124
+    21300250: Cabra_salta_125
+    21300252: Cabra_salta_126
+    21300254: Cabra_salta_127
+    21300256: Cabra_salta_128
+    21300258: Cabra_salta_129
+    21300260: Cabra_salta_130
+    21300262: Cabra_salta_131
+    21300264: Cabra_salta_132
+    21300266: Cabra_salta_133
+    21300268: Cabra_salta_134
+    21300270: Cabra_salta_135
+    21300272: Cabra_salta_136
+    21300274: Cabra_salta_137
+    21300276: Cabra_salta_138
+    21300278: Cabra_salta_139
+    21300280: Cabra_salta_140
+    21300282: Cabra_salta_141
+    21300284: Cabra_salta_142
+    21300286: Cabra_salta_143
+    21300288: Cabra_salta_144
+    21300290: Cabra_salta_145
+    21300292: Cabra_salta_146
+    21300294: Cabra_salta_147
+    21300296: Cabra_salta_148
+    21300298: Cabra_salta_149
+    21300300: Cabra_salta_150
+    21300302: Cabra_salta_151
+    21300304: Cabra_salta_152
+    21300306: Cabra_salta_153
+    21300308: Cabra_salta_154
+    21300310: Cabra_salta_155
+    21300312: Cabra_salta_156
+    21300314: Cabra_salta_157
+    21300316: Cabra_salta_158
+    21300318: Cabra_salta_159
+    21300320: Cabra_salta_160
+    21300322: Cabra_salta_161
+    21300324: Cabra_salta_162
+    21300326: Cabra_salta_163
+    21300328: Cabra_salta_164
+    21300330: Cabra_salta_165
+    21300332: Cabra_salta_166
+    21300334: Cabra_salta_167
+    21300336: Cabra_salta_168
+    21300338: Cabra_salta_169
+    21300340: Cabra_salta_170
+    21300342: Cabra_salta_171
+    21300344: Cabra_salta_172
+    21300346: Cabra_salta_173
+    21300348: Cabra_salta_174
+    21300350: Cabra_salta_175
+    21300352: Cabra_salta_176
+    21300354: Cabra_salta_177
+    21300356: Cabra_salta_178
+    21300358: Cabra_salta_179
+    21300360: Cabra_salta_180
+    21300362: Cabra_salta_181
+    21300364: Cabra_salta_182
+    21300366: Cabra_salta_183
+    21300368: Cabra_salta_184
+    21300370: Cabra_salta_185
+    21300372: Cabra_salta_186
+    21300374: Cabra_salta_187
+    21300376: Cabra_salta_188
+    21300378: Cabra_salta_189
+    21300380: Cabra_salta_190
+    21300382: Cabra_salta_191
+    21300384: Cabra_salta_192
+    21300386: Cabra_salta_193
+    21300388: Cabra_salta_194
+    21300390: Cabra_salta_195
+    21300392: Cabra_salta_196
+    21300394: Cabra_salta_197
+    21300396: Cabra_salta_198
+    21300398: Cabra_salta_199
+    21300400: Cabra_salta_200
+    21300402: Cabra_salta_201
+    21300404: Cabra_salta_202
+    21300406: Cabra_salta_203
+    21300408: Cabra_salta_204
+    21300410: Cabra_salta_205
+    21300412: Cabra_salta_206
+    21300414: Cabra_salta_207
+    21300416: Cabra_salta_208
+    21300418: Cabra_salta_209
+    21300420: Cabra_salta_210
+    21300422: Cabra_salta_211
+    21300424: Cabra_salta_212
+    21300426: Cabra_salta_213
+    21300428: Cabra_salta_214
+    21300430: Cabra_salta_215
+    21300432: Cabra_salta_216
+    21300434: Cabra_salta_217
+    21300436: Cabra_salta_218
+    21300438: Cabra_salta_219
+    21300440: Cabra_salta_220
+    21300442: Cabra_salta_221
+    21300444: Cabra_salta_222
+    21300446: Cabra_salta_223
+    21300448: Cabra_salta_224
+    21300450: Cabra_salta_225
+    21300452: Cabra_salta_226
+    21300454: Cabra_salta_227
+    21300456: Cabra_salta_228
+    21300458: Cabra_salta_229
+    21300460: Cabra_salta_230
+    21300462: Cabra_salta_231
+    21300464: Cabra_salta_232
+    21300466: Cabra_salta_233
+    21300468: Cabra_salta_234
+    21300470: Cabra_salta_235
+    21300472: Cabra_salta_236
+    21300474: Cabra_salta_237
+    21300476: Cabra_salta_238
+    21300478: Cabra_salta_239
+    21300480: Cabra_salta_240
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cabra_salta_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 6490
+        width: 190
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_1
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 6490
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_2
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 6490
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_3
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 6490
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_4
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 6490
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_5
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 6490
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_6
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 6490
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_7
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 6490
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_8
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 6490
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_9
+      rect:
+        serializedVersion: 2
+        x: 6360
+        y: 6490
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_10
+      rect:
+        serializedVersion: 2
+        x: 7062
+        y: 6490
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_11
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 6490
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_12
+      rect:
+        serializedVersion: 2
+        x: 8462
+        y: 6490
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_13
+      rect:
+        serializedVersion: 2
+        x: 9160
+        y: 6490
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_14
+      rect:
+        serializedVersion: 2
+        x: 9862
+        y: 6490
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 6090
+        width: 190
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_16
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 6090
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_17
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 6090
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_18
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 6090
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_19
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 6090
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_20
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 6090
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_21
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 6090
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_22
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 6090
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_23
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 6090
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_24
+      rect:
+        serializedVersion: 2
+        x: 6360
+        y: 6090
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_25
+      rect:
+        serializedVersion: 2
+        x: 7062
+        y: 6090
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_26
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 6090
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_27
+      rect:
+        serializedVersion: 2
+        x: 8462
+        y: 6090
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_28
+      rect:
+        serializedVersion: 2
+        x: 9160
+        y: 6090
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_29
+      rect:
+        serializedVersion: 2
+        x: 9862
+        y: 6090
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_30
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 5690
+        width: 190
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_31
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 5690
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_32
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 5690
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_33
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 5690
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_34
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 5690
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_35
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 5690
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_36
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 5690
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_37
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 5690
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_38
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 5690
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_39
+      rect:
+        serializedVersion: 2
+        x: 6360
+        y: 5690
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_40
+      rect:
+        serializedVersion: 2
+        x: 7062
+        y: 5690
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_41
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 5690
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_42
+      rect:
+        serializedVersion: 2
+        x: 8462
+        y: 5690
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_43
+      rect:
+        serializedVersion: 2
+        x: 9160
+        y: 5690
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_44
+      rect:
+        serializedVersion: 2
+        x: 9862
+        y: 5690
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_45
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 5290
+        width: 190
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_46
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 5290
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_47
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 5290
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_48
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 5290
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_49
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 5290
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_50
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 5290
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_51
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 5290
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_52
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 5290
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_53
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 5290
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_54
+      rect:
+        serializedVersion: 2
+        x: 6360
+        y: 5290
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_55
+      rect:
+        serializedVersion: 2
+        x: 7062
+        y: 5290
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_56
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 5290
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_57
+      rect:
+        serializedVersion: 2
+        x: 8462
+        y: 5290
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_58
+      rect:
+        serializedVersion: 2
+        x: 9160
+        y: 5290
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_59
+      rect:
+        serializedVersion: 2
+        x: 9862
+        y: 5290
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_60
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 4890
+        width: 190
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_61
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 4890
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_62
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 4890
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_63
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 4890
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_64
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 4890
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_65
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 4890
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_66
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 4890
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_67
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 4890
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_68
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 4890
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_69
+      rect:
+        serializedVersion: 2
+        x: 6360
+        y: 4890
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_70
+      rect:
+        serializedVersion: 2
+        x: 7057
+        y: 4890
+        width: 190
+        height: 220
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_71
+      rect:
+        serializedVersion: 2
+        x: 7750
+        y: 4890
+        width: 199
+        height: 219
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_72
+      rect:
+        serializedVersion: 2
+        x: 8447
+        y: 4890
+        width: 200
+        height: 215
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_73
+      rect:
+        serializedVersion: 2
+        x: 9154
+        y: 4895
+        width: 195
+        height: 220
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_74
+      rect:
+        serializedVersion: 2
+        x: 9859
+        y: 4905
+        width: 192
+        height: 221
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_75
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 4510
+        width: 189
+        height: 226
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_76
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 4515
+        width: 183
+        height: 231
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_77
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 4521
+        width: 174
+        height: 234
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_78
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 4521
+        width: 169
+        height: 240
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_79
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 4523
+        width: 169
+        height: 239
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_80
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 4526
+        width: 169
+        height: 240
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_81
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 4526
+        width: 169
+        height: 241
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_82
+      rect:
+        serializedVersion: 2
+        x: 4986
+        y: 4526
+        width: 169
+        height: 241
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_83
+      rect:
+        serializedVersion: 2
+        x: 5683
+        y: 4526
+        width: 172
+        height: 241
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_84
+      rect:
+        serializedVersion: 2
+        x: 6386
+        y: 4526
+        width: 169
+        height: 243
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_85
+      rect:
+        serializedVersion: 2
+        x: 7053
+        y: 4531
+        width: 197
+        height: 230
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_86
+      rect:
+        serializedVersion: 2
+        x: 7739
+        y: 4526
+        width: 200
+        height: 215
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_87
+      rect:
+        serializedVersion: 2
+        x: 8442
+        y: 4521
+        width: 199
+        height: 220
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_88
+      rect:
+        serializedVersion: 2
+        x: 9144
+        y: 4510
+        width: 200
+        height: 226
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_89
+      rect:
+        serializedVersion: 2
+        x: 9847
+        y: 4505
+        width: 199
+        height: 226
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_90
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4095
+        width: 194
+        height: 230
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_91
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 4090
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_92
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 4090
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_93
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 4090
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_94
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 4090
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_95
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 4090
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_96
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 4090
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_97
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 4090
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_98
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 4090
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_99
+      rect:
+        serializedVersion: 2
+        x: 6360
+        y: 4090
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_100
+      rect:
+        serializedVersion: 2
+        x: 7062
+        y: 4090
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_101
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 4090
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_102
+      rect:
+        serializedVersion: 2
+        x: 8462
+        y: 4090
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_103
+      rect:
+        serializedVersion: 2
+        x: 9160
+        y: 4090
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_104
+      rect:
+        serializedVersion: 2
+        x: 9862
+        y: 4090
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_105
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3690
+        width: 190
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_106
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 3690
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_107
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 3690
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_108
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 3690
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_109
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 3690
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_110
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 3690
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_111
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 3690
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_112
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 3690
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_113
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 3690
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_114
+      rect:
+        serializedVersion: 2
+        x: 6360
+        y: 3690
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_115
+      rect:
+        serializedVersion: 2
+        x: 7062
+        y: 3690
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_116
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 3690
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_117
+      rect:
+        serializedVersion: 2
+        x: 8462
+        y: 3690
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_118
+      rect:
+        serializedVersion: 2
+        x: 9160
+        y: 3690
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_119
+      rect:
+        serializedVersion: 2
+        x: 9862
+        y: 3690
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_120
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3290
+        width: 190
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_121
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 3290
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_122
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 3290
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_123
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 3290
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_124
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 3290
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_125
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 3290
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_126
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 3290
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_127
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 3290
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_128
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 3290
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_129
+      rect:
+        serializedVersion: 2
+        x: 6360
+        y: 3290
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_130
+      rect:
+        serializedVersion: 2
+        x: 7062
+        y: 3290
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_131
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 3290
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_132
+      rect:
+        serializedVersion: 2
+        x: 8462
+        y: 3290
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_133
+      rect:
+        serializedVersion: 2
+        x: 9160
+        y: 3290
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_134
+      rect:
+        serializedVersion: 2
+        x: 9862
+        y: 3290
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_135
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2890
+        width: 190
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_136
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2890
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_137
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 2890
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_138
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 2890
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_139
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 2890
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_140
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 2890
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_141
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 2890
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_142
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 2890
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_143
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 2890
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_144
+      rect:
+        serializedVersion: 2
+        x: 6360
+        y: 2890
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_145
+      rect:
+        serializedVersion: 2
+        x: 7062
+        y: 2890
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_146
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 2890
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_147
+      rect:
+        serializedVersion: 2
+        x: 8462
+        y: 2890
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_148
+      rect:
+        serializedVersion: 2
+        x: 9160
+        y: 2890
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_149
+      rect:
+        serializedVersion: 2
+        x: 9862
+        y: 2890
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_150
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2490
+        width: 190
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_151
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2490
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_152
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 2490
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_153
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 2490
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_154
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 2490
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_155
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 2490
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_156
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 2490
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_157
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 2490
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_158
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 2490
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_159
+      rect:
+        serializedVersion: 2
+        x: 6360
+        y: 2490
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_160
+      rect:
+        serializedVersion: 2
+        x: 7062
+        y: 2490
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_161
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 2490
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_162
+      rect:
+        serializedVersion: 2
+        x: 8462
+        y: 2490
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_163
+      rect:
+        serializedVersion: 2
+        x: 9160
+        y: 2490
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_164
+      rect:
+        serializedVersion: 2
+        x: 9862
+        y: 2490
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_165
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2090
+        width: 190
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_166
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2090
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_167
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 2090
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_168
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 2090
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_169
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 2090
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_170
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 2090
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_171
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 2090
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_172
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 2090
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_173
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 2090
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_174
+      rect:
+        serializedVersion: 2
+        x: 6360
+        y: 2090
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_175
+      rect:
+        serializedVersion: 2
+        x: 7062
+        y: 2090
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_176
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 2090
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_177
+      rect:
+        serializedVersion: 2
+        x: 8462
+        y: 2090
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_178
+      rect:
+        serializedVersion: 2
+        x: 9160
+        y: 2090
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_179
+      rect:
+        serializedVersion: 2
+        x: 9862
+        y: 2090
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_180
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1690
+        width: 190
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_181
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1690
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_182
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1690
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_183
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 1690
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_184
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 1690
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_185
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 1690
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_186
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 1690
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_187
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 1690
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_188
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 1690
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_189
+      rect:
+        serializedVersion: 2
+        x: 6360
+        y: 1690
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_190
+      rect:
+        serializedVersion: 2
+        x: 7062
+        y: 1690
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_191
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 1690
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_192
+      rect:
+        serializedVersion: 2
+        x: 8462
+        y: 1690
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_193
+      rect:
+        serializedVersion: 2
+        x: 9160
+        y: 1690
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_194
+      rect:
+        serializedVersion: 2
+        x: 9862
+        y: 1690
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_195
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1290
+        width: 190
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_196
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1290
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_197
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1290
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_198
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 1290
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_199
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 1290
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_200
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 1290
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_201
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 1290
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_202
+      rect:
+        serializedVersion: 2
+        x: 4955
+        y: 1290
+        width: 194
+        height: 220
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_203
+      rect:
+        serializedVersion: 2
+        x: 5653
+        y: 1290
+        width: 194
+        height: 219
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_204
+      rect:
+        serializedVersion: 2
+        x: 6347
+        y: 1290
+        width: 202
+        height: 215
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_205
+      rect:
+        serializedVersion: 2
+        x: 7052
+        y: 1295
+        width: 195
+        height: 220
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_206
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 1303
+        width: 189
+        height: 223
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_207
+      rect:
+        serializedVersion: 2
+        x: 8467
+        y: 1310
+        width: 185
+        height: 226
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_208
+      rect:
+        serializedVersion: 2
+        x: 9171
+        y: 1315
+        width: 183
+        height: 231
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_209
+      rect:
+        serializedVersion: 2
+        x: 9877
+        y: 1321
+        width: 179
+        height: 234
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_210
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 921
+        width: 169
+        height: 240
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_211
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 923
+        width: 173
+        height: 239
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_212
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 926
+        width: 169
+        height: 240
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_213
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 926
+        width: 172
+        height: 241
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_214
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 926
+        width: 169
+        height: 241
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_215
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 926
+        width: 169
+        height: 241
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_216
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 926
+        width: 169
+        height: 243
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_217
+      rect:
+        serializedVersion: 2
+        x: 4955
+        y: 931
+        width: 195
+        height: 230
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_218
+      rect:
+        serializedVersion: 2
+        x: 5638
+        y: 926
+        width: 204
+        height: 215
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_219
+      rect:
+        serializedVersion: 2
+        x: 6340
+        y: 921
+        width: 204
+        height: 220
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_220
+      rect:
+        serializedVersion: 2
+        x: 7042
+        y: 911
+        width: 200
+        height: 227
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_221
+      rect:
+        serializedVersion: 2
+        x: 7749
+        y: 905
+        width: 195
+        height: 226
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_222
+      rect:
+        serializedVersion: 2
+        x: 8452
+        y: 895
+        width: 195
+        height: 230
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_223
+      rect:
+        serializedVersion: 2
+        x: 9160
+        y: 890
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_224
+      rect:
+        serializedVersion: 2
+        x: 9862
+        y: 890
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_225
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 490
+        width: 190
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_226
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 490
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_227
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 490
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_228
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 490
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_229
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 490
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_230
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 490
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_231
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 490
+        width: 187
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_232
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 490
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_233
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 490
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_234
+      rect:
+        serializedVersion: 2
+        x: 6360
+        y: 490
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_235
+      rect:
+        serializedVersion: 2
+        x: 7062
+        y: 490
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_236
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 490
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_237
+      rect:
+        serializedVersion: 2
+        x: 8462
+        y: 490
+        width: 185
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_238
+      rect:
+        serializedVersion: 2
+        x: 9160
+        y: 490
+        width: 189
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_239
+      rect:
+        serializedVersion: 2
+        x: 9862
+        y: 490
+        width: 184
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabra_salta_240
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 90
+        width: 190
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

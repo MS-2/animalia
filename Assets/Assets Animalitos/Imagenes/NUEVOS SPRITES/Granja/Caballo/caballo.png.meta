@@ -1,0 +1,2277 @@
+fileFormatVersion: 2
+guid: b6a99f5d5c18ed540967d8c7fb1b0d4c
+timeCreated: 1521217476
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: caballo_0
+    21300002: caballo_1
+    21300004: caballo_2
+    21300006: caballo_3
+    21300008: caballo_4
+    21300010: caballo_5
+    21300012: caballo_6
+    21300014: caballo_7
+    21300016: caballo_8
+    21300018: caballo_9
+    21300020: caballo_10
+    21300022: caballo_11
+    21300024: caballo_12
+    21300026: caballo_13
+    21300028: caballo_14
+    21300030: caballo_15
+    21300032: caballo_16
+    21300034: caballo_17
+    21300036: caballo_18
+    21300038: caballo_19
+    21300040: caballo_20
+    21300042: caballo_21
+    21300044: caballo_22
+    21300046: caballo_23
+    21300048: caballo_24
+    21300050: caballo_25
+    21300052: caballo_26
+    21300054: caballo_27
+    21300056: caballo_28
+    21300058: caballo_29
+    21300060: caballo_30
+    21300062: caballo_31
+    21300064: caballo_32
+    21300066: caballo_33
+    21300068: caballo_34
+    21300070: caballo_35
+    21300072: caballo_36
+    21300074: caballo_37
+    21300076: caballo_38
+    21300078: caballo_39
+    21300080: caballo_40
+    21300082: caballo_41
+    21300084: caballo_42
+    21300086: caballo_43
+    21300088: caballo_44
+    21300090: caballo_45
+    21300092: caballo_46
+    21300094: caballo_47
+    21300096: caballo_48
+    21300098: caballo_49
+    21300100: caballo_50
+    21300102: caballo_51
+    21300104: caballo_52
+    21300106: caballo_53
+    21300108: caballo_54
+    21300110: caballo_55
+    21300112: caballo_56
+    21300114: caballo_57
+    21300116: caballo_58
+    21300118: caballo_59
+    21300120: caballo_60
+    21300122: caballo_61
+    21300124: caballo_62
+    21300126: caballo_63
+    21300128: caballo_64
+    21300130: caballo_65
+    21300132: caballo_66
+    21300134: caballo_67
+    21300136: caballo_68
+    21300138: caballo_69
+    21300140: caballo_70
+    21300142: caballo_71
+    21300144: caballo_72
+    21300146: caballo_73
+    21300148: caballo_74
+    21300150: caballo_75
+    21300152: caballo_76
+    21300154: caballo_77
+    21300156: caballo_78
+    21300158: caballo_79
+    21300160: caballo_80
+    21300162: caballo_81
+    21300164: caballo_82
+    21300166: caballo_83
+    21300168: caballo_84
+    21300170: caballo_85
+    21300172: caballo_86
+    21300174: caballo_87
+    21300176: caballo_88
+    21300178: caballo_89
+    21300180: caballo_90
+    21300182: caballo_91
+    21300184: caballo_92
+    21300186: caballo_93
+    21300188: caballo_94
+    21300190: caballo_95
+    21300192: caballo_96
+    21300194: caballo_97
+    21300196: caballo_98
+    21300198: caballo_99
+    21300200: caballo_100
+    21300202: caballo_101
+    21300204: caballo_102
+    21300206: caballo_103
+    21300208: caballo_104
+    21300210: caballo_105
+    21300212: caballo_106
+    21300214: caballo_107
+    21300216: caballo_108
+    21300218: caballo_109
+    21300220: caballo_110
+    21300222: caballo_111
+    21300224: caballo_112
+    21300226: caballo_113
+    21300228: caballo_114
+    21300230: caballo_115
+    21300232: caballo_116
+    21300234: caballo_117
+    21300236: caballo_118
+    21300238: caballo_119
+    21300240: caballo_120
+    21300242: caballo_121
+    21300244: caballo_122
+    21300246: caballo_123
+    21300248: caballo_124
+    21300250: caballo_125
+    21300252: caballo_126
+    21300254: caballo_127
+    21300256: caballo_128
+    21300258: caballo_129
+    21300260: caballo_130
+    21300262: caballo_131
+    21300264: caballo_132
+    21300266: caballo_133
+    21300268: caballo_134
+    21300270: caballo_135
+    21300272: caballo_136
+    21300274: caballo_137
+    21300276: caballo_138
+    21300278: caballo_139
+    21300280: caballo_140
+    21300282: caballo_141
+    21300284: caballo_142
+    21300286: caballo_143
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caballo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_1
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 8370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_2
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 8370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_3
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 8370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_4
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 8370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_5
+      rect:
+        serializedVersion: 2
+        x: 6665
+        y: 8370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_6
+      rect:
+        serializedVersion: 2
+        x: 7998
+        y: 8370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_7
+      rect:
+        serializedVersion: 2
+        x: 9331
+        y: 8370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_8
+      rect:
+        serializedVersion: 2
+        x: 10664
+        y: 8370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_9
+      rect:
+        serializedVersion: 2
+        x: 11997
+        y: 8370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_10
+      rect:
+        serializedVersion: 2
+        x: 13330
+        y: 8370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_11
+      rect:
+        serializedVersion: 2
+        x: 14663
+        y: 8370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_13
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 7620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_14
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 7620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_15
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 7620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_16
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 7620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_17
+      rect:
+        serializedVersion: 2
+        x: 6665
+        y: 7620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_18
+      rect:
+        serializedVersion: 2
+        x: 7998
+        y: 7620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_19
+      rect:
+        serializedVersion: 2
+        x: 9331
+        y: 7620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_20
+      rect:
+        serializedVersion: 2
+        x: 10664
+        y: 7620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_21
+      rect:
+        serializedVersion: 2
+        x: 11997
+        y: 7620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_22
+      rect:
+        serializedVersion: 2
+        x: 13330
+        y: 7620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_23
+      rect:
+        serializedVersion: 2
+        x: 14663
+        y: 7620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_25
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 6870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_26
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 6870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_27
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 6870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_28
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 6870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_29
+      rect:
+        serializedVersion: 2
+        x: 6665
+        y: 6870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_30
+      rect:
+        serializedVersion: 2
+        x: 7998
+        y: 6870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_31
+      rect:
+        serializedVersion: 2
+        x: 9331
+        y: 6870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_32
+      rect:
+        serializedVersion: 2
+        x: 10664
+        y: 6870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_33
+      rect:
+        serializedVersion: 2
+        x: 11997
+        y: 6870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_34
+      rect:
+        serializedVersion: 2
+        x: 13330
+        y: 6870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_35
+      rect:
+        serializedVersion: 2
+        x: 14663
+        y: 6870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_37
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 6120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_38
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 6120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_39
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 6120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_40
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 6120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_41
+      rect:
+        serializedVersion: 2
+        x: 6665
+        y: 6120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_42
+      rect:
+        serializedVersion: 2
+        x: 7998
+        y: 6120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_43
+      rect:
+        serializedVersion: 2
+        x: 9331
+        y: 6120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_44
+      rect:
+        serializedVersion: 2
+        x: 10664
+        y: 6120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_45
+      rect:
+        serializedVersion: 2
+        x: 11997
+        y: 6120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_46
+      rect:
+        serializedVersion: 2
+        x: 13330
+        y: 6120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_47
+      rect:
+        serializedVersion: 2
+        x: 14663
+        y: 6120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_49
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 5370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_50
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 5370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_51
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 5370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_52
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 5370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_53
+      rect:
+        serializedVersion: 2
+        x: 6665
+        y: 5370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_54
+      rect:
+        serializedVersion: 2
+        x: 7998
+        y: 5370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_55
+      rect:
+        serializedVersion: 2
+        x: 9331
+        y: 5370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_56
+      rect:
+        serializedVersion: 2
+        x: 10664
+        y: 5370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_57
+      rect:
+        serializedVersion: 2
+        x: 11997
+        y: 5370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_58
+      rect:
+        serializedVersion: 2
+        x: 13330
+        y: 5370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_59
+      rect:
+        serializedVersion: 2
+        x: 14663
+        y: 5370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_61
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 4620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_62
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 4620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_63
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 4620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_64
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 4620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_65
+      rect:
+        serializedVersion: 2
+        x: 6665
+        y: 4620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_66
+      rect:
+        serializedVersion: 2
+        x: 7998
+        y: 4620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_67
+      rect:
+        serializedVersion: 2
+        x: 9331
+        y: 4620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_68
+      rect:
+        serializedVersion: 2
+        x: 10664
+        y: 4620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_69
+      rect:
+        serializedVersion: 2
+        x: 11997
+        y: 4620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_70
+      rect:
+        serializedVersion: 2
+        x: 13330
+        y: 4620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_71
+      rect:
+        serializedVersion: 2
+        x: 14663
+        y: 4620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_73
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 3870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_74
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 3870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_75
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 3870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_76
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 3870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_77
+      rect:
+        serializedVersion: 2
+        x: 6665
+        y: 3870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_78
+      rect:
+        serializedVersion: 2
+        x: 7998
+        y: 3870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_79
+      rect:
+        serializedVersion: 2
+        x: 9331
+        y: 3870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_80
+      rect:
+        serializedVersion: 2
+        x: 10664
+        y: 3870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_81
+      rect:
+        serializedVersion: 2
+        x: 11997
+        y: 3870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_82
+      rect:
+        serializedVersion: 2
+        x: 13330
+        y: 3870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_83
+      rect:
+        serializedVersion: 2
+        x: 14663
+        y: 3870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_85
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 3120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_86
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 3120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_87
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 3120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_88
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 3120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_89
+      rect:
+        serializedVersion: 2
+        x: 6665
+        y: 3120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_90
+      rect:
+        serializedVersion: 2
+        x: 7998
+        y: 3120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_91
+      rect:
+        serializedVersion: 2
+        x: 9331
+        y: 3120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_92
+      rect:
+        serializedVersion: 2
+        x: 10664
+        y: 3120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_93
+      rect:
+        serializedVersion: 2
+        x: 11997
+        y: 3120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_94
+      rect:
+        serializedVersion: 2
+        x: 13330
+        y: 3120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_95
+      rect:
+        serializedVersion: 2
+        x: 14663
+        y: 3120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_97
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 2370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_98
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 2370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_99
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 2370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_100
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 2370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_101
+      rect:
+        serializedVersion: 2
+        x: 6665
+        y: 2370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_102
+      rect:
+        serializedVersion: 2
+        x: 7998
+        y: 2370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_103
+      rect:
+        serializedVersion: 2
+        x: 9331
+        y: 2370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_104
+      rect:
+        serializedVersion: 2
+        x: 10664
+        y: 2370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_105
+      rect:
+        serializedVersion: 2
+        x: 11997
+        y: 2370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_106
+      rect:
+        serializedVersion: 2
+        x: 13330
+        y: 2370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_107
+      rect:
+        serializedVersion: 2
+        x: 14663
+        y: 2370
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_109
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_110
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 1620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_111
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 1620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_112
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 1620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_113
+      rect:
+        serializedVersion: 2
+        x: 6665
+        y: 1620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_114
+      rect:
+        serializedVersion: 2
+        x: 7998
+        y: 1620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_115
+      rect:
+        serializedVersion: 2
+        x: 9331
+        y: 1620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_116
+      rect:
+        serializedVersion: 2
+        x: 10664
+        y: 1620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_117
+      rect:
+        serializedVersion: 2
+        x: 11997
+        y: 1620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_118
+      rect:
+        serializedVersion: 2
+        x: 13330
+        y: 1620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_119
+      rect:
+        serializedVersion: 2
+        x: 14663
+        y: 1620
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_121
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_122
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_123
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_124
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_125
+      rect:
+        serializedVersion: 2
+        x: 6665
+        y: 870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_126
+      rect:
+        serializedVersion: 2
+        x: 7998
+        y: 870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_127
+      rect:
+        serializedVersion: 2
+        x: 9331
+        y: 870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_128
+      rect:
+        serializedVersion: 2
+        x: 10664
+        y: 870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_129
+      rect:
+        serializedVersion: 2
+        x: 11997
+        y: 870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_130
+      rect:
+        serializedVersion: 2
+        x: 13330
+        y: 870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_131
+      rect:
+        serializedVersion: 2
+        x: 14663
+        y: 870
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_133
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_134
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_135
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_136
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_137
+      rect:
+        serializedVersion: 2
+        x: 6665
+        y: 120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_138
+      rect:
+        serializedVersion: 2
+        x: 7998
+        y: 120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_139
+      rect:
+        serializedVersion: 2
+        x: 9331
+        y: 120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_140
+      rect:
+        serializedVersion: 2
+        x: 10664
+        y: 120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_141
+      rect:
+        serializedVersion: 2
+        x: 11997
+        y: 120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_142
+      rect:
+        serializedVersion: 2
+        x: 13330
+        y: 120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: caballo_143
+      rect:
+        serializedVersion: 2
+        x: 14663
+        y: 120
+        width: 533.3333
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
